@@ -217,6 +217,52 @@
                 grid-template-columns: 1fr 1fr;
             }
         }
+        .help-icon {
+            display: inline-block;
+            width: 18px;
+            height: 18px;
+            background: #0073e6;
+            color: white;
+            border-radius: 50%;
+            text-align: center;
+            font-size: 12px;
+            font-weight: bold;
+            margin-left: 8px;
+            cursor: help;
+            position: relative;
+        }
+        .help-tooltip {
+            visibility: hidden;
+            width: 250px;
+            background-color: #333;
+            color: #fff;
+            text-align: left;
+            border-radius: 6px;
+            padding: 10px;
+            position: absolute;
+            z-index: 1000;
+            bottom: 125%;
+            left: 50%;
+            margin-left: -125px;
+            opacity: 0;
+            transition: opacity 0.3s;
+            font-size: 12px;
+            line-height: 1.4;
+        }
+        .help-tooltip::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #333 transparent transparent transparent;
+        }
+        .help-icon:hover .help-tooltip {
+            visibility: visible;
+            opacity: 1;
+        }
     </style>
 </head>
 <body>
@@ -258,13 +304,11 @@
             </div>
             
             <div class="control-group">
-                <label for="nodeThreshold">📊 Node Threshold:</label>
+                <label for="nodeThreshold">📊 Max Nodes <span class="help-icon">?<span class="help-tooltip">Controls how many nodes to display. Shows the top N nodes ranked by degree (number of connections). Higher degree = more connected/important nodes.</span></span>:</label>
                 <select id="nodeThreshold">
-                    <option value="1">Show nodes with 1+ connections</option>
-                    <option value="100" selected>Show nodes with 100+ connections</option>
-                    <option value="5">Show nodes with 5+ connections</option>
-                    <option value="10">Show nodes with 10+ connections</option>
-                    <option value="20">Show nodes with 20+ connections</option>
+                    <option value="10">Top 10 nodes</option>
+                    <option value="25">Top 25 nodes</option>
+                    <option value="50" selected>Top 50 nodes</option>
                 </select>
             </div>
             
@@ -986,10 +1030,11 @@
         function updateVisualization() {
             if (!currentData) return;
             
-            const threshold = parseInt(document.getElementById('nodeThreshold').value);
+            const maxNodes = parseInt(document.getElementById('nodeThreshold').value);
             
-            // Filter nodes based on threshold
-            const filteredNodes = currentData.nodes.filter(node => node.degree >= threshold);
+            // Sort nodes by degree (descending) and take top N
+            const sortedNodes = [...currentData.nodes].sort((a, b) => b.degree - a.degree);
+            const filteredNodes = sortedNodes.slice(0, maxNodes);
             const nodeIds = new Set(filteredNodes.map(node => node.id));
             const filteredLinks = currentData.links.filter(link => 
                 nodeIds.has(link.source.id || link.source) && 

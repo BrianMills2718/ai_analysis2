@@ -181,6 +181,52 @@
         .explore-btn:hover {
             background: #0056b3;
         }
+        .help-icon {
+            display: inline-block;
+            width: 18px;
+            height: 18px;
+            background: #0073e6;
+            color: white;
+            border-radius: 50%;
+            text-align: center;
+            font-size: 12px;
+            font-weight: bold;
+            margin-left: 8px;
+            cursor: help;
+            position: relative;
+        }
+        .help-tooltip {
+            visibility: hidden;
+            width: 300px;
+            background-color: #333;
+            color: #fff;
+            text-align: left;
+            border-radius: 6px;
+            padding: 10px;
+            position: absolute;
+            z-index: 1000;
+            bottom: 125%;
+            left: 50%;
+            margin-left: -150px;
+            opacity: 0;
+            transition: opacity 0.3s;
+            font-size: 14px;
+            line-height: 1.4;
+        }
+        .help-tooltip::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #333 transparent transparent transparent;
+        }
+        .help-icon:hover .help-tooltip {
+            visibility: visible;
+            opacity: 1;
+        }
     </style>
 </head>
 <body>
@@ -207,7 +253,7 @@
             <p>The dashboard provides six integrated views: this research report, methods analysis, AI analysis, cross-analyses, full interactive dashboard with multi-dimensional filtering, and network visualizations showing research relationships across authors, methods, AI technologies, and organizational units.</p>
         </div>
 
-        <h2>Data Sources</h2>
+        <h2>Data Sources <span class="help-icon">?<span class="help-tooltip">This analysis combines two complementary RAND datasets: full-text documents from AskRAND and rich metadata from the RAND API. Understanding both sources is key to interpreting the results.</span></span></h2>
         
         <h3>Two Primary Data Sources</h3>
         
@@ -234,7 +280,7 @@
 
         <p><strong>Key Distinction</strong>: AskRAND has full document text but limited metadata. RAND API has rich metadata but no full text content.</p>
 
-        <h2>Data Processing Steps</h2>
+        <h2>Data Processing Steps <span class="help-icon">?<span class="help-tooltip">Shows the systematic process used to extract research methods and AI technologies from documents. The 86.2% retention rate indicates high data quality with minimal loss during processing.</span></span></h2>
 
         <table>
             <thead>

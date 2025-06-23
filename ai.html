@@ -162,6 +162,71 @@
                 grid-template-columns: 1fr;
             }
         }
+        .help-icon {
+            display: inline-block;
+            width: 18px;
+            height: 18px;
+            background: #dc3545;
+            color: white;
+            border-radius: 50%;
+            text-align: center;
+            font-size: 12px;
+            font-weight: bold;
+            margin-left: 8px;
+            cursor: help;
+            position: relative;
+        }
+        .help-tooltip {
+            visibility: hidden;
+            width: 300px;
+            background-color: #333;
+            color: #fff;
+            text-align: left;
+            border-radius: 6px;
+            padding: 10px;
+            position: absolute;
+            z-index: 1000;
+            bottom: 125%;
+            left: 50%;
+            margin-left: -150px;
+            opacity: 0;
+            transition: opacity 0.3s;
+            font-size: 14px;
+            line-height: 1.4;
+        }
+        .help-tooltip::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #333 transparent transparent transparent;
+        }
+        .help-icon:hover .help-tooltip {
+            visibility: visible;
+            opacity: 1;
+        }
+        .expandable-table {
+            position: relative;
+        }
+        .table-expand-btn {
+            background: #dc3545;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 10px 0;
+            font-size: 14px;
+        }
+        .table-expand-btn:hover {
+            background: #c82333;
+        }
+        .table-rows-hidden {
+            display: none;
+        }
     </style>
 </head>
 <body>
@@ -201,7 +266,7 @@
 
         <!-- AI Adoption Growth -->
         <div class="section">
-            <h2>📈 AI Adoption Growth</h2>
+            <h2>📈 AI Adoption Growth <span class="help-icon">?<span class="help-tooltip">Tracks AI technology adoption across RAND research from 2020-2025. AI technologies were identified through content analysis of full document text.</span></span></h2>
             <div class="chart-container">
                 <div class="chart-card">
                     <h3>AI Usage Growth Over Time</h3>
@@ -276,7 +341,7 @@
 
         <!-- AI Technologies -->
         <div class="section">
-            <h2>🧠 AI Technologies Used</h2>
+            <h2>🧠 AI Technologies Used <span class="help-icon">?<span class="help-tooltip">Analysis of specific AI technologies mentioned in RAND research. Shows which technologies are most commonly used and how they're growing over time.</span></span></h2>
             <div class="chart-container">
                 <div class="chart-card">
                     <h3>Top AI Technologies</h3>
@@ -393,7 +458,7 @@
 
         <!-- AI by Organization -->
         <div class="section">
-            <h2>🏢 AI Adoption by Organization</h2>
+            <h2>🏢 AI Adoption by Organization <span class="help-icon">?<span class="help-tooltip">Shows which RAND divisions and units are leading in AI adoption. Based on AI technology usage in their published research.</span></span></h2>
             <div class="chart-container">
                 <div class="chart-card">
                     <h3>AI Usage Rate by RAND Unit</h3>
@@ -468,7 +533,7 @@
 
         <!-- AI Leaders -->
         <div class="section">
-            <h2>👑 AI Research Leaders</h2>
+            <h2>👑 AI Research Leaders <span class="help-icon">?<span class="help-tooltip">Identifies researchers with the highest AI technology usage in their publications. Shows emerging leaders in AI-enhanced research at RAND.</span></span></h2>
             <div class="chart-container">
                 <div class="chart-card">
                     <h3>Top AI Researchers</h3>
@@ -536,6 +601,19 @@
     </div>
 
     <script>
+        // Table expansion functionality
+        function toggleTable(button) {
+            const table = button.parentElement;
+            const hiddenRows = table.querySelectorAll('.table-rows-hidden');
+            const isExpanded = button.textContent.includes('Show Less');
+            
+            hiddenRows.forEach(row => {
+                row.style.display = isExpanded ? 'none' : 'table-row';
+            });
+            
+            button.textContent = isExpanded ? 'Show All AI Technologies' : 'Show Less Technologies';
+        }
+
         // Chart configurations and data
         const chartColors = {
             primary: '#dc3545',
@@ -617,14 +695,13 @@
                 }]
             },
             options: {
+                indexAxis: 'y',
                 responsive: true,
                 maintainAspectRatio: false,
                 scales: {
                     x: {
                         beginAtZero: true
                     }
-                },
-                indexAxis: 'y'
                 }
             }
         });
@@ -692,14 +769,13 @@
                 }]
             },
             options: {
+                indexAxis: 'y',
                 responsive: true,
                 maintainAspectRatio: false,
                 scales: {
                     x: {
                         beginAtZero: true
                     }
-                },
-                indexAxis: 'y'
                 }
             }
         });
@@ -716,14 +792,13 @@
                 }]
             },
             options: {
+                indexAxis: 'y',
                 responsive: true,
                 maintainAspectRatio: false,
                 scales: {
                     x: {
                         beginAtZero: true
                     }
-                },
-                indexAxis: 'y'
                 }
             }
         });

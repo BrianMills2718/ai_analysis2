@@ -152,6 +152,71 @@
             opacity: 0.9;
             font-size: 1em;
         }
+        .help-icon {
+            display: inline-block;
+            width: 18px;
+            height: 18px;
+            background: #0073e6;
+            color: white;
+            border-radius: 50%;
+            text-align: center;
+            font-size: 12px;
+            font-weight: bold;
+            margin-left: 8px;
+            cursor: help;
+            position: relative;
+        }
+        .help-tooltip {
+            visibility: hidden;
+            width: 300px;
+            background-color: #333;
+            color: #fff;
+            text-align: left;
+            border-radius: 6px;
+            padding: 10px;
+            position: absolute;
+            z-index: 1000;
+            bottom: 125%;
+            left: 50%;
+            margin-left: -150px;
+            opacity: 0;
+            transition: opacity 0.3s;
+            font-size: 14px;
+            line-height: 1.4;
+        }
+        .help-tooltip::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #333 transparent transparent transparent;
+        }
+        .help-icon:hover .help-tooltip {
+            visibility: visible;
+            opacity: 1;
+        }
+        .expandable-table {
+            position: relative;
+        }
+        .table-expand-btn {
+            background: #0073e6;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 10px 0;
+            font-size: 14px;
+        }
+        .table-expand-btn:hover {
+            background: #0056b3;
+        }
+        .table-rows-hidden {
+            display: none;
+        }
     </style>
 </head>
 <body>
@@ -191,7 +256,7 @@
 
         <!-- Core Methods Analysis -->
         <div class="section">
-            <h2>🎯 Core Research Methods</h2>
+            <h2>🎯 Core Research Methods <span class="help-icon">?<span class="help-tooltip">This section shows the most frequently used research methods across all RAND publications from 2020-2025. Methods were extracted using AI analysis of document content.</span></span></h2>
             <div class="chart-container">
                 <div class="chart-card">
                     <h3>Top 10 Research Methods</h3>
@@ -207,80 +272,97 @@
                 </div>
             </div>
             
-            <table class="data-table">
-                <thead>
-                    <tr>
-                        <th>Research Method</th>
-                        <th>Documents</th>
-                        <th>% of Total</th>
-                        <th>Category</th>
-                        <th>Description</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td><strong>Literature Review</strong></td>
-                        <td class="highlight-number">909</td>
-                        <td class="percentage">40.8%</td>
-                        <td>Literature Analysis</td>
-                        <td>Systematic examination of existing research</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Statistical Analysis</strong></td>
-                        <td class="highlight-number">688</td>
-                        <td class="percentage">30.9%</td>
-                        <td>Data Collection</td>
-                        <td>Application of statistical techniques to data</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Interviews</strong></td>
-                        <td class="highlight-number">391</td>
-                        <td class="percentage">17.5%</td>
-                        <td>Qualitative Analysis</td>
-                        <td>Structured conversations with experts/stakeholders</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Comparative Analysis</strong></td>
-                        <td class="highlight-number">307</td>
-                        <td class="percentage">13.8%</td>
-                        <td>Other</td>
-                        <td>Systematic comparison across cases or policies</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Surveys</strong></td>
-                        <td class="highlight-number">195</td>
-                        <td class="percentage">8.7%</td>
-                        <td>Data Collection</td>
-                        <td>Structured data collection from populations</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Case Study Analysis</strong></td>
-                        <td class="highlight-number">188</td>
-                        <td class="percentage">8.4%</td>
-                        <td>Qualitative Analysis</td>
-                        <td>In-depth examination of specific examples</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Data Analysis</strong></td>
-                        <td class="highlight-number">177</td>
-                        <td class="percentage">7.9%</td>
-                        <td>Data Collection</td>
-                        <td>General analytical processing of datasets</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Document Analysis</strong></td>
-                        <td class="highlight-number">172</td>
-                        <td class="percentage">7.7%</td>
-                        <td>Qualitative Analysis</td>
-                        <td>Systematic review of written materials</td>
-                    </tr>
-                </tbody>
-            </table>
+            <div class="expandable-table">
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>Research Method <span class="help-icon">?<span class="help-tooltip">Methods identified through AI analysis of full document text. Numbers represent frequency of use across 2,230 documents.</span></span></th>
+                            <th>Documents</th>
+                            <th>% of Total</th>
+                            <th>Category</th>
+                            <th>Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Literature Review</strong></td>
+                            <td class="highlight-number">909</td>
+                            <td class="percentage">40.8%</td>
+                            <td>Literature Analysis</td>
+                            <td>Systematic examination of existing research</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Statistical Analysis</strong></td>
+                            <td class="highlight-number">688</td>
+                            <td class="percentage">30.9%</td>
+                            <td>Data Collection</td>
+                            <td>Application of statistical techniques to data</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Interviews</strong></td>
+                            <td class="highlight-number">391</td>
+                            <td class="percentage">17.5%</td>
+                            <td>Qualitative Analysis</td>
+                            <td>Structured conversations with experts/stakeholders</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Comparative Analysis</strong></td>
+                            <td class="highlight-number">307</td>
+                            <td class="percentage">13.8%</td>
+                            <td>Other</td>
+                            <td>Systematic comparison across cases or policies</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Surveys</strong></td>
+                            <td class="highlight-number">195</td>
+                            <td class="percentage">8.7%</td>
+                            <td>Data Collection</td>
+                            <td>Structured data collection from populations</td>
+                        </tr>
+                        <tr class="table-rows-hidden">
+                            <td><strong>Case Study Analysis</strong></td>
+                            <td class="highlight-number">188</td>
+                            <td class="percentage">8.4%</td>
+                            <td>Qualitative Analysis</td>
+                            <td>In-depth examination of specific examples</td>
+                        </tr>
+                        <tr class="table-rows-hidden">
+                            <td><strong>Data Analysis</strong></td>
+                            <td class="highlight-number">177</td>
+                            <td class="percentage">7.9%</td>
+                            <td>Data Collection</td>
+                            <td>General analytical processing of datasets</td>
+                        </tr>
+                        <tr class="table-rows-hidden">
+                            <td><strong>Document Analysis</strong></td>
+                            <td class="highlight-number">172</td>
+                            <td class="percentage">7.7%</td>
+                            <td>Qualitative Analysis</td>
+                            <td>Systematic review of written materials</td>
+                        </tr>
+                        <tr class="table-rows-hidden">
+                            <td><strong>Simulation</strong></td>
+                            <td class="highlight-number">145</td>
+                            <td class="percentage">6.5%</td>
+                            <td>Simulation & Modeling</td>
+                            <td>Computer-based modeling and simulation studies</td>
+                        </tr>
+                        <tr class="table-rows-hidden">
+                            <td><strong>Cost Analysis</strong></td>
+                            <td class="highlight-number">112</td>
+                            <td class="percentage">5.0%</td>
+                            <td>Economic Analysis</td>
+                            <td>Analysis of costs and economic impacts</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <button class="table-expand-btn" onclick="toggleTable(this)">Show All Methods (25 total)</button>
+            </div>
         </div>
 
         <!-- Temporal Analysis -->
         <div class="section">
-            <h2>📈 Method Evolution Over Time</h2>
+            <h2>📈 Method Evolution Over Time <span class="help-icon">?<span class="help-tooltip">Shows how research method usage has changed from 2020-2025, including trends in traditional vs. emerging computational methods.</span></span></h2>
             <div class="chart-container">
                 <div class="chart-card">
                     <h3>Method Usage Trends (2020-2025)</h3>
@@ -289,7 +371,7 @@
                     </div>
                 </div>
                 <div class="chart-card">
-                    <h3>Emerging vs Traditional Methods</h3>
+                    <h3>Method Categories</h3>
                     <div class="chart-wrapper">
                         <canvas id="emergingMethodsChart"></canvas>
                     </div>
@@ -299,7 +381,7 @@
 
         <!-- Method Specialization -->
         <div class="section">
-            <h2>👥 Method Expertise & Specialization</h2>
+            <h2>👥 Method Expertise & Specialization <span class="help-icon">?<span class="help-tooltip">Identifies leading experts for each research method based on frequency of use in their publications. Shows which researchers specialize in specific methodological approaches.</span></span></h2>
             <div class="chart-container">
                 <div class="chart-card">
                     <h3>Leading Method Experts</h3>
@@ -308,7 +390,7 @@
                     </div>
                 </div>
                 <div class="chart-card">
-                    <h3>Author Specialization Distribution</h3>
+                    <h3>Top Methods Usage</h3>
                     <div class="chart-wrapper">
                         <canvas id="specializationChart"></canvas>
                     </div>
@@ -367,6 +449,19 @@
     </div>
 
     <script>
+        // Table expansion functionality
+        function toggleTable(button) {
+            const table = button.parentElement;
+            const hiddenRows = table.querySelectorAll('.table-rows-hidden');
+            const isExpanded = button.textContent.includes('Show Less');
+            
+            hiddenRows.forEach(row => {
+                row.style.display = isExpanded ? 'none' : 'table-row';
+            });
+            
+            button.textContent = isExpanded ? 'Show All Methods (25 total)' : 'Show Less Methods';
+        }
+
         // Chart configurations and data
         const chartColors = {
             primary: '#0073e6',
@@ -470,24 +565,22 @@
             }
         });
 
-        // Emerging Methods Chart
+        // Method Categories Chart
         new Chart(document.getElementById('emergingMethodsChart'), {
-            type: 'bar',
+            type: 'doughnut',
             data: {
-                labels: ['Traditional Methods', 'Computational Methods', 'AI-Enhanced Methods', 'Digital Methods'],
+                labels: ['Data Collection', 'Qualitative Analysis', 'Literature Analysis', 'Simulation & Modeling', 'Other'],
                 datasets: [{
-                    label: 'Usage Growth (%)',
-                    data: [85, 125, 180, 150],
-                    backgroundColor: [chartColors.secondary, chartColors.primary, chartColors.success, chartColors.warning]
+                    data: [1060, 751, 909, 174, 260],
+                    backgroundColor: [chartColors.primary, chartColors.secondary, chartColors.success, chartColors.warning, chartColors.info]
                 }]
             },
             options: {
                 responsive: true,
                 maintainAspectRatio: false,
-                scales: {
-                    y: {
-                        beginAtZero: true,
-                        max: 200
+                plugins: {
+                    legend: {
+                        position: 'bottom'
                     }
                 }
             }
@@ -516,22 +609,23 @@
             }
         });
 
-        // Specialization Chart
+        // Top Methods Usage Chart
         new Chart(document.getElementById('specializationChart'), {
-            type: 'pie',
+            type: 'bar',
             data: {
-                labels: ['Specialists (1-2 methods)', 'Generalists (3-5 methods)', 'Multi-specialists (6+ methods)'],
+                labels: ['Literature Review', 'Statistical Analysis', 'Interviews', 'Comparative Analysis', 'Surveys'],
                 datasets: [{
-                    data: [65, 28, 7],
-                    backgroundColor: [chartColors.primary, chartColors.secondary, chartColors.success]
+                    label: 'Documents',
+                    data: [909, 688, 391, 307, 195],
+                    backgroundColor: chartColors.primary
                 }]
             },
             options: {
                 responsive: true,
                 maintainAspectRatio: false,
-                plugins: {
-                    legend: {
-                        position: 'bottom'
+                scales: {
+                    y: {
+                        beginAtZero: true
                     }
                 }
             }

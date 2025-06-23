@@ -140,6 +140,71 @@
                 grid-template-columns: 1fr;
             }
         }
+        .help-icon {
+            display: inline-block;
+            width: 18px;
+            height: 18px;
+            background: #28a745;
+            color: white;
+            border-radius: 50%;
+            text-align: center;
+            font-size: 12px;
+            font-weight: bold;
+            margin-left: 8px;
+            cursor: help;
+            position: relative;
+        }
+        .help-tooltip {
+            visibility: hidden;
+            width: 300px;
+            background-color: #333;
+            color: #fff;
+            text-align: left;
+            border-radius: 6px;
+            padding: 10px;
+            position: absolute;
+            z-index: 1000;
+            bottom: 125%;
+            left: 50%;
+            margin-left: -150px;
+            opacity: 0;
+            transition: opacity 0.3s;
+            font-size: 14px;
+            line-height: 1.4;
+        }
+        .help-tooltip::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #333 transparent transparent transparent;
+        }
+        .help-icon:hover .help-tooltip {
+            visibility: visible;
+            opacity: 1;
+        }
+        .expandable-table {
+            position: relative;
+        }
+        .table-expand-btn {
+            background: #28a745;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 10px 0;
+            font-size: 14px;
+        }
+        .table-expand-btn:hover {
+            background: #218838;
+        }
+        .table-rows-hidden {
+            display: none;
+        }
     </style>
 </head>
 <body>
@@ -160,7 +225,7 @@
 
         <!-- Methods by Organization -->
         <div class="section">
-            <h2>🏢 Methods × Organizations</h2>
+            <h2>🏢 Methods × Organizations <span class="help-icon">?<span class="help-tooltip">Analysis of how different RAND organizational units specialize in specific research methods. Shows methodological signatures and diversity by division.</span></span></h2>
             <div class="chart-container">
                 <div class="chart-card">
                     <h3>Organizational Method Signatures</h3>
@@ -169,7 +234,7 @@
                     </div>
                 </div>
                 <div class="chart-card">
-                    <h3>Method Diversity by Unit</h3>
+                    <h3>Methods Count by Organization</h3>
                     <div class="chart-wrapper">
                         <canvas id="methodDiversityChart"></canvas>
                     </div>
@@ -267,7 +332,7 @@
 
         <!-- Methods by Topics -->
         <div class="section">
-            <h2>🎯 Methods × Research Topics</h2>
+            <h2>🎯 Methods × Research Topics <span class="help-icon">?<span class="help-tooltip">Shows which research methods are most commonly used for different topic areas. Reveals methodological preferences across research domains.</span></span></h2>
             <div class="chart-container">
                 <div class="chart-card">
                     <h3>Method Usage by Research Domain</h3>
@@ -276,7 +341,7 @@
                     </div>
                 </div>
                 <div class="chart-card">
-                    <h3>Topic-Method Fit Analysis</h3>
+                    <h3>Methods by Topic Area</h3>
                     <div class="chart-wrapper">
                         <canvas id="topicMethodFitChart"></canvas>
                     </div>
@@ -289,8 +354,7 @@
                         <th>Research Topic</th>
                         <th>Primary Method</th>
                         <th>Secondary Method</th>
-                        <th>AI Integration Rate</th>
-                        <th>Methodological Complexity</th>
+                        <th>Documents</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -298,43 +362,37 @@
                         <td><strong>United States Air Force</strong></td>
                         <td>Statistical Analysis</td>
                         <td>Simulation</td>
-                        <td class="percentage">28%</td>
-                        <td>High</td>
+                        <td class="highlight-number">45</td>
                     </tr>
                     <tr>
                         <td><strong>China</strong></td>
                         <td>Literature Review</td>
                         <td>Comparative Analysis</td>
-                        <td class="percentage">15%</td>
-                        <td>Medium</td>
+                        <td class="highlight-number">38</td>
                     </tr>
                     <tr>
                         <td><strong>COVID-19</strong></td>
                         <td>Statistical Analysis</td>
                         <td>Surveys</td>
-                        <td class="percentage">22%</td>
-                        <td>High</td>
+                        <td class="highlight-number">32</td>
                     </tr>
                     <tr>
                         <td><strong>United States Army</strong></td>
                         <td>Literature Review</td>
                         <td>Interviews</td>
-                        <td class="percentage">18%</td>
-                        <td>Medium</td>
+                        <td class="highlight-number">28</td>
                     </tr>
                     <tr>
                         <td><strong>Teachers and Teaching</strong></td>
                         <td>Surveys</td>
                         <td>Interviews</td>
-                        <td class="percentage">12%</td>
-                        <td>Medium</td>
+                        <td class="highlight-number">25</td>
                     </tr>
                     <tr>
                         <td><strong>Artificial Intelligence</strong></td>
                         <td>Literature Review</td>
                         <td>Case Study</td>
-                        <td class="percentage">89%</td>
-                        <td>Very High</td>
+                        <td class="highlight-number">22</td>
                     </tr>
                 </tbody>
             </table>
@@ -342,7 +400,7 @@
 
         <!-- AI Integration Analysis -->
         <div class="section">
-            <h2>🤖 AI × Methods Integration</h2>
+            <h2>🤖 AI × Methods Integration <span class="help-icon">?<span class="help-tooltip">Examines how AI technologies are being integrated with traditional research methods. Shows which method-AI combinations are most effective and common.</span></span></h2>
             <div class="chart-container">
                 <div class="chart-card">
                     <h3>AI Integration by Method Type</h3>
@@ -447,76 +505,22 @@
             </div>
         </div>
 
-        <!-- Author Expertise Analysis -->
-        <div class="section">
-            <h2>👥 Authors × Methods × AI</h2>
-            <div class="chart-container">
-                <div class="chart-card">
-                    <h3>Top Authors by Method-AI Integration</h3>
-                    <div class="chart-wrapper">
-                        <canvas id="authorIntegrationChart"></canvas>
-                    </div>
-                </div>
-                <div class="chart-card">
-                    <h3>Research Collaboration Patterns</h3>
-                    <div class="chart-wrapper">
-                        <canvas id="collaborationChart"></canvas>
-                    </div>
-                </div>
-            </div>
-            
-            <table class="data-table">
-                <thead>
-                    <tr>
-                        <th>Author</th>
-                        <th>Primary Method</th>
-                        <th>AI Documents</th>
-                        <th>Total Documents</th>
-                        <th>AI Integration Rate</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td><strong>Jonathan H. Cantor</strong></td>
-                        <td>Statistical Analysis</td>
-                        <td class="highlight-number">8</td>
-                        <td>42</td>
-                        <td class="percentage">19.0%</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Stephanie Brooks Holliday</strong></td>
-                        <td>Literature Review</td>
-                        <td class="highlight-number">7</td>
-                        <td>68</td>
-                        <td class="percentage">10.3%</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Terry L. Schell</strong></td>
-                        <td>Statistical Analysis</td>
-                        <td class="highlight-number">6</td>
-                        <td>45</td>
-                        <td class="percentage">13.3%</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Bradley D. Stein</strong></td>
-                        <td>Literature Review</td>
-                        <td class="highlight-number">5</td>
-                        <td>38</td>
-                        <td class="percentage">13.2%</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Rosanna Smart</strong></td>
-                        <td>Data Analysis</td>
-                        <td class="highlight-number">4</td>
-                        <td>24</td>
-                        <td class="percentage">16.7%</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
     </div>
 
     <script>
+        // Table expansion functionality
+        function toggleTable(button) {
+            const table = button.parentElement;
+            const hiddenRows = table.querySelectorAll('.table-rows-hidden');
+            const isExpanded = button.textContent.includes('Show Less');
+            
+            hiddenRows.forEach(row => {
+                row.style.display = isExpanded ? 'none' : 'table-row';
+            });
+            
+            button.textContent = isExpanded ? 'Show All Results' : 'Show Less Results';
+        }
+
         // Chart configurations and data
         const chartColors = {
             primary: '#28a745',
@@ -561,33 +565,24 @@
             }
         });
 
-        // Method Diversity Chart
+        // Methods Count by Organization
         new Chart(document.getElementById('methodDiversityChart'), {
-            type: 'radar',
+            type: 'bar',
             data: {
-                labels: ['Quantitative', 'Qualitative', 'Mixed Methods', 'Computational', 'Theoretical', 'Applied'],
-                datasets: [
-                    {
-                        label: 'Project AIR FORCE',
-                        data: [90, 30, 60, 80, 40, 95],
-                        borderColor: chartColors.primary,
-                        backgroundColor: chartColors.primary + '20'
-                    },
-                    {
-                        label: 'HSOAC',
-                        data: [60, 85, 90, 50, 30, 80],
-                        borderColor: chartColors.secondary,
-                        backgroundColor: chartColors.secondary + '20'
-                    }
-                ]
+                labels: ['Project AIR FORCE', 'HSOAC', 'RAND Europe', 'Arroyo Center', 'NDRI'],
+                datasets: [{
+                    label: 'Total Methods Used',
+                    data: [12, 15, 18, 10, 14],
+                    backgroundColor: chartColors.tertiary
+                }]
             },
             options: {
                 responsive: true,
                 maintainAspectRatio: false,
                 scales: {
-                    r: {
+                    y: {
                         beginAtZero: true,
-                        max: 100
+                        max: 20
                     }
                 }
             }
@@ -617,37 +612,23 @@
             }
         });
 
-        // Topic-Method Fit Chart
+        // Methods by Topic Chart  
         new Chart(document.getElementById('topicMethodFitChart'), {
-            type: 'scatter',
+            type: 'bar',
             data: {
+                labels: ['Defense', 'Health', 'Education', 'International', 'Economics', 'AI Research'],
                 datasets: [{
-                    label: 'Topic-Method Combinations',
-                    data: [
-                        {x: 85, y: 28, label: 'Defense-Statistical'},
-                        {x: 70, y: 22, label: 'Health-Surveys'},
-                        {x: 60, y: 15, label: 'Education-Interviews'},
-                        {x: 45, y: 12, label: 'International-Literature'},
-                        {x: 90, y: 35, label: 'AI-Mixed Methods'}
-                    ],
-                    backgroundColor: chartColors.primary
+                    label: 'Documents',
+                    data: [385, 420, 315, 280, 225, 185],
+                    backgroundColor: chartColors.secondary
                 }]
             },
             options: {
                 responsive: true,
                 maintainAspectRatio: false,
                 scales: {
-                    x: {
-                        title: {
-                            display: true,
-                            text: 'Method Effectiveness Score'
-                        }
-                    },
                     y: {
-                        title: {
-                            display: true,
-                            text: 'Usage Frequency'
-                        }
+                        beginAtZero: true
                     }
                 }
             }
@@ -704,92 +685,6 @@
             }
         });
 
-        // Author Integration Chart
-        new Chart(document.getElementById('authorIntegrationChart'), {
-            type: 'bubble',
-            data: {
-                datasets: [{
-                    label: 'Author AI Integration',
-                    data: [
-                        {x: 42, y: 19.0, r: 8},
-                        {x: 68, y: 10.3, r: 7},
-                        {x: 45, y: 13.3, r: 6},
-                        {x: 38, y: 13.2, r: 5},
-                        {x: 24, y: 16.7, r: 4}
-                    ],
-                    backgroundColor: chartColors.info + '60',
-                    borderColor: chartColors.info
-                }]
-            },
-            options: {
-                responsive: true,
-                maintainAspectRatio: false,
-                scales: {
-                    x: {
-                        title: {
-                            display: true,
-                            text: 'Total Documents'
-                        }
-                    },
-                    y: {
-                        title: {
-                            display: true,
-                            text: 'AI Integration Rate (%)'
-                        }
-                    }
-                }
-            }
-        });
-
-        // Collaboration Chart
-        new Chart(document.getElementById('collaborationChart'), {
-            type: 'line',
-            data: {
-                labels: ['Single Author', '2 Authors', '3-4 Authors', '5-7 Authors', '8+ Authors'],
-                datasets: [
-                    {
-                        label: 'AI Integration Rate',
-                        data: [8, 12, 18, 22, 35],
-                        borderColor: chartColors.danger,
-                        backgroundColor: chartColors.danger + '20'
-                    },
-                    {
-                        label: 'Method Diversity',
-                        data: [1.2, 1.5, 1.8, 2.1, 2.6],
-                        borderColor: chartColors.primary,
-                        backgroundColor: chartColors.primary + '20',
-                        yAxisID: 'y1'
-                    }
-                ]
-            },
-            options: {
-                responsive: true,
-                maintainAspectRatio: false,
-                scales: {
-                    y: {
-                        type: 'linear',
-                        display: true,
-                        position: 'left',
-                        title: {
-                            display: true,
-                            text: 'AI Integration Rate (%)'
-                        }
-                    },
-                    y1: {
-                        type: 'linear',
-                        display: true,
-                        position: 'right',
-                        title: {
-                            display: true,
-                            text: 'Average Methods per Document'
-                        },
-                        grid: {
-                            drawOnChartArea: false
-                        }
-                    }
-                }
-            }
-        });
     </script>
 </body>
 </html>

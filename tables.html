@@ -336,15 +336,15 @@
             <h2>🔬 Research Methods Analysis</h2>
             <div class="chart-container">
                 <div class="chart-card">
-                    <h3>Top 10 Research Methods</h3>
+                    <h3>Most Common Research Methods</h3>
                     <div class="chart-wrapper">
                         <canvas id="methodsChart"></canvas>
                     </div>
                 </div>
                 <div class="chart-card">
-                    <h3>Method Categories</h3>
+                    <h3>Method Usage Over Time</h3>
                     <div class="chart-wrapper">
-                        <canvas id="methodCategoriesChart"></canvas>
+                        <canvas id="methodTimeChart"></canvas>
                     </div>
                 </div>
             </div>
@@ -402,89 +402,100 @@
             </table>
         </div>
 
-        <!-- Author Analysis -->
+        <!-- Methods by Organization -->
         <div class="section">
-            <h2>👥 Author Analysis</h2>
+            <h2>🏢 Methods by RAND Organization</h2>
             <div class="chart-container">
                 <div class="chart-card">
-                    <h3>Author Productivity Distribution</h3>
+                    <h3>Method Distribution by Unit</h3>
                     <div class="chart-wrapper">
-                        <canvas id="authorProductivityChart"></canvas>
+                        <canvas id="methodsByOrgChart"></canvas>
                     </div>
                 </div>
                 <div class="chart-card">
-                    <h3>Top 10 Most Productive Authors</h3>
+                    <h3>AI Usage by Organization</h3>
                     <div class="chart-wrapper">
-                        <canvas id="topAuthorsChart"></canvas>
+                        <canvas id="aiByOrgChart"></canvas>
                     </div>
                 </div>
             </div>
             
             <div class="grid-2col">
                 <div>
-                    <h3>Author Productivity Distribution</h3>
+                    <h3>Top Methods by Organization</h3>
                     <table class="data-table">
                         <thead>
                             <tr>
-                                <th>Documents Published</th>
-                                <th>Author Count</th>
-                                <th>Percentage</th>
+                                <th>Organization</th>
+                                <th>Primary Method</th>
+                                <th>Usage</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td><strong>1 document</strong></td>
-                                <td class="highlight-number">773</td>
-                                <td class="percentage">32.5%</td>
+                                <td><strong>Project AIR FORCE</strong></td>
+                                <td>Statistical Analysis</td>
+                                <td class="highlight-number">45</td>
                             </tr>
                             <tr>
-                                <td><strong>2-5 documents</strong></td>
-                                <td class="highlight-number">881</td>
-                                <td class="percentage">37.0%</td>
+                                <td><strong>NDRI</strong></td>
+                                <td>Literature Review</td>
+                                <td class="highlight-number">38</td>
                             </tr>
                             <tr>
-                                <td><strong>6-10 documents</strong></td>
-                                <td class="highlight-number">405</td>
-                                <td class="percentage">17.0%</td>
+                                <td><strong>American Educator Panels</strong></td>
+                                <td>Surveys</td>
+                                <td class="highlight-number">42</td>
                             </tr>
                             <tr>
-                                <td><strong>11+ documents</strong></td>
-                                <td class="highlight-number">323</td>
-                                <td class="percentage">13.6%</td>
+                                <td><strong>Arroyo Center</strong></td>
+                                <td>Comparative Analysis</td>
+                                <td class="highlight-number">28</td>
+                            </tr>
+                            <tr>
+                                <td><strong>HSOAC</strong></td>
+                                <td>Interviews</td>
+                                <td class="highlight-number">32</td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
                 
                 <div>
-                    <h3>Most Productive Authors</h3>
+                    <h3>AI Usage by Organization</h3>
                     <table class="data-table">
                         <thead>
                             <tr>
-                                <th>Author</th>
-                                <th>Documents</th>
+                                <th>Organization</th>
+                                <th>AI Documents</th>
+                                <th>AI Rate</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td><strong>Stephanie Brooks Holliday</strong></td>
-                                <td class="highlight-number">68</td>
+                                <td><strong>Project AIR FORCE</strong></td>
+                                <td class="highlight-number">18</td>
+                                <td class="percentage">25.0%</td>
                             </tr>
                             <tr>
-                                <td><strong>Melissa Kay Diliberti</strong></td>
-                                <td class="highlight-number">61</td>
+                                <td><strong>NDRI</strong></td>
+                                <td class="highlight-number">12</td>
+                                <td class="percentage">19.7%</td>
                             </tr>
                             <tr>
-                                <td><strong>Heather L. Schwartz</strong></td>
-                                <td class="highlight-number">60</td>
+                                <td><strong>HSOAC</strong></td>
+                                <td class="highlight-number">11</td>
+                                <td class="percentage">22.9%</td>
                             </tr>
                             <tr>
-                                <td><strong>Elizabeth D. Steiner</strong></td>
-                                <td class="highlight-number">58</td>
+                                <td><strong>RAND Europe</strong></td>
+                                <td class="highlight-number">8</td>
+                                <td class="percentage">19.0%</td>
                             </tr>
                             <tr>
-                                <td><strong>Julia H. Kaufman</strong></td>
-                                <td class="highlight-number">56</td>
+                                <td><strong>Arroyo Center</strong></td>
+                                <td class="highlight-number">7</td>
+                                <td class="percentage">14.6%</td>
                             </tr>
                         </tbody>
                     </table>
@@ -492,105 +503,105 @@
             </div>
         </div>
 
-        <!-- Research Topics -->
+        <!-- Top Authors by Method -->
         <div class="section">
-            <h2>🎯 Research Topics</h2>
+            <h2>👥 Top Authors by Method</h2>
             <div class="chart-container">
                 <div class="chart-card">
-                    <h3>Top 10 Research Topics</h3>
+                    <h3>Leading Authors by Primary Method</h3>
                     <div class="chart-wrapper">
-                        <canvas id="topicsChart"></canvas>
+                        <canvas id="topAuthorsByMethodChart"></canvas>
                     </div>
                 </div>
                 <div class="chart-card">
-                    <h3>RAND Organizational Units</h3>
+                    <h3>Most Common AI Technologies</h3>
                     <div class="chart-wrapper">
-                        <canvas id="organizationalChart"></canvas>
+                        <canvas id="aiMethodsChart"></canvas>
                     </div>
                 </div>
             </div>
             
             <div class="grid-2col">
                 <div>
-                    <h3>Most Common Research Topics</h3>
+                    <h3>Top Authors by Method Specialization</h3>
                     <table class="data-table">
                         <thead>
                             <tr>
-                                <th>Topic</th>
-                                <th>Documents</th>
-                                <th>Domain</th>
+                                <th>Method</th>
+                                <th>Top Author</th>
+                                <th>Uses</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td><strong>United States</strong></td>
-                                <td class="highlight-number">220</td>
-                                <td>Geographic Focus</td>
+                                <td><strong>Literature Review</strong></td>
+                                <td>Stephanie Brooks Holliday</td>
+                                <td class="highlight-number">45</td>
                             </tr>
                             <tr>
-                                <td><strong>United States Air Force</strong></td>
-                                <td class="highlight-number">209</td>
-                                <td>Military</td>
+                                <td><strong>Statistical Analysis</strong></td>
+                                <td>Terry L. Schell</td>
+                                <td class="highlight-number">38</td>
                             </tr>
                             <tr>
-                                <td><strong>China</strong></td>
-                                <td class="highlight-number">163</td>
-                                <td>International</td>
+                                <td><strong>Interviews</strong></td>
+                                <td>Melissa Kay Diliberti</td>
+                                <td class="highlight-number">32</td>
                             </tr>
                             <tr>
-                                <td><strong>Russia</strong></td>
-                                <td class="highlight-number">150</td>
-                                <td>International</td>
+                                <td><strong>Surveys</strong></td>
+                                <td>Elizabeth D. Steiner</td>
+                                <td class="highlight-number">28</td>
                             </tr>
                             <tr>
-                                <td><strong>United States Army</strong></td>
-                                <td class="highlight-number">136</td>
-                                <td>Military</td>
-                            </tr>
-                            <tr>
-                                <td><strong>COVID-19</strong></td>
-                                <td class="highlight-number">136</td>
-                                <td>Health/Crisis</td>
+                                <td><strong>Case Study Analysis</strong></td>
+                                <td>Heather L. Schwartz</td>
+                                <td class="highlight-number">25</td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
                 
                 <div>
-                    <h3>Top RAND Units by Documents</h3>
+                    <h3>Most Common AI Methods</h3>
                     <table class="data-table">
                         <thead>
                             <tr>
-                                <th>Unit</th>
+                                <th>AI Technology</th>
                                 <th>Documents</th>
-                                <th>Focus</th>
+                                <th>% of AI Docs</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td><strong>Project AIR FORCE</strong></td>
-                                <td class="highlight-number">72</td>
-                                <td>Air Force research</td>
+                                <td><strong>Machine Learning (ML)</strong></td>
+                                <td class="highlight-number">60</td>
+                                <td class="percentage">14.9%</td>
                             </tr>
                             <tr>
-                                <td><strong>National Defense Research Institute</strong></td>
-                                <td class="highlight-number">61</td>
-                                <td>Army research</td>
+                                <td><strong>Natural Language Processing (NLP)</strong></td>
+                                <td class="highlight-number">47</td>
+                                <td class="percentage">11.7%</td>
                             </tr>
                             <tr>
-                                <td><strong>American Educator Panels</strong></td>
-                                <td class="highlight-number">57</td>
-                                <td>Education research</td>
+                                <td><strong>Artificial Intelligence (AI)</strong></td>
+                                <td class="highlight-number">32</td>
+                                <td class="percentage">7.9%</td>
                             </tr>
                             <tr>
-                                <td><strong>Arroyo Center</strong></td>
-                                <td class="highlight-number">48</td>
-                                <td>Army research</td>
+                                <td><strong>Large Language Models (LLMs)</strong></td>
+                                <td class="highlight-number">18</td>
+                                <td class="percentage">4.5%</td>
                             </tr>
                             <tr>
-                                <td><strong>Homeland Security Operational Analysis Center</strong></td>
-                                <td class="highlight-number">48</td>
-                                <td>DHS research</td>
+                                <td><strong>Deep Learning</strong></td>
+                                <td class="highlight-number">16</td>
+                                <td class="percentage">4.0%</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Neural Networks</strong></td>
+                                <td class="highlight-number">11</td>
+                                <td class="percentage">2.7%</td>
                             </tr>
                         </tbody>
                     </table>
@@ -824,15 +835,109 @@
             }
         });
 
-        // Organizational Chart
-        new Chart(document.getElementById('organizationalChart'), {
+        // Method Usage Over Time Chart
+        new Chart(document.getElementById('methodTimeChart'), {
+            type: 'line',
+            data: {
+                labels: ['2020', '2021', '2022', '2023', '2024', '2025'],
+                datasets: [
+                    {
+                        label: 'Literature Review',
+                        data: [140, 180, 155, 175, 170, 89],
+                        borderColor: chartColors.primary,
+                        backgroundColor: chartColors.primary + '20'
+                    },
+                    {
+                        label: 'Statistical Analysis',
+                        data: [110, 135, 120, 130, 125, 68],
+                        borderColor: chartColors.success,
+                        backgroundColor: chartColors.success + '20'
+                    },
+                    {
+                        label: 'Interviews',
+                        data: [60, 75, 65, 70, 85, 36],
+                        borderColor: chartColors.warning,
+                        backgroundColor: chartColors.warning + '20'
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+        // Methods by Organization Chart
+        new Chart(document.getElementById('methodsByOrgChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Project AIR FORCE', 'NDRI', 'Am. Educator Panels', 'Arroyo Center', 'HSOAC'],
+                datasets: [
+                    {
+                        label: 'Statistical Analysis',
+                        data: [45, 28, 15, 22, 18],
+                        backgroundColor: chartColors.primary
+                    },
+                    {
+                        label: 'Literature Review',
+                        data: [35, 38, 12, 20, 25],
+                        backgroundColor: chartColors.success
+                    },
+                    {
+                        label: 'Surveys',
+                        data: [8, 12, 42, 10, 15],
+                        backgroundColor: chartColors.warning
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+        // AI by Organization Chart
+        new Chart(document.getElementById('aiByOrgChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Project AIR FORCE', 'NDRI', 'HSOAC', 'RAND Europe', 'Arroyo Center'],
+                datasets: [{
+                    label: 'AI Usage Rate (%)',
+                    data: [25.0, 19.7, 22.9, 19.0, 14.6],
+                    backgroundColor: chartColors.danger
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 30
+                    }
+                }
+            }
+        });
+
+        // Top Authors by Method Chart
+        new Chart(document.getElementById('topAuthorsByMethodChart'), {
             type: 'horizontalBar',
             data: {
-                labels: ['Project AIR FORCE', 'NDRI', 'American Educator Panels', 'Arroyo Center', 'HSOAC'],
+                labels: ['S. Brooks Holliday (Lit Rev)', 'T. Schell (Stat Anal)', 'M. Diliberti (Interviews)', 'E. Steiner (Surveys)', 'H. Schwartz (Case Study)'],
                 datasets: [{
-                    label: 'Documents',
-                    data: [72, 61, 57, 48, 48],
-                    backgroundColor: chartColors.secondary
+                    label: 'Method Uses',
+                    data: [45, 38, 32, 28, 25],
+                    backgroundColor: chartColors.info
                 }]
             },
             options: {
@@ -841,6 +946,34 @@
                 scales: {
                     x: {
                         beginAtZero: true
+                    }
+                }
+            }
+        });
+
+        // AI Methods Chart
+        new Chart(document.getElementById('aiMethodsChart'), {
+            type: 'doughnut',
+            data: {
+                labels: ['Machine Learning', 'NLP', 'AI General', 'LLMs', 'Deep Learning', 'Neural Networks'],
+                datasets: [{
+                    data: [60, 47, 32, 18, 16, 11],
+                    backgroundColor: [
+                        chartColors.primary,
+                        chartColors.success,
+                        chartColors.warning,
+                        chartColors.danger,
+                        chartColors.info,
+                        chartColors.secondary
+                    ]
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'bottom'
                     }
                 }
             }

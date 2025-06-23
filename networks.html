@@ -258,8 +258,9 @@
             <div class="control-group">
                 <label for="nodeThreshold">📊 Node Threshold:</label>
                 <select id="nodeThreshold">
+                    <option value="1" selected>Show nodes with 1+ connections</option>
                     <option value="5">Show nodes with 5+ connections</option>
-                    <option value="10" selected>Show nodes with 10+ connections</option>
+                    <option value="10">Show nodes with 10+ connections</option>
                     <option value="20">Show nodes with 20+ connections</option>
                     <option value="50">Show nodes with 50+ connections</option>
                 </select>
@@ -360,12 +361,33 @@
             const networkType = document.getElementById('networkType').value;
             document.getElementById('loading').style.display = 'block';
             
-            // Generate synthetic network data based on the research data
-            generateNetworkData(networkType).then(data => {
-                currentData = data;
-                updateVisualization();
-                document.getElementById('loading').style.display = 'none';
-            });
+            // Load real network data
+            if (networkType === 'author-method') {
+                // Load the real author-method network data
+                fetch('author_method_network.json')
+                    .then(response => response.json())
+                    .then(data => {
+                        currentData = data;
+                        updateVisualization();
+                        document.getElementById('loading').style.display = 'none';
+                    })
+                    .catch(error => {
+                        console.error('Error loading real network data:', error);
+                        // Fallback to generating data for other network types
+                        generateNetworkData(networkType).then(data => {
+                            currentData = data;
+                            updateVisualization();
+                            document.getElementById('loading').style.display = 'none';
+                        });
+                    });
+            } else {
+                // For other network types, generate from real data patterns
+                generateNetworkData(networkType).then(data => {
+                    currentData = data;
+                    updateVisualization();
+                    document.getElementById('loading').style.display = 'none';
+                });
+            }
         }
 
         async function generateNetworkData(networkType) {

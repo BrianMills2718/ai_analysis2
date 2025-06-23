@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAND 2020+ Research Analysis</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+            overflow: hidden;
+        }
+        .hero {
+            background: linear-gradient(135deg, #0073e6 0%, #005bb5 100%);
+            color: white;
+            padding: 60px 40px;
+            text-align: center;
+        }
+        .hero h1 {
+            font-size: 3em;
+            margin: 0 0 20px 0;
+            font-weight: 300;
+        }
+        .hero p {
+            font-size: 1.3em;
+            margin: 0 0 30px 0;
+            opacity: 0.9;
+        }
+        .nav-buttons {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .nav-btn {
+            background: rgba(255,255,255,0.2);
+            color: white;
+            border: 2px solid rgba(255,255,255,0.3);
+            padding: 15px 30px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+        .nav-btn:hover {
+            background: rgba(255,255,255,0.3);
+            border-color: rgba(255,255,255,0.5);
+            transform: translateY(-2px);
+        }
+        .content {
+            padding: 40px;
+        }
+        .overview-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        .overview-card {
+            background: #f8f9fa;
+            padding: 30px;
+            border-radius: 10px;
+            border-left: 5px solid #0073e6;
+        }
+        .overview-card h3 {
+            color: #0073e6;
+            margin: 0 0 15px 0;
+            font-size: 1.4em;
+        }
+        .overview-card p {
+            margin: 0;
+            line-height: 1.6;
+            color: #333;
+        }
+        .stats-highlight {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            border-radius: 10px;
+            margin: 40px 0;
+            text-align: center;
+        }
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+        .stat-item {
+            text-align: center;
+        }
+        .stat-number {
+            font-size: 2.5em;
+            font-weight: bold;
+            margin: 0;
+        }
+        .stat-label {
+            margin: 5px 0 0 0;
+            opacity: 0.9;
+        }
+        .methodology {
+            background: #e8f4f8;
+            padding: 30px;
+            border-radius: 10px;
+            margin: 30px 0;
+        }
+        .methodology h3 {
+            color: #0073e6;
+            margin: 0 0 20px 0;
+        }
+        .data-flow {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin: 20px 0;
+        }
+        .flow-step {
+            background: white;
+            padding: 15px 20px;
+            border-radius: 8px;
+            text-align: center;
+            flex: 1;
+            min-width: 120px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .flow-arrow {
+            font-size: 1.5em;
+            color: #0073e6;
+        }
+        .key-findings {
+            margin: 40px 0;
+        }
+        .findings-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+        .finding-card {
+            background: white;
+            border: 1px solid #e0e0e0;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        .finding-card h4 {
+            color: #0073e6;
+            margin: 0 0 10px 0;
+        }
+        .finding-card p {
+            margin: 0;
+            color: #555;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="hero">
+            <h1>🎯 RAND 2020+ Enhanced Modern Era Analysis</h1>
+            <p>Comprehensive Analysis of Research Methods, AI Technology, and Organizational Structure</p>
+            <div class="nav-buttons">
+                <a href="index.html" class="nav-btn">📖 Overview</a>
+                <a href="tables.html" class="nav-btn">📊 Key Findings</a>
+                <a href="dashboard.html" class="nav-btn">🔍 Interactive Dashboard</a>
+                <a href="networks.html" class="nav-btn">🕸️ Network Analysis</a>
+            </div>
+        </div>
+
+        <div class="content">
+            <div class="overview-grid">
+                <div class="overview-card">
+                    <h3>🗂️ What This Analysis Covers</h3>
+                    <p>This study examines 2,230 RAND Corporation research documents published from 2020-2025, analyzing the relationships between research methodologies, artificial intelligence technologies, organizational units, authors, and research topics in RAND's Enhanced Modern Era.</p>
+                </div>
+                
+                <div class="overview-card">
+                    <h3>🎯 Research Questions</h3>
+                    <p>How do RAND researchers combine traditional methods with AI technologies? Which organizational units lead in AI adoption? What are the temporal trends in methodology and technology use across RAND's research portfolio?</p>
+                </div>
+                
+                <div class="overview-card">
+                    <h3>🔬 Methodology</h3>
+                    <p>Full-text analysis of document content combined with hand-curated metadata from RAND's publication database. Machine learning techniques extracted research methods and AI technology usage from complete document text.</p>
+                </div>
+                
+                <div class="overview-card">
+                    <h3>💡 Key Innovation</h3>
+                    <p>First comprehensive mapping of the relationship between research methods and AI technology adoption across a major research institution's complete portfolio, enabling insights into methodological evolution.</p>
+                </div>
+            </div>
+
+            <div class="stats-highlight">
+                <h2>📈 Dataset Overview</h2>
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <div class="stat-number">2,230</div>
+                        <div class="stat-label">Research Documents</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">2,382</div>
+                        <div class="stat-label">Unique Authors</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">3,154</div>
+                        <div class="stat-label">Research Methods</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">403</div>
+                        <div class="stat-label">Documents with AI</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">21</div>
+                        <div class="stat-label">Organizational Units</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">86.2%</div>
+                        <div class="stat-label">Data Retention Rate</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="methodology">
+                <h3>📋 Data Processing Pipeline</h3>
+                <p>The analysis combines two primary data sources: RAND's internal AskRAND database (full document text) and the official RAND API (publication metadata). This dual-source approach enables both comprehensive content analysis and rich bibliographic information.</p>
+                
+                <div class="data-flow">
+                    <div class="flow-step">
+                        <strong>2,588</strong><br>
+                        AskRAND Documents<br>
+                        (2020-2025)
+                    </div>
+                    <div class="flow-arrow">→</div>
+                    <div class="flow-step">
+                        <strong>2,557</strong><br>
+                        Methodology<br>
+                        Extraction
+                    </div>
+                    <div class="flow-arrow">→</div>
+                    <div class="flow-step">
+                        <strong>2,232</strong><br>
+                        Research<br>
+                        Classification
+                    </div>
+                    <div class="flow-arrow">→</div>
+                    <div class="flow-step">
+                        <strong>2,230</strong><br>
+                        Final<br>
+                        Dataset
+                    </div>
+                </div>
+            </div>
+
+            <div class="key-findings">
+                <h3>🔍 Key Findings</h3>
+                <div class="findings-grid">
+                    <div class="finding-card">
+                        <h4>🤖 AI Adoption Growth</h4>
+                        <p>AI usage in RAND research has grown from 12.5% in 2020 to 28.9% in 2025, with machine learning and natural language processing leading adoption.</p>
+                    </div>
+                    
+                    <div class="finding-card">
+                        <h4>📚 Methodology Diversity</h4>
+                        <p>RAND employs 3,154 unique research methods, with 70.6% classified as specialized approaches beyond traditional academic categories.</p>
+                    </div>
+                    
+                    <div class="finding-card">
+                        <h4>🏛️ Organizational Distribution</h4>
+                        <p>Research spans 21 organizational units, with Project AIR FORCE (72 docs) and National Defense Research Institute (61 docs) leading production.</p>
+                    </div>
+                    
+                    <div class="finding-card">
+                        <h4>👥 Author Collaboration</h4>
+                        <p>Multi-author collaboration is standard, with documents averaging 5.6 authors and 4.6 research methods, indicating interdisciplinary approaches.</p>
+                    </div>
+                    
+                    <div class="finding-card">
+                        <h4>🎯 Research Focus</h4>
+                        <p>Defense and security research dominates (30% of topics), followed by international affairs (18%) and education (15%).</p>
+                    </div>
+                    
+                    <div class="finding-card">
+                        <h4>🔗 Method-AI Integration</h4>
+                        <p>60,418 author-method combinations show sophisticated integration of traditional research approaches with emerging AI technologies.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div style="text-align: center; margin: 40px 0;">
+                <h3>🚀 Explore the Data</h3>
+                <p>Dive deeper into the analysis with detailed tables and interactive visualizations:</p>
+                <div style="margin: 20px 0;">
+                    <a href="tables.html" class="nav-btn" style="margin: 10px;">📊 View Data Tables & Charts</a>
+                    <a href="dashboard.html" class="nav-btn" style="margin: 10px;">🔍 Use Interactive Dashboard</a>
+                    <a href="networks.html" class="nav-btn" style="margin: 10px;">🕸️ Explore Network Analysis</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>RAND Research Methods Analysis</title>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js"></script>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -379,7 +379,7 @@
 
         // Top Methods Chart
         new Chart(document.getElementById('topMethodsChart'), {
-            type: 'horizontalBar',
+            type: 'bar',
             data: {
                 labels: ['Literature Review', 'Statistical Analysis', 'Interviews', 'Comparative Analysis', 'Surveys', 'Case Study Analysis', 'Data Analysis', 'Document Analysis'],
                 datasets: [{
@@ -389,6 +389,7 @@
                 }]
             },
             options: {
+                indexAxis: 'y',
                 responsive: true,
                 maintainAspectRatio: false,
                 scales: {
@@ -494,7 +495,7 @@
 
         // Method Experts Chart
         new Chart(document.getElementById('methodExpertsChart'), {
-            type: 'horizontalBar',
+            type: 'bar',
             data: {
                 labels: ['S. Brooks Holliday (Lit Rev)', 'T. Schell (Stat Analysis)', 'M. Diliberti (Interviews)', 'E. Steiner (Surveys)', 'H. Schwartz (Case Study)'],
                 datasets: [{
@@ -504,6 +505,7 @@
                 }]
             },
             options: {
+                indexAxis: 'y',
                 responsive: true,
                 maintainAspectRatio: false,
                 scales: {

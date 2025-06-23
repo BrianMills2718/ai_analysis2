@@ -98,6 +98,31 @@
         .btn:hover {
             background: #0056b3;
         }
+        .nav-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-bottom: 40px;
+            flex-wrap: wrap;
+        }
+        .nav-btn {
+            background: #0073e6;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            text-decoration: none;
+            display: inline-block;
+            transition: background 0.3s;
+        }
+        .nav-btn:hover {
+            background: #0056b3;
+        }
+        .nav-btn.current {
+            background: #28a745;
+        }
         .results-table {
             width: 100%;
             border-collapse: collapse;
@@ -128,6 +153,15 @@
         <div class="header">
             <h1>🎯 RAND 2020+ Interactive Analysis Dashboard</h1>
             <p>Explore Methods × AI × Divisions × Authors × Time × Topics</p>
+        </div>
+        
+        <div class="nav-buttons">
+            <a href="index.html" class="nav-btn">📄 Research Report</a>
+            <a href="methods.html" class="nav-btn">🔬 Methods</a>
+            <a href="ai.html" class="nav-btn">🤖 AI</a>
+            <a href="cross-analyses.html" class="nav-btn">📊 Cross-Analyses</a>
+            <a href="dashboard.html" class="nav-btn current">🔍 Dashboard</a>
+            <a href="networks.html" class="nav-btn">🕸️ Networks</a>
         </div>
         
         <div class="controls">

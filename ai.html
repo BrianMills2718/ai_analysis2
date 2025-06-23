@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>RAND AI Technology Analysis</title>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js"></script>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -607,7 +607,7 @@
 
         // AI Technologies Chart
         new Chart(document.getElementById('aiTechnologiesChart'), {
-            type: 'horizontalBar',
+            type: 'bar',
             data: {
                 labels: ['Machine Learning', 'NLP', 'AI General', 'LLMs', 'Deep Learning', 'Neural Networks', 'Computer Vision'],
                 datasets: [{
@@ -623,6 +623,8 @@
                     x: {
                         beginAtZero: true
                     }
+                },
+                indexAxis: 'y'
                 }
             }
         });
@@ -680,7 +682,7 @@
 
         // AI Volume by Organization Chart
         new Chart(document.getElementById('aiVolumeByOrgChart'), {
-            type: 'horizontalBar',
+            type: 'bar',
             data: {
                 labels: ['Project AIR FORCE', 'NDRI', 'HSOAC', 'RAND Europe', 'Arroyo Center', 'Am. Educator Panels'],
                 datasets: [{
@@ -696,13 +698,15 @@
                     x: {
                         beginAtZero: true
                     }
+                },
+                indexAxis: 'y'
                 }
             }
         });
 
         // AI Leaders Chart
         new Chart(document.getElementById('aiLeadersChart'), {
-            type: 'horizontalBar',
+            type: 'bar',
             data: {
                 labels: ['J. Cantor', 'S. Brooks Holliday', 'T. Schell', 'B. Stein', 'R. Smart'],
                 datasets: [{
@@ -718,6 +722,8 @@
                     x: {
                         beginAtZero: true
                     }
+                },
+                indexAxis: 'y'
                 }
             }
         });

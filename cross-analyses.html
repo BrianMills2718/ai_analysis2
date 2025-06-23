@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>RAND Cross-Analyses</title>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js"></script>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -224,14 +224,13 @@
                 </div>
                 
                 <div>
-                    <h3>Methodological Specialization Index</h3>
+                    <h3>Methodological Approach by Organization</h3>
                     <table class="data-table">
                         <thead>
                             <tr>
                                 <th>Organization</th>
                                 <th>Methods Used</th>
-                                <th>Specialization</th>
-                                <th>Innovation Score</th>
+                                <th>Primary Approach</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -239,31 +238,26 @@
                                 <td><strong>Project AIR FORCE</strong></td>
                                 <td>12</td>
                                 <td>Quantitative</td>
-                                <td class="percentage">High</td>
                             </tr>
                             <tr>
                                 <td><strong>HSOAC</strong></td>
                                 <td>15</td>
                                 <td>Mixed Methods</td>
-                                <td class="percentage">Very High</td>
                             </tr>
                             <tr>
                                 <td><strong>RAND Europe</strong></td>
                                 <td>18</td>
                                 <td>Diverse</td>
-                                <td class="percentage">High</td>
                             </tr>
                             <tr>
                                 <td><strong>Arroyo Center</strong></td>
                                 <td>10</td>
                                 <td>Strategic</td>
-                                <td class="percentage">Medium</td>
                             </tr>
                             <tr>
                                 <td><strong>Am. Educator Panels</strong></td>
                                 <td>8</td>
                                 <td>Survey-Focused</td>
-                                <td class="percentage">Medium</td>
                             </tr>
                         </tbody>
                     </table>
@@ -418,34 +412,34 @@
                             <tr>
                                 <th>Method + AI Technology</th>
                                 <th>Documents</th>
-                                <th>Effectiveness</th>
+                                <th>Common Pairing</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
                                 <td><strong>Statistical Analysis + ML</strong></td>
                                 <td class="highlight-number">85</td>
-                                <td class="percentage">High</td>
+                                <td class="percentage">Common</td>
                             </tr>
                             <tr>
                                 <td><strong>Literature Review + NLP</strong></td>
                                 <td class="highlight-number">42</td>
-                                <td class="percentage">Very High</td>
+                                <td class="percentage">Very Common</td>
                             </tr>
                             <tr>
                                 <td><strong>Data Analysis + AI Tools</strong></td>
                                 <td class="highlight-number">38</td>
-                                <td class="percentage">High</td>
+                                <td class="percentage">Common</td>
                             </tr>
                             <tr>
                                 <td><strong>Document Analysis + NLP</strong></td>
                                 <td class="highlight-number">18</td>
-                                <td class="percentage">Very High</td>
+                                <td class="percentage">Very Common</td>
                             </tr>
                             <tr>
                                 <td><strong>Simulation + AI Models</strong></td>
                                 <td class="highlight-number">15</td>
-                                <td class="percentage">Medium</td>
+                                <td class="percentage">Emerging</td>
                             </tr>
                         </tbody>
                     </table>
@@ -479,7 +473,6 @@
                         <th>AI Documents</th>
                         <th>Total Documents</th>
                         <th>AI Integration Rate</th>
-                        <th>Innovation Score</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -489,7 +482,6 @@
                         <td class="highlight-number">8</td>
                         <td>42</td>
                         <td class="percentage">19.0%</td>
-                        <td>Very High</td>
                     </tr>
                     <tr>
                         <td><strong>Stephanie Brooks Holliday</strong></td>
@@ -497,7 +489,6 @@
                         <td class="highlight-number">7</td>
                         <td>68</td>
                         <td class="percentage">10.3%</td>
-                        <td>High</td>
                     </tr>
                     <tr>
                         <td><strong>Terry L. Schell</strong></td>
@@ -505,7 +496,6 @@
                         <td class="highlight-number">6</td>
                         <td>45</td>
                         <td class="percentage">13.3%</td>
-                        <td>High</td>
                     </tr>
                     <tr>
                         <td><strong>Bradley D. Stein</strong></td>
@@ -513,7 +503,6 @@
                         <td class="highlight-number">5</td>
                         <td>38</td>
                         <td class="percentage">13.2%</td>
-                        <td>Medium</td>
                     </tr>
                     <tr>
                         <td><strong>Rosanna Smart</strong></td>
@@ -521,7 +510,6 @@
                         <td class="highlight-number">4</td>
                         <td>24</td>
                         <td class="percentage">16.7%</td>
-                        <td>High</td>
                     </tr>
                 </tbody>
             </table>
@@ -607,7 +595,7 @@
 
         // Methods by Topic Chart
         new Chart(document.getElementById('methodsByTopicChart'), {
-            type: 'horizontalBar',
+            type: 'bar',
             data: {
                 labels: ['Defense Research', 'Health Research', 'Education', 'International Affairs', 'Economics', 'AI Research'],
                 datasets: [{
@@ -617,6 +605,7 @@
                 }]
             },
             options: {
+                indexAxis: 'y',
                 responsive: true,
                 maintainAspectRatio: false,
                 scales: {
@@ -666,7 +655,7 @@
 
         // AI by Method Chart
         new Chart(document.getElementById('aiByMethodChart'), {
-            type: 'horizontalBar',
+            type: 'bar',
             data: {
                 labels: ['Data Analysis', 'Statistical Analysis', 'Simulation', 'Literature Review', 'Document Analysis'],
                 datasets: [{
@@ -676,6 +665,7 @@
                 }]
             },
             options: {
+                indexAxis: 'y',
                 responsive: true,
                 maintainAspectRatio: false,
                 scales: {

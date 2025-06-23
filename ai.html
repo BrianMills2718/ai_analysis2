@@ -1,0 +1,753 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAND AI Technology Analysis</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            padding: 40px;
+        }
+        .header {
+            text-align: center;
+            border-bottom: 3px solid #dc3545;
+            padding-bottom: 30px;
+            margin-bottom: 40px;
+        }
+        .header h1 {
+            color: #dc3545;
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .header p {
+            font-size: 1.2em;
+            color: #666;
+            margin: 10px 0 0 0;
+        }
+        .nav-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-bottom: 40px;
+            flex-wrap: wrap;
+        }
+        .nav-btn {
+            background: #0073e6;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            text-decoration: none;
+            display: inline-block;
+            transition: background 0.3s;
+        }
+        .nav-btn:hover {
+            background: #0056b3;
+        }
+        .nav-btn.current {
+            background: #dc3545;
+        }
+        .section {
+            background: #f8f9fa;
+            padding: 30px;
+            border-radius: 12px;
+            margin: 40px 0;
+        }
+        .section h2 {
+            color: #dc3545;
+            margin-bottom: 25px;
+            border-bottom: 2px solid #dc3545;
+            padding-bottom: 10px;
+        }
+        .chart-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 30px;
+            margin: 30px 0;
+        }
+        .chart-card {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .chart-card h3 {
+            color: #dc3545;
+            margin-top: 0;
+            text-align: center;
+        }
+        .chart-wrapper {
+            height: 300px;
+            position: relative;
+        }
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .data-table th {
+            background: #dc3545;
+            color: white;
+            padding: 15px;
+            text-align: left;
+            font-weight: bold;
+        }
+        .data-table td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #eee;
+        }
+        .data-table tr:hover {
+            background-color: #f8f9fa;
+        }
+        .data-table tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .highlight-number {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #dc3545;
+        }
+        .percentage {
+            color: #28a745;
+            font-weight: bold;
+        }
+        .stats-overview {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+        .stat-card {
+            background: linear-gradient(135deg, #dc3545 0%, #c82333 100%);
+            color: white;
+            padding: 25px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        .stat-card h3 {
+            margin: 0 0 10px 0;
+            font-size: 2.2em;
+        }
+        .stat-card p {
+            margin: 0;
+            opacity: 0.9;
+            font-size: 1em;
+        }
+        .grid-2col {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+        }
+        @media (max-width: 768px) {
+            .grid-2col {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🤖 RAND AI Technology Analysis</h1>
+            <p>AI Adoption, Technologies, and Integration Across RAND Research</p>
+        </div>
+        
+        <div class="nav-buttons">
+            <a href="index.html" class="nav-btn">📄 Research Report</a>
+            <a href="methods.html" class="nav-btn">🔬 Methods</a>
+            <a href="ai.html" class="nav-btn current">🤖 AI</a>
+            <a href="cross-analyses.html" class="nav-btn">📊 Cross-Analyses</a>
+            <a href="dashboard.html" class="nav-btn">🔍 Dashboard</a>
+            <a href="networks.html" class="nav-btn">🕸️ Networks</a>
+        </div>
+
+        <div class="stats-overview">
+            <div class="stat-card">
+                <h3>403</h3>
+                <p>Documents with<br>AI Technologies</p>
+            </div>
+            <div class="stat-card">
+                <h3>18.1%</h3>
+                <p>AI Adoption<br>Rate Overall</p>
+            </div>
+            <div class="stat-card">
+                <h3>28.9%</h3>
+                <p>AI Rate in<br>2025 (Latest)</p>
+            </div>
+            <div class="stat-card">
+                <h3>1,311</h3>
+                <p>Total AI Technology<br>Mentions</p>
+            </div>
+        </div>
+
+        <!-- AI Adoption Growth -->
+        <div class="section">
+            <h2>📈 AI Adoption Growth</h2>
+            <div class="chart-container">
+                <div class="chart-card">
+                    <h3>AI Usage Growth Over Time</h3>
+                    <div class="chart-wrapper">
+                        <canvas id="aiGrowthChart"></canvas>
+                    </div>
+                </div>
+                <div class="chart-card">
+                    <h3>AI vs Non-AI Research Volume</h3>
+                    <div class="chart-wrapper">
+                        <canvas id="aiVolumeChart"></canvas>
+                    </div>
+                </div>
+            </div>
+            
+            <table class="data-table">
+                <thead>
+                    <tr>
+                        <th>Year</th>
+                        <th>AI Documents</th>
+                        <th>Total Documents</th>
+                        <th>AI Rate</th>
+                        <th>Growth Rate</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>2020</strong></td>
+                        <td class="highlight-number">48</td>
+                        <td>385</td>
+                        <td class="percentage">12.5%</td>
+                        <td>—</td>
+                    </tr>
+                    <tr>
+                        <td><strong>2021</strong></td>
+                        <td class="highlight-number">89</td>
+                        <td>465</td>
+                        <td class="percentage">19.1%</td>
+                        <td class="percentage">+53%</td>
+                    </tr>
+                    <tr>
+                        <td><strong>2022</strong></td>
+                        <td class="highlight-number">65</td>
+                        <td>386</td>
+                        <td class="percentage">16.8%</td>
+                        <td>-12%</td>
+                    </tr>
+                    <tr>
+                        <td><strong>2023</strong></td>
+                        <td class="highlight-number">72</td>
+                        <td>460</td>
+                        <td class="percentage">15.7%</td>
+                        <td>-7%</td>
+                    </tr>
+                    <tr>
+                        <td><strong>2024</strong></td>
+                        <td class="highlight-number">90</td>
+                        <td>399</td>
+                        <td class="percentage">22.6%</td>
+                        <td class="percentage">+44%</td>
+                    </tr>
+                    <tr>
+                        <td><strong>2025</strong></td>
+                        <td class="highlight-number">39</td>
+                        <td>135</td>
+                        <td class="percentage">28.9%</td>
+                        <td class="percentage">+28%</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- AI Technologies -->
+        <div class="section">
+            <h2>🧠 AI Technologies Used</h2>
+            <div class="chart-container">
+                <div class="chart-card">
+                    <h3>Top AI Technologies</h3>
+                    <div class="chart-wrapper">
+                        <canvas id="aiTechnologiesChart"></canvas>
+                    </div>
+                </div>
+                <div class="chart-card">
+                    <h3>AI Technology Categories</h3>
+                    <div class="chart-wrapper">
+                        <canvas id="aiCategoriesChart"></canvas>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="grid-2col">
+                <div>
+                    <h3>Most Common AI Technologies</h3>
+                    <table class="data-table">
+                        <thead>
+                            <tr>
+                                <th>AI Technology</th>
+                                <th>Documents</th>
+                                <th>% of AI Docs</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>Machine Learning (ML)</strong></td>
+                                <td class="highlight-number">60</td>
+                                <td class="percentage">14.9%</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Natural Language Processing (NLP)</strong></td>
+                                <td class="highlight-number">47</td>
+                                <td class="percentage">11.7%</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Artificial Intelligence (AI)</strong></td>
+                                <td class="highlight-number">32</td>
+                                <td class="percentage">7.9%</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Large Language Models (LLMs)</strong></td>
+                                <td class="highlight-number">18</td>
+                                <td class="percentage">4.5%</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Deep Learning</strong></td>
+                                <td class="highlight-number">16</td>
+                                <td class="percentage">4.0%</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Neural Networks</strong></td>
+                                <td class="highlight-number">11</td>
+                                <td class="percentage">2.7%</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Computer Vision</strong></td>
+                                <td class="highlight-number">11</td>
+                                <td class="percentage">2.7%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                
+                <div>
+                    <h3>AI Technology Growth</h3>
+                    <table class="data-table">
+                        <thead>
+                            <tr>
+                                <th>Technology</th>
+                                <th>2020-2022</th>
+                                <th>2023-2025</th>
+                                <th>Growth</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>Large Language Models</strong></td>
+                                <td>2</td>
+                                <td class="highlight-number">16</td>
+                                <td class="percentage">+700%</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Machine Learning</strong></td>
+                                <td>25</td>
+                                <td class="highlight-number">35</td>
+                                <td class="percentage">+40%</td>
+                            </tr>
+                            <tr>
+                                <td><strong>NLP</strong></td>
+                                <td>18</td>
+                                <td class="highlight-number">29</td>
+                                <td class="percentage">+61%</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Deep Learning</strong></td>
+                                <td>8</td>
+                                <td class="highlight-number">8</td>
+                                <td>0%</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Computer Vision</strong></td>
+                                <td>5</td>
+                                <td class="highlight-number">6</td>
+                                <td class="percentage">+20%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <!-- AI by Organization -->
+        <div class="section">
+            <h2>🏢 AI Adoption by Organization</h2>
+            <div class="chart-container">
+                <div class="chart-card">
+                    <h3>AI Usage Rate by RAND Unit</h3>
+                    <div class="chart-wrapper">
+                        <canvas id="aiByOrgChart"></canvas>
+                    </div>
+                </div>
+                <div class="chart-card">
+                    <h3>AI Documents by Unit</h3>
+                    <div class="chart-wrapper">
+                        <canvas id="aiVolumeByOrgChart"></canvas>
+                    </div>
+                </div>
+            </div>
+            
+            <table class="data-table">
+                <thead>
+                    <tr>
+                        <th>Organization</th>
+                        <th>Total Documents</th>
+                        <th>AI Documents</th>
+                        <th>AI Rate</th>
+                        <th>Leading AI Technology</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Project AIR FORCE</strong></td>
+                        <td>72</td>
+                        <td class="highlight-number">18</td>
+                        <td class="percentage">25.0%</td>
+                        <td>Machine Learning</td>
+                    </tr>
+                    <tr>
+                        <td><strong>HSOAC</strong></td>
+                        <td>48</td>
+                        <td class="highlight-number">11</td>
+                        <td class="percentage">22.9%</td>
+                        <td>NLP</td>
+                    </tr>
+                    <tr>
+                        <td><strong>National Defense Research Institute</strong></td>
+                        <td>61</td>
+                        <td class="highlight-number">12</td>
+                        <td class="percentage">19.7%</td>
+                        <td>Statistical ML</td>
+                    </tr>
+                    <tr>
+                        <td><strong>RAND Europe</strong></td>
+                        <td>42</td>
+                        <td class="highlight-number">8</td>
+                        <td class="percentage">19.0%</td>
+                        <td>Machine Learning</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Arroyo Center</strong></td>
+                        <td>48</td>
+                        <td class="highlight-number">7</td>
+                        <td class="percentage">14.6%</td>
+                        <td>Simulation AI</td>
+                    </tr>
+                    <tr>
+                        <td><strong>American Educator Panels</strong></td>
+                        <td>57</td>
+                        <td class="highlight-number">6</td>
+                        <td class="percentage">10.5%</td>
+                        <td>Educational ML</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- AI Leaders -->
+        <div class="section">
+            <h2>👑 AI Research Leaders</h2>
+            <div class="chart-container">
+                <div class="chart-card">
+                    <h3>Top AI Researchers</h3>
+                    <div class="chart-wrapper">
+                        <canvas id="aiLeadersChart"></canvas>
+                    </div>
+                </div>
+                <div class="chart-card">
+                    <h3>AI Specialization Areas</h3>
+                    <div class="chart-wrapper">
+                        <canvas id="aiSpecializationChart"></canvas>
+                    </div>
+                </div>
+            </div>
+            
+            <table class="data-table">
+                <thead>
+                    <tr>
+                        <th>Researcher</th>
+                        <th>AI Documents</th>
+                        <th>Primary AI Focus</th>
+                        <th>AI Technologies Used</th>
+                        <th>Collaboration Score</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Jonathan H. Cantor</strong></td>
+                        <td class="highlight-number">8</td>
+                        <td>Healthcare AI</td>
+                        <td>ML, NLP, Statistical AI</td>
+                        <td>High</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Stephanie Brooks Holliday</strong></td>
+                        <td class="highlight-number">7</td>
+                        <td>Health Analytics</td>
+                        <td>ML, Data Analytics</td>
+                        <td>Very High</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Terry L. Schell</strong></td>
+                        <td class="highlight-number">6</td>
+                        <td>Statistical ML</td>
+                        <td>ML, Statistical Methods</td>
+                        <td>High</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Bradley D. Stein</strong></td>
+                        <td class="highlight-number">5</td>
+                        <td>Clinical AI</td>
+                        <td>ML, Predictive Analytics</td>
+                        <td>Medium</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Rosanna Smart</strong></td>
+                        <td class="highlight-number">4</td>
+                        <td>Economic Modeling</td>
+                        <td>ML, Econometric AI</td>
+                        <td>Medium</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        // Chart configurations and data
+        const chartColors = {
+            primary: '#dc3545',
+            secondary: '#c82333',
+            success: '#28a745',
+            warning: '#ffc107',
+            info: '#17a2b8',
+            dark: '#343a40'
+        };
+
+        // AI Growth Chart
+        new Chart(document.getElementById('aiGrowthChart'), {
+            type: 'line',
+            data: {
+                labels: ['2020', '2021', '2022', '2023', '2024', '2025'],
+                datasets: [{
+                    label: 'AI Usage Rate (%)',
+                    data: [12.5, 19.1, 16.8, 15.7, 22.6, 28.9],
+                    borderColor: chartColors.primary,
+                    backgroundColor: chartColors.primary + '20',
+                    fill: true,
+                    tension: 0.4
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 35
+                    }
+                }
+            }
+        });
+
+        // AI Volume Chart
+        new Chart(document.getElementById('aiVolumeChart'), {
+            type: 'bar',
+            data: {
+                labels: ['2020', '2021', '2022', '2023', '2024', '2025'],
+                datasets: [
+                    {
+                        label: 'AI Documents',
+                        data: [48, 89, 65, 72, 90, 39],
+                        backgroundColor: chartColors.primary
+                    },
+                    {
+                        label: 'Non-AI Documents',
+                        data: [337, 376, 321, 388, 309, 96],
+                        backgroundColor: chartColors.secondary
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: {
+                        stacked: true
+                    },
+                    y: {
+                        stacked: true,
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+        // AI Technologies Chart
+        new Chart(document.getElementById('aiTechnologiesChart'), {
+            type: 'horizontalBar',
+            data: {
+                labels: ['Machine Learning', 'NLP', 'AI General', 'LLMs', 'Deep Learning', 'Neural Networks', 'Computer Vision'],
+                datasets: [{
+                    label: 'Documents',
+                    data: [60, 47, 32, 18, 16, 11, 11],
+                    backgroundColor: chartColors.primary
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+        // AI Categories Chart
+        new Chart(document.getElementById('aiCategoriesChart'), {
+            type: 'doughnut',
+            data: {
+                labels: ['Machine Learning', 'NLP', 'Computer Vision', 'AI Tools', 'Robotics', 'Other'],
+                datasets: [{
+                    data: [157, 78, 31, 45, 12, 23],
+                    backgroundColor: [
+                        chartColors.primary,
+                        chartColors.secondary,
+                        chartColors.success,
+                        chartColors.warning,
+                        chartColors.info,
+                        chartColors.dark
+                    ]
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'bottom'
+                    }
+                }
+            }
+        });
+
+        // AI by Organization Chart
+        new Chart(document.getElementById('aiByOrgChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Project AIR FORCE', 'HSOAC', 'NDRI', 'RAND Europe', 'Arroyo Center', 'Am. Educator Panels'],
+                datasets: [{
+                    label: 'AI Usage Rate (%)',
+                    data: [25.0, 22.9, 19.7, 19.0, 14.6, 10.5],
+                    backgroundColor: chartColors.primary
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 30
+                    }
+                }
+            }
+        });
+
+        // AI Volume by Organization Chart
+        new Chart(document.getElementById('aiVolumeByOrgChart'), {
+            type: 'horizontalBar',
+            data: {
+                labels: ['Project AIR FORCE', 'NDRI', 'HSOAC', 'RAND Europe', 'Arroyo Center', 'Am. Educator Panels'],
+                datasets: [{
+                    label: 'AI Documents',
+                    data: [18, 12, 11, 8, 7, 6],
+                    backgroundColor: chartColors.secondary
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+        // AI Leaders Chart
+        new Chart(document.getElementById('aiLeadersChart'), {
+            type: 'horizontalBar',
+            data: {
+                labels: ['J. Cantor', 'S. Brooks Holliday', 'T. Schell', 'B. Stein', 'R. Smart'],
+                datasets: [{
+                    label: 'AI Documents',
+                    data: [8, 7, 6, 5, 4],
+                    backgroundColor: chartColors.success
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+        // AI Specialization Chart
+        new Chart(document.getElementById('aiSpecializationChart'), {
+            type: 'pie',
+            data: {
+                labels: ['Healthcare AI', 'Defense AI', 'Economic AI', 'Educational AI', 'Policy AI'],
+                datasets: [{
+                    data: [35, 28, 22, 10, 5],
+                    backgroundColor: [
+                        chartColors.primary,
+                        chartColors.secondary,
+                        chartColors.success,
+                        chartColors.warning,
+                        chartColors.info
+                    ]
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'bottom'
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

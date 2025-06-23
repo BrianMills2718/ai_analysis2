@@ -1,0 +1,2117 @@
+[
+  {
+    "doc_id": "RR-2539-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2778-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2589-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4286-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-1612-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-338-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2829-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RB-10068-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2533-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2406-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2818-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3130/1-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3130-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2633-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2575/13-BMGF",
+    "division_id": "D0003",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4332-BMGF",
+    "division_id": "D0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4332-BMGF",
+    "division_id": "D0003",
+    "year": 2020
+  },
+  {
+    "doc_id": "WR-1329-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-331-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-1595-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-343-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-350-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4402-BMGF/SFF/OFF",
+    "division_id": "D0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4402-BMGF/SFF/OFF",
+    "division_id": "D0003",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2974/1-NAVY",
+    "division_id": "D0006",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2974/1-NAVY",
+    "division_id": "D0007",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3023-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2967-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3025-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3104-BMGF",
+    "division_id": "D0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4263-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RB-10103-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4192-EUCOM",
+    "division_id": "D0009",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2350-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RB-10102-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4234-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4381-NMOD",
+    "division_id": "D0010",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2703-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4344-BMGF",
+    "division_id": "D0003",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3145-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4296-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3176-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3215-CHC",
+    "division_id": "D0011",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3068-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-353-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4200-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4235-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3179-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3240-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4251-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4258-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3139-1-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3139-1-AF",
+    "division_id": "D0009",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-359-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4348-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2849/2-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2849/1-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2849/6-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2849/3-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2849/5-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2849/4-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RB-10073-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4407-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3096-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2575/14-BMGF",
+    "division_id": "D0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-358-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2543-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-362-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2948-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A168-1",
+    "division_id": "D0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A168-1",
+    "division_id": "D0003",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2563/1-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2563-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2143-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4368-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2773-1-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2575/15-BMGF",
+    "division_id": "D0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2575/15-BMGF",
+    "division_id": "D0003",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A168-2",
+    "division_id": "D0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-1995/4-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-1995/1-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-1995/2-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-1995/3-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4420-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2774-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2551-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A112-3",
+    "division_id": "D0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2626-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4188-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2798-A",
+    "division_id": "D0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3254-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-349-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4435",
+    "division_id": "D0010",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A158-1",
+    "division_id": "D0012",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A112-4",
+    "division_id": "D0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3134-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4347-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "WR-1337-FC",
+    "division_id": "D0010",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3206-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A112-5",
+    "division_id": "D0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4193-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A134-1",
+    "division_id": "D0003",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4417-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2643-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4433-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2541-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3147-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A134-4",
+    "division_id": "D0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A134-4",
+    "division_id": "D0003",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3168-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A168-3",
+    "division_id": "D0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2597-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2595-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2607-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2858-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2603-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2602-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2600-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2604-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2608-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3040-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2861-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3041-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2598-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2606-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3042-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2859-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2856-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2599-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2605-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A704-2",
+    "division_id": "D0009",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3094-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3190-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A332-1",
+    "division_id": "D0006",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3131-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4294-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2823-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A282-1",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4412/6-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4412/4-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4412-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4412/5-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RB-10137-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A168-4",
+    "division_id": "D0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A168-5",
+    "division_id": "D0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A168-5",
+    "division_id": "D0003",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3221-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A112-6",
+    "division_id": "D0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A827-1",
+    "division_id": "D0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A827-1",
+    "division_id": "D0003",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3100-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4199-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4412/1-AF",
+    "division_id": "D0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2452-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4396-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4397-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-3081-AF",
+    "division_id": "D0005",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4445-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4267-OSD",
+    "division_id": "D0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4337-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4360-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4412/3-AF",
+    "division_id": "D0005",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-1",
+    "division_id": "D0005",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-2",
+    "division_id": "D0005",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4280-AF",
+    "division_id": "D0005",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4247-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-870/10-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A171-1",
+    "division_id": "D0007",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-3162-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-1119-1-A",
+    "division_id": "D0001",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-1119/1-1-A",
+    "division_id": "D0001",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-1119/2-1-A",
+    "division_id": "D0001",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4431-A",
+    "division_id": "D0001",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4429-RC",
+    "division_id": "D0009",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A948-1",
+    "division_id": "D0010",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-2380-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-2788-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A377-1",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A1271-1",
+    "division_id": "D0010",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4231-A",
+    "division_id": "D0001",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-3142-A",
+    "division_id": "D0001",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-3144-A",
+    "division_id": "D0001",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4222-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4228-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-10116/3-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-10116/1-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-10116/4-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-10116/2-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-10116/7-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-10116/8-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-10116/5-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-10116/6-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-10117/2-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-10117/3-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-10117/1-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-10117/6-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-10117/7-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-10117/4-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-10117/5-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-10117/8-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A676-1",
+    "division_id": "D0009",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A577-1",
+    "division_id": "D0007",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A134-8",
+    "division_id": "D0004",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A875-1",
+    "division_id": "D0009",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A109-1",
+    "division_id": "D0009",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-3173-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-3174-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A382-1",
+    "division_id": "D0013",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-2970-DHS",
+    "division_id": "D0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-870/9-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4198-AF",
+    "division_id": "D0005",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4412/2-AF",
+    "division_id": "D0005",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A168-6",
+    "division_id": "D0004",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A168-7",
+    "division_id": "D0004",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A168-7",
+    "division_id": "D0003",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-2742-AF",
+    "division_id": "D0005",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-327-A",
+    "division_id": "D0001",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-330-A",
+    "division_id": "D0001",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A117-1",
+    "division_id": "D0010",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1345-1",
+    "division_id": "D0009",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A638-1",
+    "division_id": "D0010",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-2",
+    "division_id": "D0007",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A134-9",
+    "division_id": "D0003",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-A134-1",
+    "division_id": "D0004",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-A134-1",
+    "division_id": "D0003",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4373/1-AF",
+    "division_id": "D0005",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4373/3-AF",
+    "division_id": "D0005",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A608-1",
+    "division_id": "D0010",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4439-AF",
+    "division_id": "D0005",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4238-A",
+    "division_id": "D0001",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A956-6",
+    "division_id": "D0004",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A647-1-v2",
+    "division_id": "D0014",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4298-AF",
+    "division_id": "D0005",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A616-1",
+    "division_id": "D0009",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4252-AF",
+    "division_id": "D0005",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A449-1",
+    "division_id": "D0001",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A449-1",
+    "division_id": "D0005",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1203-1",
+    "division_id": "D0008",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4471-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-3067-A",
+    "division_id": "D0001",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1113-1",
+    "division_id": "D0010",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1113-1",
+    "division_id": "D0015",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A134-10",
+    "division_id": "D0004",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A134-10",
+    "division_id": "D0003",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A827-2",
+    "division_id": "D0004",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A827-2",
+    "division_id": "D0003",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A827-3",
+    "division_id": "D0004",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4268-A",
+    "division_id": "D0001",
+    "year": 2021
+  },
+  {
+    "doc_id": "RGSD-A1810-1",
+    "division_id": "D0009",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A779-1",
+    "division_id": "D0009",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4293-A",
+    "division_id": "D0001",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1533-1",
+    "division_id": "D0010",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4191-OSD",
+    "division_id": "D0002",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A596-1",
+    "division_id": "D0005",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4399-AF",
+    "division_id": "D0005",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1078-1",
+    "division_id": "D0009",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A956-7",
+    "division_id": "D0004",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A930-1",
+    "division_id": "D0010",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1507-1",
+    "division_id": "D0015",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A827-7",
+    "division_id": "D0003",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A609-1",
+    "division_id": "D0010",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1587-1",
+    "division_id": "D0010",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-3188/2-AF",
+    "division_id": "D0005",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-3188/1-AF",
+    "division_id": "D0005",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1710-1",
+    "division_id": "D0015",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A691-1",
+    "division_id": "D0009",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A168-8",
+    "division_id": "D0004",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4241-OSD",
+    "division_id": "D0002",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1377-1",
+    "division_id": "D0010",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-2726/1-AF",
+    "division_id": "D0005",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-3260-A",
+    "division_id": "D0001",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4196-A",
+    "division_id": "D0001",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A210-1",
+    "division_id": "D0008",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4373/2-AF",
+    "division_id": "D0005",
+    "year": 2022
+  },
+  {
+    "doc_id": "WR-A168-1",
+    "division_id": "D0004",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1498-2",
+    "division_id": "D0009",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1108-3",
+    "division_id": "D0004",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1108-3",
+    "division_id": "D0003",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1108-4",
+    "division_id": "D0003",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1822-1",
+    "division_id": "D0004",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1822-1",
+    "division_id": "D0003",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-2995-A",
+    "division_id": "D0001",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-2995-A",
+    "division_id": "D0016",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-2946-A",
+    "division_id": "D0001",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A956-11",
+    "division_id": "D0004",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1377-2",
+    "division_id": "D0015",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1108-5",
+    "division_id": "D0004",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1108-5",
+    "division_id": "D0003",
+    "year": 2022
+  },
+  {
+    "doc_id": "RGSD-A2236-1",
+    "division_id": "D0017",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1026-1",
+    "division_id": "D0010",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A2051-1",
+    "division_id": "D0010",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1415-1",
+    "division_id": "D0017",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A719-1",
+    "division_id": "D0005",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A873-1",
+    "division_id": "D0009",
+    "year": 2022
+  },
+  {
+    "doc_id": "RB-A1385-2",
+    "division_id": "D0001",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1581-1",
+    "division_id": "D0001",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1603-1",
+    "division_id": "D0010",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A827-9",
+    "division_id": "D0004",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A827-9",
+    "division_id": "D0003",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1548-1",
+    "division_id": "D0006",
+    "year": 2022
+  },
+  {
+    "doc_id": "RB-A2128-1",
+    "division_id": "D0017",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1687-1",
+    "division_id": "D0008",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A134-14",
+    "division_id": "D0004",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A134-14",
+    "division_id": "D0003",
+    "year": 2022
+  },
+  {
+    "doc_id": "WR-A2499-1",
+    "division_id": "D0018",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A2153-1",
+    "division_id": "D0010",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A2391-1",
+    "division_id": "D0010",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A2392-1",
+    "division_id": "D0010",
+    "year": 2022
+  },
+  {
+    "doc_id": "RB-A872-1",
+    "division_id": "D0008",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A872-2",
+    "division_id": "D0008",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1496-1",
+    "division_id": "D0001",
+    "year": 2022
+  },
+  {
+    "doc_id": "RGSD-A2531-1",
+    "division_id": "D0019",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A660-7",
+    "division_id": "D0002",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2171-1",
+    "division_id": "D0008",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A956-15",
+    "division_id": "D0004",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1572-1",
+    "division_id": "D0009",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1959-1",
+    "division_id": "D0010",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A134-17",
+    "division_id": "D0004",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A990-2",
+    "division_id": "D0005",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A827-10",
+    "division_id": "D0003",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A989-1",
+    "division_id": "D0005",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A989-1",
+    "division_id": "D0002",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A827-13",
+    "division_id": "D0004",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2009-1",
+    "division_id": "D0008",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2009-1",
+    "division_id": "D0006",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A827-14",
+    "division_id": "D0004",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A827-14",
+    "division_id": "D0003",
+    "year": 2023
+  },
+  {
+    "doc_id": "RB-A591-1",
+    "division_id": "D0005",
+    "year": 2023
+  },
+  {
+    "doc_id": "RB-A1402-1-v3",
+    "division_id": "D0017",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1550-1",
+    "division_id": "D0007",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2641-1",
+    "division_id": "D0004",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2596-1",
+    "division_id": "D0010",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2049-1",
+    "division_id": "D0009",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1912-1",
+    "division_id": "D0020",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A827-16",
+    "division_id": "D0004",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A956-17",
+    "division_id": "D0004",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A670-1",
+    "division_id": "D0001",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A827-17",
+    "division_id": "D0004",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A134-19",
+    "division_id": "D0003",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1730-1",
+    "division_id": "D0004",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A279-4",
+    "division_id": "D0004",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2836-1",
+    "division_id": "D0004",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2456-1",
+    "division_id": "D0008",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2244-1",
+    "division_id": "D0020",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-2759-AF",
+    "division_id": "D0005",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2837-1",
+    "division_id": "D0003",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2014-2",
+    "division_id": "D0008",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1637-1",
+    "division_id": "D0009",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A134-20",
+    "division_id": "D0003",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A134-21",
+    "division_id": "D0004",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2696-1",
+    "division_id": "D0021",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2896-1",
+    "division_id": "D0010",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2013-1",
+    "division_id": "D0010",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2499-1-v2",
+    "division_id": "D0018",
+    "year": 2023
+  },
+  {
+    "doc_id": "RB-A2014-2",
+    "division_id": "D0008",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2195-2",
+    "division_id": "D0010",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2195-2",
+    "division_id": "D0015",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2195-3",
+    "division_id": "D0010",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2195-3",
+    "division_id": "D0015",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2836-2",
+    "division_id": "D0004",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2697-1",
+    "division_id": "D0003",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2882-1",
+    "division_id": "D0008",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1108-10",
+    "division_id": "D0004",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2836-3",
+    "division_id": "D0004",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3113-1",
+    "division_id": "D0009",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-4391-AF",
+    "division_id": "D0005",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A956-20",
+    "division_id": "D0004",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2504-1",
+    "division_id": "D0010",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2260-1",
+    "division_id": "D0008",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3105-1",
+    "division_id": "D0005",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3187-1",
+    "division_id": "D0019",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2662-1",
+    "division_id": "D0010",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-4194-AF",
+    "division_id": "D0005",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3121-1",
+    "division_id": "D0010",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-4189/1-OSD",
+    "division_id": "D0002",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2195-5",
+    "division_id": "D0010",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2195-5",
+    "division_id": "D0015",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2195-6",
+    "division_id": "D0010",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2195-6",
+    "division_id": "D0015",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A956-24",
+    "division_id": "D0004",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2368-1",
+    "division_id": "D0006",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A999-3",
+    "division_id": "D0005",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1822-2",
+    "division_id": "D0003",
+    "year": 2024
+  },
+  {
+    "doc_id": "RB-A2992-1",
+    "division_id": "D0008",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3246-1",
+    "division_id": "D0021",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3238-1",
+    "division_id": "D0005",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2139-1",
+    "division_id": "D0003",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-1618/1-AF",
+    "division_id": "D0005",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A956-28",
+    "division_id": "D0004",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3397-1",
+    "division_id": "D0010",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3414-1",
+    "division_id": "D0005",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3192-1",
+    "division_id": "D0010",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3192-6",
+    "division_id": "D0010",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3192-2",
+    "division_id": "D0010",
+    "year": 2024
+  },
+  {
+    "doc_id": "WR-A3554-1",
+    "division_id": "D0003",
+    "year": 2024
+  },
+  {
+    "doc_id": "RB-A3265-1",
+    "division_id": "D0010",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1934-1",
+    "division_id": "D0005",
+    "year": 2024
+  },
+  {
+    "doc_id": "RB-A1402-1-v4",
+    "division_id": "D0017",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2836-4",
+    "division_id": "D0004",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2836-4",
+    "division_id": "D0003",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2796-2",
+    "division_id": "D0010",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "division_id": "D0006",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3326-1",
+    "division_id": "D0008",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2084-1",
+    "division_id": "D0010",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3655-1",
+    "division_id": "D0010",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2105-1",
+    "division_id": "D0010",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A134-24",
+    "division_id": "D0004",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A134-24",
+    "division_id": "D0003",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3615-1",
+    "division_id": "D0004",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3558-1",
+    "division_id": "D0010",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2476-2",
+    "division_id": "D0015",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3236-1",
+    "division_id": "D0010",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "division_id": "D0003",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3379-2",
+    "division_id": "D0020",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A1108-14",
+    "division_id": "D0004",
+    "year": 2025
+  },
+  {
+    "doc_id": "WR-A3882-1",
+    "division_id": "D0006",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2836-7",
+    "division_id": "D0004",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2836-7",
+    "division_id": "D0003",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A2952-1",
+    "division_id": "D0008",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3202-1",
+    "division_id": "D0007",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3279-2",
+    "division_id": "D0004",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2269-1",
+    "division_id": "D0008",
+    "year": 2025
+  }
+]

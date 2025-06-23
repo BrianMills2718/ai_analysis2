@@ -1,0 +1,6557 @@
+[
+  {
+    "ai_id": "AI0001",
+    "ai_technology": "Rule-based AI (Expert Systems)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0002",
+    "ai_technology": "Statistical Machine Learning",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0003",
+    "ai_technology": "Backpropagation",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0004",
+    "ai_technology": "Deep Learning",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0005",
+    "ai_technology": "Monte Carlo Estimation",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0006",
+    "ai_technology": "Dynamic Programming",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0007",
+    "ai_technology": "R package qdap",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0008",
+    "ai_technology": "Logistic Regression",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0009",
+    "ai_technology": "Support Vector Machine (SVM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0010",
+    "ai_technology": "Machine Learning (for tweet coding)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0011",
+    "ai_technology": "Partitioning Around Medoids (PAM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0012",
+    "ai_technology": "Cluster Analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0013",
+    "ai_technology": "General AI Usage",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0014",
+    "ai_technology": "Botometer",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0015",
+    "ai_technology": "FakerFact (Walt algorithm)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0016",
+    "ai_technology": "Algorithms",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0017",
+    "ai_technology": "Machine learning",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0018",
+    "ai_technology": "AI-driven processes",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0019",
+    "ai_technology": "Adblock Plus (for ad whitelisting)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0020",
+    "ai_technology": "BotSlayer",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0021",
+    "ai_technology": "Machine Learning (ML)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0022",
+    "ai_technology": "Artificial Intelligence (AI)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0023",
+    "ai_technology": "DroNet (lightweight residual convolutional neural network architecture)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0024",
+    "ai_technology": "Neural Networks",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0025",
+    "ai_technology": "Decision Trees",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0026",
+    "ai_technology": "Support-Vector Machines",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0027",
+    "ai_technology": "Deep Neural Networks",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0028",
+    "ai_technology": "Ensemble Learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0029",
+    "ai_technology": "Computer Vision",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI0030",
+    "ai_technology": "Predictive Analytics",
+    "ai_category": "Data Analytics"
+  },
+  {
+    "ai_id": "AI0031",
+    "ai_technology": "Machine Learning",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0032",
+    "ai_technology": "TWANG package (R)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0033",
+    "ai_technology": "Generalized Boosted Models (GBMs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0034",
+    "ai_technology": "Machine learning (for topic modeling, though not directly applied in this study's core method)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0035",
+    "ai_technology": "Clauset-Newman-Moore community-detection algorithm",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0036",
+    "ai_technology": "Algorithmic scoring (for bot detection)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0037",
+    "ai_technology": "Community detection algorithms",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0038",
+    "ai_technology": "RAND-Lex (suite of text analysis and machine-learning tools)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0039",
+    "ai_technology": "FireEye Helix Security Platform (uses AI and ML)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0040",
+    "ai_technology": "Cylance Smart Antivirus (uses AI and predictive analytics)",
+    "ai_category": "Data Analytics"
+  },
+  {
+    "ai_id": "AI0041",
+    "ai_technology": "CrowdStrike Falcon X (uses AI)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0042",
+    "ai_technology": "FireEye Network Security and Forensics (uses proprietary algorithm)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0043",
+    "ai_technology": "Forcepoint DLP Module: Cloud Applications (uses AI and analytics)",
+    "ai_category": "Data Analytics"
+  },
+  {
+    "ai_id": "AI0044",
+    "ai_technology": "CrowdStrike Falcon Prevent (uses ML)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0045",
+    "ai_technology": "CrowdStrike Falcon Insight (uses AI and ML)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0046",
+    "ai_technology": "CylanceGUARD (uses AI)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0047",
+    "ai_technology": "CylanceOPTICS (uses AI)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0048",
+    "ai_technology": "FireEye Endpoint Security (uses proprietary ML)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0049",
+    "ai_technology": "CylancePROTECT (uses AI)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0050",
+    "ai_technology": "Forcepoint DLP Module: Network (uses AI, ML, and behavior analytics)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0051",
+    "ai_technology": "FireEye SmartVision (uses ML)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0052",
+    "ai_technology": "K-means clustering",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0053",
+    "ai_technology": "k-means clustering",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0054",
+    "ai_technology": "Pattern Recognition",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0055",
+    "ai_technology": "Reinforcement Learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0056",
+    "ai_technology": "Big Data Analysis",
+    "ai_category": "Data Analytics"
+  },
+  {
+    "ai_id": "AI0057",
+    "ai_technology": "Sentiment Analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0058",
+    "ai_technology": "Hidden Markov Modeling",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0059",
+    "ai_technology": "Long Short-Term Memory (LSTM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0060",
+    "ai_technology": "Convolutional Neural Networks",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0061",
+    "ai_technology": "RAND-Lex",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0062",
+    "ai_technology": "Natural Language Processing",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0063",
+    "ai_technology": "Artificial Intelligence",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0064",
+    "ai_technology": "Big Data Analytics",
+    "ai_category": "Data Analytics"
+  },
+  {
+    "ai_id": "AI0065",
+    "ai_technology": "Autonomous Weapons Systems",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0066",
+    "ai_technology": "Robotic Swarming",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0067",
+    "ai_technology": "Machine learning (mentioned as a possibility for dynamic testing)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0068",
+    "ai_technology": "Artificial Intelligence (AI) algorithms for sensor fusion",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0069",
+    "ai_technology": "Supervised learning (mentioned in the context of training FRT algorithms)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0070",
+    "ai_technology": "Pattern recognition (fundamental to FRT)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0071",
+    "ai_technology": "Docker",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0072",
+    "ai_technology": "Proximal Policy Optimization (PPO)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0073",
+    "ai_technology": "Imitative Learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0074",
+    "ai_technology": "Generative Adversarial Networks (GANs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0075",
+    "ai_technology": "OpenAI Gym",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0076",
+    "ai_technology": "TensorFlow",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0077",
+    "ai_technology": "Conditional Generative Adversarial Networks (CGANs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0078",
+    "ai_technology": "Asynchronous Advantage Actor Critic (A3C)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0079",
+    "ai_technology": "Q-learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0080",
+    "ai_technology": "Keyword Searching (automated)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0081",
+    "ai_technology": "Python",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0082",
+    "ai_technology": "Random Forests",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0083",
+    "ai_technology": "Computational Intelligence",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0084",
+    "ai_technology": "Computer Reasoning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0085",
+    "ai_technology": "Support Vector Machines",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0086",
+    "ai_technology": "Bayesian learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0087",
+    "ai_technology": "Machine Intelligence",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0088",
+    "ai_technology": "Boosting",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0089",
+    "ai_technology": "Naive Bayes",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0090",
+    "ai_technology": "Text Analysis (using regular expressions for parsing product names)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0091",
+    "ai_technology": "Natural-Language Processing (NLP)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0092",
+    "ai_technology": "Unsupervised ML",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0093",
+    "ai_technology": "Sensor Fusion",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0094",
+    "ai_technology": "Simultaneous Localization and Mapping (SLAM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0095",
+    "ai_technology": "Path Planning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0096",
+    "ai_technology": "Data Mining",
+    "ai_category": "Data Analytics"
+  },
+  {
+    "ai_id": "AI0097",
+    "ai_technology": "Task Prioritization and Allocation",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0098",
+    "ai_technology": "Supervised ML",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0099",
+    "ai_technology": "Artificial intelligence",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0100",
+    "ai_technology": "Caffe",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0101",
+    "ai_technology": "Kibana (data management platform)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0102",
+    "ai_technology": "Natural Language Processing (NLP)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0103",
+    "ai_technology": "Theano",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0104",
+    "ai_technology": "Project Maven (example of AI algorithms for object detection)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0105",
+    "ai_technology": "Microsoft Office Suite (used extensively, but often as a limitation)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0106",
+    "ai_technology": "Google Analytics (commercial example)",
+    "ai_category": "Data Analytics"
+  },
+  {
+    "ai_id": "AI0107",
+    "ai_technology": "Expert Systems",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0108",
+    "ai_technology": "Supervised Learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0109",
+    "ai_technology": "PyTorch",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0110",
+    "ai_technology": "Fireline (JAIC product)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0111",
+    "ai_technology": "Planners (scheduling and resource allocation)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0112",
+    "ai_technology": "Floodline (JAIC product)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0113",
+    "ai_technology": "Robotics (as a combination of AI/ML capabilities)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0114",
+    "ai_technology": "Machine learning (for heterogeneous causal effects)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0115",
+    "ai_technology": "Stata (twang package for GBM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0116",
+    "ai_technology": "Generalized Boosted Methods (GBM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0117",
+    "ai_technology": "LexisNexis database",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0118",
+    "ai_technology": "TreeTagger engine",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0119",
+    "ai_technology": "MALLET (Java-based package)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0120",
+    "ai_technology": "Gensim (Python library)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0121",
+    "ai_technology": "Stanford TMT (Scala language)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0122",
+    "ai_technology": "lda package (R)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0123",
+    "ai_technology": "R statistical software",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0124",
+    "ai_technology": "topicmodels package (R)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0125",
+    "ai_technology": "Singular Value Decomposition (SVD)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0126",
+    "ai_technology": "Bag-of-Words (BoW)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0127",
+    "ai_technology": "Lemmatization",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0128",
+    "ai_technology": "Topic Modeling (LDA, CorEx, pLSA, LSA, CTM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0129",
+    "ai_technology": "Tokenization",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0130",
+    "ai_technology": "Term Frequency-Inverse Document Frequency (TF-IDF)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0131",
+    "ai_technology": "Google Trends",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0132",
+    "ai_technology": "koRpus package",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0133",
+    "ai_technology": "Algorithmic analysis",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0134",
+    "ai_technology": "ML-automated screening",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0135",
+    "ai_technology": "Psychometric analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0136",
+    "ai_technology": "Data mining",
+    "ai_category": "Data Analytics"
+  },
+  {
+    "ai_id": "AI0137",
+    "ai_technology": "ML profiling",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0138",
+    "ai_technology": "Sentiment analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0139",
+    "ai_technology": "Machine Learning (for decoding neural data)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0140",
+    "ai_technology": "Hadoop",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0141",
+    "ai_technology": "Facial Recognition",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0142",
+    "ai_technology": "Adversarial Machine Learning",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0143",
+    "ai_technology": "Hadoop Spark",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0144",
+    "ai_technology": "Hadoop Storm",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0145",
+    "ai_technology": "Human-assisted machine decisionmaking",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0146",
+    "ai_technology": "Machine Learning (for anomaly detection)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0147",
+    "ai_technology": "Predictive analytics",
+    "ai_category": "Data Analytics"
+  },
+  {
+    "ai_id": "AI0148",
+    "ai_technology": "AI for autonomous drone systems",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0149",
+    "ai_technology": "AI for underwater target recognition",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0150",
+    "ai_technology": "AI for signal feature extraction",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0151",
+    "ai_technology": "AI navigation methods for unmanned maritime navigation",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0152",
+    "ai_technology": "AI for decision aids",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0153",
+    "ai_technology": "AI for cooperative mission assignment, resource optimization, and path planning for multiple drones",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0154",
+    "ai_technology": "AI for radar target recognition",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0155",
+    "ai_technology": "Algorithm-based approaches",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0156",
+    "ai_technology": "Deep learning",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0157",
+    "ai_technology": "AI for C2 systems",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0158",
+    "ai_technology": "AI applications for targeting",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0159",
+    "ai_technology": "Big data analytics",
+    "ai_category": "Data Analytics"
+  },
+  {
+    "ai_id": "AI0160",
+    "ai_technology": "Graph Neural Networks (GNNs)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0161",
+    "ai_technology": "Multi-Layer Perceptrons (MLPs)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0162",
+    "ai_technology": "Recurrent Neural Networks (RNNs)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0163",
+    "ai_technology": "GraphSAGE",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0164",
+    "ai_technology": "Normalizing Flows",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0165",
+    "ai_technology": "Conditional Tabular GAN (CTGAN)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0166",
+    "ai_technology": "Graph Convolutional Networks (GCNs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0167",
+    "ai_technology": "Attention Networks",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0168",
+    "ai_technology": "Variational Auto-Encoders (VAEs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0169",
+    "ai_technology": "Graph Auto-Encoder (GAE)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0170",
+    "ai_technology": "GraphSAINT sampling method",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0171",
+    "ai_technology": "Semi-supervised learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0172",
+    "ai_technology": "Graph-based machine learning",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0173",
+    "ai_technology": "Topic modeling",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0174",
+    "ai_technology": "Machine Learning Modeling",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0175",
+    "ai_technology": "Google Maps API",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0176",
+    "ai_technology": "Natural Language Toolkit (NLTK)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0177",
+    "ai_technology": "Bag-of-Words (BOW) representation",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0178",
+    "ai_technology": "Neural Networks (Shallow fully connected feed-forward)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0179",
+    "ai_technology": "BERT (Bidirectional Encoder Representations from Transformers)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0180",
+    "ai_technology": "TF-IDF (Term Frequency-Inverse Document Frequency)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0181",
+    "ai_technology": "Synthetic Minority Over-Sampling Technique (SMOTE)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0182",
+    "ai_technology": "TF-IDF BOW",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0183",
+    "ai_technology": "BERT",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0184",
+    "ai_technology": "Python module 'imbalanced-learn'",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0185",
+    "ai_technology": "Machine Learning (Supervised Learning)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0186",
+    "ai_technology": "Keras",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0187",
+    "ai_technology": "Automated Planning and Acting",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0188",
+    "ai_technology": "Markov generator",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0189",
+    "ai_technology": "Deep Learning (DL)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0190",
+    "ai_technology": "Natural Language Understanding (NLU)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0191",
+    "ai_technology": "Word Embeddings",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0192",
+    "ai_technology": "Scikit-learn",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0193",
+    "ai_technology": "HuggingFace's Transformers",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0194",
+    "ai_technology": "Deep Neural Networks (DNN)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0195",
+    "ai_technology": "DistilBERT",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0196",
+    "ai_technology": "Artificial intelligence (AI)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0197",
+    "ai_technology": "Machine-learning approaches (mentioned as a potential tool for gleaning patterns from data that could be traced back to specific officers)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0198",
+    "ai_technology": "Random Forest Regression",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0199",
+    "ai_technology": "Ensemble Methods",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0200",
+    "ai_technology": "LASSO (Least Absolute Shrinkage and Selection Operator)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0201",
+    "ai_technology": "Generalized Boosted Model",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0202",
+    "ai_technology": "R language ('twang' software package)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0203",
+    "ai_technology": "Region-based Convolutional Neural Network (RCNN)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0204",
+    "ai_technology": "Mask R-CNN",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0205",
+    "ai_technology": "Mask-RCNN",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0206",
+    "ai_technology": "TensorFlow (mentioned as underlying framework for Project Maven's algorithm)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0207",
+    "ai_technology": "Faster R-CNN",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0208",
+    "ai_technology": "Transfer Learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0209",
+    "ai_technology": "ImageNet (pretrained weights)",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI0210",
+    "ai_technology": "Fast R-CNN",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0211",
+    "ai_technology": "Domain Adaptation",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0212",
+    "ai_technology": "Caffe2",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0213",
+    "ai_technology": "Single Shot Detection (SSD)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0214",
+    "ai_technology": "Convolutional Neural Networks (CNNs)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0215",
+    "ai_technology": "Detectron",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0216",
+    "ai_technology": "Object Detection",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0217",
+    "ai_technology": "Nvidia Tesla M60 GPU",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0218",
+    "ai_technology": "C5.0 algorithm",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0219",
+    "ai_technology": "Patient Rule Induction Method (PRIM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0220",
+    "ai_technology": "Machine learning algorithm (for estimating probability of responding)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0221",
+    "ai_technology": "Toolkit for Weighting and Analysis of Nonequivalent Groups (TWANG)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0222",
+    "ai_technology": "Machine learning (attempted)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0223",
+    "ai_technology": "AI/ML-enabled situational awareness",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0224",
+    "ai_technology": "Fully autonomous operation (movement, target detection, identification, and engagement)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0225",
+    "ai_technology": "Rule-based AI (mentioned for NIFC-CA)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0226",
+    "ai_technology": "Artificial Neural Networks (ANN)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0227",
+    "ai_technology": "Supervised Machine Learning",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0228",
+    "ai_technology": "Conda",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0229",
+    "ai_technology": "Support Vector Machines (SVM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0230",
+    "ai_technology": "TFIDF (Term Frequency-Inverse Document Frequency)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0231",
+    "ai_technology": "Unsupervised Learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0232",
+    "ai_technology": "Classification and Regression Tree (CART) model",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0233",
+    "ai_technology": "Deep Reinforcement Learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0234",
+    "ai_technology": "Text Summary and Narrative Synthesis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0235",
+    "ai_technology": "Machine Vision (e.g., object recognition, facial recognition)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0236",
+    "ai_technology": "Waveform Phenomenology analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0237",
+    "ai_technology": "Language Translation",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0238",
+    "ai_technology": "Speech Recognition",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0239",
+    "ai_technology": "Bayesian Learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0240",
+    "ai_technology": "ArcGIS Pro (for GIS integration)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0241",
+    "ai_technology": "Hidden Markov Models",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0242",
+    "ai_technology": "Avid (video editing software, discussed for potential adoption)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0243",
+    "ai_technology": "Google TensorFlow (mentioned as a platform for ML)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0244",
+    "ai_technology": "Autoencoders (including Denoising Autoencoders - DAEs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0245",
+    "ai_technology": "Long Short-Term Memory (LSTM) units",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0246",
+    "ai_technology": "Nonlinear, iterative machine learning algorithm (for propensity score estimation)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0247",
+    "ai_technology": "Approximate String Matching (ASM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0248",
+    "ai_technology": "Python (cleanco package)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0249",
+    "ai_technology": "Full-Motion Video (FMV)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0250",
+    "ai_technology": "Remotely Piloted Aircraft (RPAs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0251",
+    "ai_technology": "Android Tactical Advise Kit (ATAK)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0252",
+    "ai_technology": "Machine learning algorithms",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0253",
+    "ai_technology": "Machine learning algorithm (for patent text classification)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0254",
+    "ai_technology": "Generalized Boosted Regression (GBR)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0255",
+    "ai_technology": "GBM package (mentioned in reference)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0256",
+    "ai_technology": "Artificial Intelligence (AI) for disease diagnosis and monitoring (mentioned in context of InterVenn Biosciences)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0257",
+    "ai_technology": "Web of Science (WOS) author profile identification algorithm",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0258",
+    "ai_technology": "InterVenn Biosciences' AI platform",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0259",
+    "ai_technology": "Keyword Plus generation algorithm (used by WOS)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0260",
+    "ai_technology": "Machine learning (implied for data processing and pattern recognition)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0261",
+    "ai_technology": "Big-data methods",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0262",
+    "ai_technology": "Lumina's Analytica (for computational model)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0263",
+    "ai_technology": "Bayesian Updating",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0264",
+    "ai_technology": "R (statistical software)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0265",
+    "ai_technology": "Gradient Boosted Regression (for propensity score estimation)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0266",
+    "ai_technology": "twang package",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0267",
+    "ai_technology": "Natural language processing",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0268",
+    "ai_technology": "CATAPULTA",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0269",
+    "ai_technology": "Game Theory (as applied in ORAM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0270",
+    "ai_technology": "RAND IBM 7044 computer",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0271",
+    "ai_technology": "TAB-ROM",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0272",
+    "ai_technology": "TSAR/TSARINA",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0273",
+    "ai_technology": "Statistical techniques",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0274",
+    "ai_technology": "TALLY/TOTEM",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0275",
+    "ai_technology": "AHAB",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0276",
+    "ai_technology": "TATR",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0277",
+    "ai_technology": "ORAM",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0278",
+    "ai_technology": "Modeling and Simulation (advanced computational methods)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0279",
+    "ai_technology": "AIDA",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0280",
+    "ai_technology": "PROBE I",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0281",
+    "ai_technology": "Lean-START",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0282",
+    "ai_technology": "JOSS computer system",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0283",
+    "ai_technology": "Python (networkx, nxviz)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0284",
+    "ai_technology": "IBM System 370/158 digital computer",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0285",
+    "ai_technology": "JICM",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0286",
+    "ai_technology": "TAB-VAM",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0287",
+    "ai_technology": "Statistical Analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0288",
+    "ai_technology": "Text Mining",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0289",
+    "ai_technology": "Computational Linguistics",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0290",
+    "ai_technology": "Lexical analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0291",
+    "ai_technology": "Amazon Transcribe",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0292",
+    "ai_technology": "Random Forest classifier",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0293",
+    "ai_technology": "Machine Learning (specifically, Random Forest classifier for predictive modeling)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0294",
+    "ai_technology": "Classification And Regression Tree (CART) analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0295",
+    "ai_technology": "Polytomous regression",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0296",
+    "ai_technology": "mice package",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0297",
+    "ai_technology": "Predictive Mean Matching (PMM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0298",
+    "ai_technology": "R statistical programming language",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0299",
+    "ai_technology": "TWANG package",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0300",
+    "ai_technology": "Generalized Boosted Models (GBM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0301",
+    "ai_technology": "Gaussian imputation following empirical distribution transformation (EMP) (considered but PMM preferred)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0302",
+    "ai_technology": "Logistic regression (initially considered but rejected for binary variables with sparse distributions)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0303",
+    "ai_technology": "Two-level imputation with generalized linear mixed effects regression (GLMER) (considered but performed poorly)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0304",
+    "ai_technology": "TWANG package in R",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0305",
+    "ai_technology": "mice package in R",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0306",
+    "ai_technology": "Stance Analysis (as an ML feature)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0307",
+    "ai_technology": "Text Classification",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0308",
+    "ai_technology": "Multitask Learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0309",
+    "ai_technology": "RAND-Lex (proprietary text and social media analysis software platform)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0310",
+    "ai_technology": "Algorithmic analysis for market segmentation",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0311",
+    "ai_technology": "Text Analytics (Keyness Testing, Collocates, In-Context Viewing)",
+    "ai_category": "Data Analytics"
+  },
+  {
+    "ai_id": "AI0312",
+    "ai_technology": "Community Lexical Analysis (CLA)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0313",
+    "ai_technology": "Brandwatch",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0314",
+    "ai_technology": "Text Classification Module",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0315",
+    "ai_technology": "Text Clustering Module",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0316",
+    "ai_technology": "LDA Topic Modelling Module",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0317",
+    "ai_technology": "ABBYY FineReader 15 (for OCR)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0318",
+    "ai_technology": "Text Clustering (unsupervised)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0319",
+    "ai_technology": "Lexical Analysis Module",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0320",
+    "ai_technology": "Corpus Linguistics Analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0321",
+    "ai_technology": "Stance Analysis Module",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0322",
+    "ai_technology": "RAND-Lex (proprietary suite of analytic tools)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0323",
+    "ai_technology": "RiskIQ's PassiveTotal (for data analysis)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0324",
+    "ai_technology": "Maltego (for visualization)",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI0325",
+    "ai_technology": "Bayesian Networks",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0326",
+    "ai_technology": "Autoregressive Time Series Models",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0327",
+    "ai_technology": "Genetic Algorithms",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0328",
+    "ai_technology": "Markov Models",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0329",
+    "ai_technology": "Behavioral Analytics",
+    "ai_category": "Data Analytics"
+  },
+  {
+    "ai_id": "AI0330",
+    "ai_technology": "Machine Learning (general)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0331",
+    "ai_technology": "Satellite image processing for economic activity estimation",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI0332",
+    "ai_technology": "Data calibration and extrapolation",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0333",
+    "ai_technology": "ArcGIS Spatial Analyst software",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0334",
+    "ai_technology": "Algorithmic Pricing/Prediction",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0335",
+    "ai_technology": "Generalized Boosted Regression Model (GBM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0336",
+    "ai_technology": "R package 'gbm'",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0337",
+    "ai_technology": "Entity resolution algorithm",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0338",
+    "ai_technology": "Entity resolution algorithm (proprietary to data company)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0339",
+    "ai_technology": "Doubly robust estimator (statistical modeling approach)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0340",
+    "ai_technology": "Logistic regression (statistical modeling)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0341",
+    "ai_technology": "Technology Assisted Review (TAR) / predictive coding",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0342",
+    "ai_technology": "Artificial Intelligence (AI) development and application",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0343",
+    "ai_technology": "Lasso Regression (as a machine learning technique for variable selection)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0344",
+    "ai_technology": "lassopack (Stata package)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0345",
+    "ai_technology": "Topic Modelling",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0346",
+    "ai_technology": "Collocate Extraction",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0347",
+    "ai_technology": "Lexical Analysis (using RAND-Lex)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0348",
+    "ai_technology": "Regression Analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0349",
+    "ai_technology": "Keyness Testing",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0350",
+    "ai_technology": "Self-improvement",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0351",
+    "ai_technology": "Monte Carlo tree search",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0352",
+    "ai_technology": "Deep reinforcement learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0353",
+    "ai_technology": "Deep neural networks",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0354",
+    "ai_technology": "Alpha-beta pruning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0355",
+    "ai_technology": "Neural networks (trained using supervised learning)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0356",
+    "ai_technology": "Mixed integer programming (MIP)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0357",
+    "ai_technology": "Greedy heuristic",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0358",
+    "ai_technology": "Genetic algorithm",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0359",
+    "ai_technology": "Monte Carlo counterfactual regret minimization",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0360",
+    "ai_technology": "Influence network",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0361",
+    "ai_technology": "Iterated-Width Planning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0362",
+    "ai_technology": "Bayesian updating",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0363",
+    "ai_technology": "Subgame solving",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0364",
+    "ai_technology": "Iterated-Width (IW) Planning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0365",
+    "ai_technology": "PyStarCraft II",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0366",
+    "ai_technology": "Influence Network",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0367",
+    "ai_technology": "Alpha-Beta Pruning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0368",
+    "ai_technology": "Instance-based Learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0369",
+    "ai_technology": "Asynchronous Advantage Actor-Critic (A3C)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0370",
+    "ai_technology": "Deep Reinforcement Learning (DRL)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0371",
+    "ai_technology": "Gurobi (commercial solver for MIP)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0372",
+    "ai_technology": "Mixed-Integer Program (MIP)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0373",
+    "ai_technology": "Deep Q-Learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0374",
+    "ai_technology": "AlphaZero",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0375",
+    "ai_technology": "Greedy Heuristic (GH)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0376",
+    "ai_technology": "Closed-Loop Automatic Target Recognition (CL-ATR)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0377",
+    "ai_technology": "Recurrent Neural Network (RNN)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0378",
+    "ai_technology": "Monte Carlo Tree Search (MCTS)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0379",
+    "ai_technology": "Genetic Algorithm",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0380",
+    "ai_technology": "Text Clustering",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0381",
+    "ai_technology": "K-means Clustering",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0382",
+    "ai_technology": "Snowball Stemmer",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0383",
+    "ai_technology": "Dedoose 8.3.43",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0384",
+    "ai_technology": "Artificial intelligence (AI) for flagging disinformation",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0385",
+    "ai_technology": "Lithuanian defense ministry's AI program (mentioned as an example of a detection system)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0386",
+    "ai_technology": "NLTK Corpora (for stopword list)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0387",
+    "ai_technology": "Term-Frequency Inverse Document-Frequency (TF-IDF)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0388",
+    "ai_technology": "Machine Learning (Logistic Regression)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0389",
+    "ai_technology": "Bag of Words approach",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0390",
+    "ai_technology": "Machine learning (support vector machine)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0391",
+    "ai_technology": "Machine learning (ML)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0392",
+    "ai_technology": "Data analytics",
+    "ai_category": "Data Analytics"
+  },
+  {
+    "ai_id": "AI0393",
+    "ai_technology": "Generalized boosted model (machine-learning algorithm)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0394",
+    "ai_technology": "R programming language",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0395",
+    "ai_technology": "GloVe",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0396",
+    "ai_technology": "Word2Vec",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0397",
+    "ai_technology": "Farm",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0398",
+    "ai_technology": "spaCy",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0399",
+    "ai_technology": "Logistic Regression (LR)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0400",
+    "ai_technology": "AWS",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0401",
+    "ai_technology": "Question Answering",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0402",
+    "ai_technology": "Information Retrieval",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0403",
+    "ai_technology": "NLTK",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0404",
+    "ai_technology": "FastText",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0405",
+    "ai_technology": "XLNet",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0406",
+    "ai_technology": "Attention-based language models (e.g., BERT, XLNet)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0407",
+    "ai_technology": "Haystack",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0408",
+    "ai_technology": "Summarization",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0409",
+    "ai_technology": "Neural Networks (including recurrent memory units)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0410",
+    "ai_technology": "Streamlit",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0411",
+    "ai_technology": "Word Embeddings (GloVe, Word2Vec, FastText)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0412",
+    "ai_technology": "Flask",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0413",
+    "ai_technology": "Content Analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0414",
+    "ai_technology": "Persistent Surveillance Systems (PSS) analytical software (implied for image analysis and tracking)",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI0415",
+    "ai_technology": "Scenario Manager software",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0416",
+    "ai_technology": "Machine learning techniques",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0417",
+    "ai_technology": "Mission Capability Compiler (MCC) - conceptualized tool",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0418",
+    "ai_technology": "AI-enabled decision aids (conceptualized as a Mission Capability Compiler - MCC)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0419",
+    "ai_technology": "Machine Learning (mentioned as a potential capability)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0420",
+    "ai_technology": "Artificial Intelligence (mentioned as a potential capability)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0421",
+    "ai_technology": "Generalized boosted model (for propensity score estimation)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0422",
+    "ai_technology": "Project Maven",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0423",
+    "ai_technology": "Palantir Gotham platform (Ava module)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0424",
+    "ai_technology": "BERT-based natural language classifier",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0425",
+    "ai_technology": "JAIC's Entropy",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0426",
+    "ai_technology": "JAIC's MADHAT",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0427",
+    "ai_technology": "Automated target recognition (ATR)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0428",
+    "ai_technology": "Artificial Intelligence (AI) techniques",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0429",
+    "ai_technology": "Probabilistic record linkage algorithm",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0430",
+    "ai_technology": "Meltwater (proprietary NLP algorithm)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0431",
+    "ai_technology": "NIOCCS",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0432",
+    "ai_technology": "Autocoding algorithm (NIOCCS) for assigning occupation codes",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0433",
+    "ai_technology": "word2vec",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0434",
+    "ai_technology": "Word Embeddings (word2vec, GloVe)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0435",
+    "ai_technology": "Deep Neural Networks (DNNs)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0436",
+    "ai_technology": "Logistic Regression (LR) (as baseline)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0437",
+    "ai_technology": "Gensim",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0438",
+    "ai_technology": "Gated Recurrent Unit (GRU)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0439",
+    "ai_technology": "R (twang package)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0440",
+    "ai_technology": "Generalized Boosted Model (for propensity score estimation)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0441",
+    "ai_technology": "Gradient Boosting Machine (for propensity score estimation)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0442",
+    "ai_technology": "Dedoose (for qualitative data analysis)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0443",
+    "ai_technology": "AI algorithms (mentioned in relation to challenge formulation and analysis)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0444",
+    "ai_technology": "Machine learning (mentioned as a technology enabling challenges and in data analysis)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0445",
+    "ai_technology": "R computing language",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0446",
+    "ai_technology": "naivebayes (package)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0447",
+    "ai_technology": "ranger (package)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0448",
+    "ai_technology": "xgboost (package)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0449",
+    "ai_technology": "keras (package)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0450",
+    "ai_technology": "Random Forest (RF)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0451",
+    "ai_technology": "fastKNN (package)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0452",
+    "ai_technology": "K-Nearest Neighbors (KNN)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0453",
+    "ai_technology": "Extreme Gradient Boosting (XGB)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0454",
+    "ai_technology": "Nai\u0308ve Bayes (NB)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0455",
+    "ai_technology": "twang package (R)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0456",
+    "ai_technology": "Generalized Boosted Regression",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0457",
+    "ai_technology": "Louvain clustering algorithm (for community detection in collaboration networks)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0458",
+    "ai_technology": "Louvain community-detection algorithm",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0459",
+    "ai_technology": "RAND-Lex (proprietary software suite for network, text, and visualization analysis)",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI0460",
+    "ai_technology": "Stata",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0461",
+    "ai_technology": "Quantile regression (for BMI trends)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0462",
+    "ai_technology": "Bootstrapping (for parameter uncertainty)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0463",
+    "ai_technology": "Statistical modeling (e.g., probit, OLS, multinomial logit, ordered probit)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0464",
+    "ai_technology": "CMP package (for joint modeling)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0465",
+    "ai_technology": "gensim version 3.8.3",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0466",
+    "ai_technology": "Time-Series Clustering (using OPTICS algorithm)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0467",
+    "ai_technology": "Latent Dirichlet Allocation (LDA) Topic Modeling",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0468",
+    "ai_technology": "Explainable AI (XAI)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0469",
+    "ai_technology": "Deep Neural Nets",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0470",
+    "ai_technology": "Hybrid Algorithms",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0471",
+    "ai_technology": "Data Processing",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0472",
+    "ai_technology": "Supervised Training (for BCI)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0473",
+    "ai_technology": "Otter.ai",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0474",
+    "ai_technology": "Topic Modeling (attempted)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0475",
+    "ai_technology": "Machine Learning (potential future use)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0476",
+    "ai_technology": "RAND-Lex (in-house text analysis software)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0477",
+    "ai_technology": "Stata (TWANG package)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0478",
+    "ai_technology": "Markov Chain Monte Carlo (MCMC)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0479",
+    "ai_technology": "Gaussian Process Regression",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0480",
+    "ai_technology": "Stan",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0481",
+    "ai_technology": "pySocialWatcher",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0482",
+    "ai_technology": "RStan",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0483",
+    "ai_technology": "Bayesian Modeling",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0484",
+    "ai_technology": "Machine Learning (general mention)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0485",
+    "ai_technology": "Artificial Neural Networks (mentioned in context of satellite data analysis and yield prediction)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0486",
+    "ai_technology": "Computer Vision (mentioned for crop yield prediction and disease detection)",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI0487",
+    "ai_technology": "Mixture-of-survival-expert models",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0488",
+    "ai_technology": "sentence-transformer library",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0489",
+    "ai_technology": "Transformer models (BERT-based, specifically DistilRoBERTa)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0490",
+    "ai_technology": "scikit-learn",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0491",
+    "ai_technology": "T-SNE (for dimensionality reduction)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0492",
+    "ai_technology": "Siamese network (for sentence embedding)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0493",
+    "ai_technology": "Bag-of-Words (BoW) models",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0494",
+    "ai_technology": "Machine learning (gradient-boosted models for weighting in internal benchmarking)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0495",
+    "ai_technology": "Potential for machine learning models to identify low-risk/low-priority events (mentioned as a future possibility)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0496",
+    "ai_technology": "R (for statistical analysis and machine learning)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0497",
+    "ai_technology": "Vantage Point (text-mining software)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0498",
+    "ai_technology": "Artificial intelligence methods (mentioned for simulating adversary behaviors)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0499",
+    "ai_technology": "Machine learning methods (mentioned as potential for future development)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0500",
+    "ai_technology": "Optimization Modeling",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0501",
+    "ai_technology": "GAMS 24.3.3",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0502",
+    "ai_technology": "General Linear Models (GLM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0503",
+    "ai_technology": "Lasso Regression",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0504",
+    "ai_technology": "Support Vector Machines (SVMs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0505",
+    "ai_technology": "CPLEX 12.6.0.1",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0506",
+    "ai_technology": "Neural Networks (NNs)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0507",
+    "ai_technology": "Random Forests (RFs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0508",
+    "ai_technology": "Bayesian Additive Regression Trees (BART)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0509",
+    "ai_technology": "Keyword surge detection (rudimentary form of pattern recognition)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0510",
+    "ai_technology": "Machine learning (discussed as a related technique)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0511",
+    "ai_technology": "Binary Classification",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0512",
+    "ai_technology": "Anomaly Detection",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0513",
+    "ai_technology": "Data Fusion",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0514",
+    "ai_technology": "AI-enabled soft robotic systems",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0515",
+    "ai_technology": "Convolutional Neural Network (CNN)-based navigation systems",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0516",
+    "ai_technology": "AI-enabled sensor fusion",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0517",
+    "ai_technology": "AI-enabled adaptive multivehicle sensor coverage",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0518",
+    "ai_technology": "RAND Europe's horizon-scanning database (which likely uses AI/ML for data aggregation and analysis)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0519",
+    "ai_technology": "Automated tools",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0520",
+    "ai_technology": "Machine learning tools",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0521",
+    "ai_technology": "Automating Horizon Scanning (mentioned as a DSTG developed approach)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0522",
+    "ai_technology": "AiCE (Automating Horizon Scanning for the Detection of Emerging Technologies)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0523",
+    "ai_technology": "AI-powered decision support systems (DSSs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0524",
+    "ai_technology": "Machine Learning (mentioned as a subfield of AI)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0525",
+    "ai_technology": "AI-driven automated systems",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0526",
+    "ai_technology": "Google's Geocoding API",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0527",
+    "ai_technology": "Python (scripting for geocoding)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0528",
+    "ai_technology": "Gradient Boosting Machine (GBM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0529",
+    "ai_technology": "GBM package for R",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0530",
+    "ai_technology": "Unsupervised Machine Learning (mentioned as future direction)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0531",
+    "ai_technology": "Support Vector Machine (SVM) implementation in R (Quanteda Initiative)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0532",
+    "ai_technology": "Anomaly Detection (mentioned as future direction)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0533",
+    "ai_technology": "Libsvm",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0534",
+    "ai_technology": "Support Vector Machine (SVM) implementation in Python (scikit-learn)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0535",
+    "ai_technology": "Supervised Machine Learning (SML)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0536",
+    "ai_technology": "Stance and Sentiment Analysis (mentioned as future direction)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0537",
+    "ai_technology": "scikit-learn (Python)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0538",
+    "ai_technology": "R",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0539",
+    "ai_technology": "Apache Mahout (Java)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0540",
+    "ai_technology": "CNTK",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0541",
+    "ai_technology": "Liblinear",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0542",
+    "ai_technology": "DistillerSR Systematic Review Software (includes AI features)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0543",
+    "ai_technology": "AI Reprioritization (for screening)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0544",
+    "ai_technology": "LightGBM",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0545",
+    "ai_technology": "Text Encoding (Universal Sentence Encoder)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0546",
+    "ai_technology": "Gradient Boosting (LightGBM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0547",
+    "ai_technology": "Google Universal Sentence Encoder",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0548",
+    "ai_technology": "FinBERT",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0549",
+    "ai_technology": "Kernel regression (for smoothing and prediction)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0550",
+    "ai_technology": "IFI Claims Direct Platform (data source, likely with computational capabilities)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0551",
+    "ai_technology": "Logistic regression (for curve fitting)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0552",
+    "ai_technology": "Statistical software for analysis (implied)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0553",
+    "ai_technology": "Cusum algorithm (for change point detection)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0554",
+    "ai_technology": "Facial recognition",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0555",
+    "ai_technology": "Gait recognition",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0556",
+    "ai_technology": "AI algorithms for data interpretation and decision-making",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0557",
+    "ai_technology": "AI-based systems for disease diagnosis (mentioned as an example of AI use)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0558",
+    "ai_technology": "Iterative proportional fitting (IPF) procedure",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0559",
+    "ai_technology": "Machine Learning (as part of RAND-Lex)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0560",
+    "ai_technology": "Artificial intelligence protocols",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0561",
+    "ai_technology": "Automatic target-recognition algorithms",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0562",
+    "ai_technology": "eRevise system",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0563",
+    "ai_technology": "Hardware and software packages for analyzing VPO and socio-political/economic situations",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0564",
+    "ai_technology": "Artificial intelligence methods",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0565",
+    "ai_technology": "Bayesian inference (Bayesian Improved First Name Surname and Geocoding - BIFSG)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0566",
+    "ai_technology": "ArcGIS (for geocoding)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0567",
+    "ai_technology": "Artificial Intelligence (general application for complex modeling and simulation)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0568",
+    "ai_technology": "Game Theory (as a framework for AI decision-making)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0569",
+    "ai_technology": "Custom-built game-theoretic model",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0570",
+    "ai_technology": "Celebrity Voice Cloning app",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0571",
+    "ai_technology": "MyHeritage",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0572",
+    "ai_technology": "Generated Photos",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0573",
+    "ai_technology": "Natural Language Computer Models (e.g., GPT-3)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0574",
+    "ai_technology": "Voicer Famous AI Voice Changer",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0575",
+    "ai_technology": "DeepNude",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0576",
+    "ai_technology": "ZAO app",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0577",
+    "ai_technology": "GPT-3",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0578",
+    "ai_technology": "Reface",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0579",
+    "ai_technology": "Statistical Modeling (as a foundation, with potential for ML integration)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0580",
+    "ai_technology": "International Futures tool (for projecting key factors, an advanced computational tool)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0581",
+    "ai_technology": "Machine Learning (specifically Random Forest approach mentioned as a potential improvement)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0582",
+    "ai_technology": "Reserve Recruiting Resource Model (RRRM) - as a computational tool",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0583",
+    "ai_technology": "Optimization Algorithms (e.g., COBYLA)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0584",
+    "ai_technology": "Machine Learning (mentioned as a related field to autonomy and unmanned systems)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0585",
+    "ai_technology": "Artificial Intelligence (AI) (mentioned in the context of autonomous Air Operations Center (AOC) systems as an AI assistant typology)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0586",
+    "ai_technology": "Neural Network Autoencoder",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0587",
+    "ai_technology": "Data analysis (implied in processing interview and financial diary data)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0588",
+    "ai_technology": "Algorithmic matching (implied in app functionality)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0589",
+    "ai_technology": "Uber app",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0590",
+    "ai_technology": "Lyft app",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0591",
+    "ai_technology": "Toolkit for Weighting and Analysis of Nonequivalent Groups (TWANG) package for R",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0592",
+    "ai_technology": "Generalized Boosted Regression (for propensity score estimation)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0593",
+    "ai_technology": "TWANG package (which utilizes machine learning)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0594",
+    "ai_technology": "Multilayer Perceptron (MLP)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0595",
+    "ai_technology": "Garson's algorithm (for model interpretation)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0596",
+    "ai_technology": "RSNNS (Stuttgart Neural Network Simulator) in R",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0597",
+    "ai_technology": "AI-generated fake traffic signals (mentioned in a scenario context)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0598",
+    "ai_technology": "Machine learning (mentioned as a driver of information operations and potential for future AWS development)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0599",
+    "ai_technology": "R (mice package)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0600",
+    "ai_technology": "Bayesian Improved Surname Geocoding (BISG) (for race/ethnicity imputation)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0601",
+    "ai_technology": "ArcGIS mapping software (for geocoding and mapping)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0602",
+    "ai_technology": "Random Forests (for imputation)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0603",
+    "ai_technology": "Statistical Process Control (SPC) algorithms",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0604",
+    "ai_technology": "Quantum ML variational auto-encoder (VAE)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0605",
+    "ai_technology": "Quantum ML quanvolutional neural networks (QuanNN)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0606",
+    "ai_technology": "Quantum ML generative adversarial network (GAN)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0607",
+    "ai_technology": "AI-powered drug design",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0608",
+    "ai_technology": "Artificial Intelligence (AI) adoption (studied for its link to offshoring)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0609",
+    "ai_technology": "Machine Learning (mentioned as a driver of offshoring)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0610",
+    "ai_technology": "Amazon Web Services (AWS) Transcribe",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0611",
+    "ai_technology": "HuggingFace TransformerForSequenceClassification module",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0612",
+    "ai_technology": "RAND-Lex suite",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0613",
+    "ai_technology": "Automatic Speech Recognition (ASR)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0614",
+    "ai_technology": "Image Recognition models",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI0615",
+    "ai_technology": "Ensemble ML models (e.g., Random Forests)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0616",
+    "ai_technology": "Rule list models",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0617",
+    "ai_technology": "Gaussian Processes (Machine Learning/Advanced Computational Method)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0618",
+    "ai_technology": "Machine learning techniques (mentioned for optimization)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0619",
+    "ai_technology": "mco R package",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0620",
+    "ai_technology": "Multi-objective evolutionary optimization (specifically NSGA-II)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0621",
+    "ai_technology": "DeepSpeech (Mozilla)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0622",
+    "ai_technology": "Speaker Recognition",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0623",
+    "ai_technology": "Principal Component Analysis (PCA)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0624",
+    "ai_technology": "Speech-to-Text Transcription",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0625",
+    "ai_technology": "Faster R-CNN architecture",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0626",
+    "ai_technology": "Ensemble Models",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0627",
+    "ai_technology": "Image Classification",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI0628",
+    "ai_technology": "VGG speaker-identification system",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0629",
+    "ai_technology": "RetinaNet architecture",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0630",
+    "ai_technology": "AI for automated performance assessment",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0631",
+    "ai_technology": "Artificial Intelligence (AI) applications for algorithmic approximation of scoring, forecasting performance benefits, and recommending/scheduling training",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0632",
+    "ai_technology": "Machine Learning (AI/ML)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0633",
+    "ai_technology": "Random Forest Model",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0634",
+    "ai_technology": "Generalized Boosted Models",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0635",
+    "ai_technology": "Algorithms for matching job seekers to open positions",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0636",
+    "ai_technology": "Algorithms for suggesting compensation packages",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0637",
+    "ai_technology": "Algorithms for predicting future job performance",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0638",
+    "ai_technology": "AI assistants for career coaching",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0639",
+    "ai_technology": "Machine learning techniques to analyze workforce data for planning purposes",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0640",
+    "ai_technology": "AI-based algorithms for talent management",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0641",
+    "ai_technology": "Automated audits and alerts",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0642",
+    "ai_technology": "Chatbots using natural language processing",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0643",
+    "ai_technology": "Algorithms for tagging and indexing content in learning management systems",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0644",
+    "ai_technology": "CRC-SPIN (microsimulation model with Bayesian calibration)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0645",
+    "ai_technology": "Approximate Bayesian Computation (ABC)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0646",
+    "ai_technology": "EMEWS (HPC workflow management)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0647",
+    "ai_technology": "c19randepimod R package (for COVID-19 modeling and analysis)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0648",
+    "ai_technology": "crcrdm R package (for large-scale microsimulation studies)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0649",
+    "ai_technology": "Swift-T (HPC workflow management)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0650",
+    "ai_technology": "Bayesian Inference (via IMABC)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0651",
+    "ai_technology": "Burning Glass Technologies' skill projection model",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0652",
+    "ai_technology": "Time series econometric methods (for skill projections)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0653",
+    "ai_technology": "Predictive modeling (for skill projections)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0654",
+    "ai_technology": "Support vector machine (for skill projections)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0655",
+    "ai_technology": "Artificial Neural Networks (ANNs)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0656",
+    "ai_technology": "Tensor Cores (mentioned as hardware for ML acceleration)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0657",
+    "ai_technology": "Kubeflow",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0658",
+    "ai_technology": "Cognitive EW (AI-enabled cognitive electronic warfare)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0659",
+    "ai_technology": "SAS/OR statistical package",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0660",
+    "ai_technology": "Mixed-Integer Programming (MIP)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0661",
+    "ai_technology": "Demographic matching algorithm",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0662",
+    "ai_technology": "Text clustering algorithm",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0663",
+    "ai_technology": "Deep-learning approaches (convolutional neural networks) for feature extraction, selection, and classification in FR algorithms.",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0664",
+    "ai_technology": "Neuroscientific computer games",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0665",
+    "ai_technology": "Facial expression analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0666",
+    "ai_technology": "ML algorithms",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0667",
+    "ai_technology": "Online risk-taking games",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0668",
+    "ai_technology": "ML language libraries",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0669",
+    "ai_technology": "AI chat bots",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0670",
+    "ai_technology": "Linguistic interpretation",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0671",
+    "ai_technology": "Behavioral-based interview methods",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0672",
+    "ai_technology": "Voice recognition",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0673",
+    "ai_technology": "AI/ML advanced analytics",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0674",
+    "ai_technology": "Scalable text-mining",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0675",
+    "ai_technology": "Community detection algorithm (using Louvain modularity)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0676",
+    "ai_technology": "Latent Semantic Analysis (LSA)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0677",
+    "ai_technology": "Spark NLP",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0678",
+    "ai_technology": "Generalized Boosted Modeling (GBM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0679",
+    "ai_technology": "twang package in Stata",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0680",
+    "ai_technology": "Machine-learning algorithm for citation screening",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0681",
+    "ai_technology": "Gleb Chuvpilo's AI Research Rankings 2020 data",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0682",
+    "ai_technology": "Elsevier/Scopus",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0683",
+    "ai_technology": "Nesta data",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0684",
+    "ai_technology": "arXiv preprint repository",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0685",
+    "ai_technology": "Network analysis of AI research collaborations",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0686",
+    "ai_technology": "Analysis of AI-related publications",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0687",
+    "ai_technology": "Microsoft Academic Graph Databases",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0688",
+    "ai_technology": "textmineR package",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0689",
+    "ai_technology": "Penalized General Linear Models (GLM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0690",
+    "ai_technology": "Hierarchical Density-Based Spatial Clustering of Applications with Noise (HDBSCAN)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0691",
+    "ai_technology": "SCAnTExT",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0692",
+    "ai_technology": "Term Frequency\u2013Inverse Document Frequency (TF-IDF)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0693",
+    "ai_technology": "Uniform Manifold Approximation and Projection (UMAP)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0694",
+    "ai_technology": "Bidirectional Encoder Representations from Transformers (BERT)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0695",
+    "ai_technology": "Generalized Boosted Regression Modeling (GBM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0696",
+    "ai_technology": "TWANG (Toolkit for Weighting and Analysis of Nonequivalent Groups)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0697",
+    "ai_technology": "Dedoose",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0698",
+    "ai_technology": "Neural Network approximators",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0699",
+    "ai_technology": "Supervised Learning (for calibration)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0700",
+    "ai_technology": "SARSA (on-policy control)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0701",
+    "ai_technology": "Jax (for adaptive behavioral modeling)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0702",
+    "ai_technology": "Reinforcement Learning (RL)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0703",
+    "ai_technology": "Artificial Intelligence (AI) for autonomous operation",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0704",
+    "ai_technology": "AI for autonomous decisionmaking",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0705",
+    "ai_technology": "Machine Learning (Support Vector Machines, Convolutional Neural Networks)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0706",
+    "ai_technology": "Convolutional Neural Network (CNN)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0707",
+    "ai_technology": "Deepfake generation (for testing purposes)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0708",
+    "ai_technology": "HELEIOS (High-Altitude, Long-Endurance, Intelligence Observation System)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0709",
+    "ai_technology": "TITAN (Tactical Intelligence Targeting Access Node)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0710",
+    "ai_technology": "AI systems for psychological warfare evaluation",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0711",
+    "ai_technology": "Algorithmic Warfare",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0712",
+    "ai_technology": "Computer modeling",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0713",
+    "ai_technology": "Cloud computing",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0714",
+    "ai_technology": "Web crawlers",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0715",
+    "ai_technology": "Python (for data crawler programming)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0716",
+    "ai_technology": "Artificial Neural Networks",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0717",
+    "ai_technology": "Post-processing methods",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0718",
+    "ai_technology": "RAND Algorithmic Equity Tool",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0719",
+    "ai_technology": "Binary Classification Algorithms",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0720",
+    "ai_technology": "RShiny",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0721",
+    "ai_technology": "In-processing methods (discussed but not implemented in the tool)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0722",
+    "ai_technology": "Pre-processing methods",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0723",
+    "ai_technology": "Scopus Author Identifier (algorithmically assigned)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0724",
+    "ai_technology": "Author disambiguation techniques (algorithmic assignment of Author Identifiers)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0725",
+    "ai_technology": "Prodigy (browser-based user interface annotation package)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0726",
+    "ai_technology": "spaCy (python NLP package)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0727",
+    "ai_technology": "artificial intelligence\u2013enabled authentication and access (zero-trust environments)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0728",
+    "ai_technology": "Artificial Intelligence (AI) capabilities for advanced analytics and forecasting",
+    "ai_category": "Data Analytics"
+  },
+  {
+    "ai_id": "AI0729",
+    "ai_technology": "Predictive Performance Equation (PPE)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0730",
+    "ai_technology": "Stan (for probabilistic programming)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0731",
+    "ai_technology": "Computational Cognitive Models",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0732",
+    "ai_technology": "XGBoost (gradient boosting classifier)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0733",
+    "ai_technology": "Hyperopt python package",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0734",
+    "ai_technology": "Node2Vec (for network embeddings)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0735",
+    "ai_technology": "Node2Vec package",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0736",
+    "ai_technology": "Collaborative Filtering (recommender system)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0737",
+    "ai_technology": "Ensemble Modeling",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0738",
+    "ai_technology": "BERTopic",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0739",
+    "ai_technology": "UMAP",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0740",
+    "ai_technology": "HDBSCAN",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0741",
+    "ai_technology": "Topic Modeling (using BERT embeddings)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0742",
+    "ai_technology": "Adaptive LASSO",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0743",
+    "ai_technology": "Facial Recognition (Clearview AI)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0744",
+    "ai_technology": "Clearview AI",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0745",
+    "ai_technology": "Machine Learning (mentioned as basis for current algorithms)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0746",
+    "ai_technology": "Social Network Analysis (to suggest participants in engagement)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0747",
+    "ai_technology": "Decision Making Under Deep Uncertainty (DMDU) algorithms (as a model for AI design)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0748",
+    "ai_technology": "Large Language Models (LLMs) (mentioned as potential for decision structuring)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0749",
+    "ai_technology": "Decision Support Analytics (as a model for AI design)",
+    "ai_category": "Data Analytics"
+  },
+  {
+    "ai_id": "AI0750",
+    "ai_technology": "Algorithms for social connection and recommendations",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0751",
+    "ai_technology": "NWEA Virtual Comparison Group (VCG) service",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0752",
+    "ai_technology": "NWEA MAP assessment",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0753",
+    "ai_technology": "Adaptive testing (NWEA MAP assessment)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0754",
+    "ai_technology": "Matching algorithms (NWEA VCG service)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0755",
+    "ai_technology": "Machine Learning (mentioned as a theoretical application)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0756",
+    "ai_technology": "Algorithmic Threats (malicious algorithms)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0757",
+    "ai_technology": "ERNIE-ViLG 2.0",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0758",
+    "ai_technology": "ERNIE 3.0 Zeus",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0759",
+    "ai_technology": "Midjourney",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0760",
+    "ai_technology": "Generative AI (LLMs, text-to-image models)",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI0761",
+    "ai_technology": "DPA-1",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0762",
+    "ai_technology": "BERT (fine-tuned version)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0763",
+    "ai_technology": "LLaMA",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0764",
+    "ai_technology": "Bard",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0765",
+    "ai_technology": "PanGu-Alpha",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0766",
+    "ai_technology": "DALL-E 2",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0767",
+    "ai_technology": "Bing (revamped)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0768",
+    "ai_technology": "GPT-4",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0769",
+    "ai_technology": "Stable Diffusion",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0770",
+    "ai_technology": "ChatGPT",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0771",
+    "ai_technology": "Kernlab package (in R)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0772",
+    "ai_technology": "Kernel Support Vector Machine (ksvm)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0773",
+    "ai_technology": "Elicit",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0774",
+    "ai_technology": "Elicit (AI-powered research tool)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0775",
+    "ai_technology": "GUARDIAN (Geographic Utilization of Artificial Intelligence in Real-Time for Disease Identification and Alert Notification)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0776",
+    "ai_technology": "Geospatial and temporal clustering",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0777",
+    "ai_technology": "IDseq (open-source cloud-based pipeline for metagenomic pathogen detection)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0778",
+    "ai_technology": "Dynamic Bayesian belief network",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0779",
+    "ai_technology": "Natural language processing (NLP)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0780",
+    "ai_technology": "Adaptive or machine learning methods",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0781",
+    "ai_technology": "PyTorch (mentioned in context of DL libraries)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0782",
+    "ai_technology": "CTGAN (Python library, Synthetic Data Vault - SDV)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0783",
+    "ai_technology": "Diffusion Models (discussed in Appendix B)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0784",
+    "ai_technology": "Keras (mentioned in context of DL libraries)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0785",
+    "ai_technology": "Classification and Regression Trees (CART)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0786",
+    "ai_technology": "Variational Autoencoders (VAEs) (discussed in Appendix B)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0787",
+    "ai_technology": "Normalizing Flows (discussed in Appendix B)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0788",
+    "ai_technology": "TensorFlow (mentioned in context of DL libraries)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0789",
+    "ai_technology": "CTGAN (Conditional Tabular GAN)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0790",
+    "ai_technology": "BERT for Patents",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0791",
+    "ai_technology": "Text Similarity",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0792",
+    "ai_technology": "Embeddings Generation",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0793",
+    "ai_technology": "Machine Learning (for AI patent categorization)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0794",
+    "ai_technology": "Lasso Regression (supervised machine learning)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0795",
+    "ai_technology": "Gato",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0796",
+    "ai_technology": "DeepNull",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0797",
+    "ai_technology": "ESMFold",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0798",
+    "ai_technology": "Probabilistic predictions",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0799",
+    "ai_technology": "ELIZA",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0800",
+    "ai_technology": "Deep learning models",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0801",
+    "ai_technology": "BioNeMo",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0802",
+    "ai_technology": "Machine learning (general)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0803",
+    "ai_technology": "Tree ensemble ML models",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0804",
+    "ai_technology": "RoseTTAFold",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0805",
+    "ai_technology": "Shakey (robot)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0806",
+    "ai_technology": "Large language models (LLMs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0807",
+    "ai_technology": "Graph neural networks",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0808",
+    "ai_technology": "PenLight",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0809",
+    "ai_technology": "ALICE",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0810",
+    "ai_technology": "C5T5",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0811",
+    "ai_technology": "AlphaFold",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0812",
+    "ai_technology": "DeepFace",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0813",
+    "ai_technology": "Natural Language Toolkit (NL TK)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0814",
+    "ai_technology": "Non-negative Matrix Factorization (NMF)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0815",
+    "ai_technology": "Edinburgh Geoparser",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0816",
+    "ai_technology": "Geoparsing (Natural Language Processing)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0817",
+    "ai_technology": "Topic Modelling (Natural Language Processing)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0818",
+    "ai_technology": "artificial intelligence",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0819",
+    "ai_technology": "Machine learning algorithm",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0820",
+    "ai_technology": "SPIDR Tech (software platform for sending customized survey text or email messages)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0821",
+    "ai_technology": "Machine learning (for automated transcription)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0822",
+    "ai_technology": "pandas",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0823",
+    "ai_technology": "scikit-learn (Python library)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0824",
+    "ai_technology": "GridSearchCV",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0825",
+    "ai_technology": "Gradient Boosted Decision Trees (GBDT)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0826",
+    "ai_technology": "SHAP library",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0827",
+    "ai_technology": "Hyperband",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0828",
+    "ai_technology": "Support Vector Regressor (SVR)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0829",
+    "ai_technology": "NumPy",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0830",
+    "ai_technology": "SHAP (SHapley Additive exPlanations)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0831",
+    "ai_technology": "Neural Networks (Shallow and Deep)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0832",
+    "ai_technology": "Random Forest",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0833",
+    "ai_technology": "ElasticNet",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0834",
+    "ai_technology": "Gaggle",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0835",
+    "ai_technology": "Bark for Schools",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0836",
+    "ai_technology": "Keyword analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0837",
+    "ai_technology": "Securly Aware",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0838",
+    "ai_technology": "GoGuardian Beacon",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0839",
+    "ai_technology": "Evolutionary many-objective optimization algorithm (NSGA-II)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0840",
+    "ai_technology": "String Matching",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0841",
+    "ai_technology": "Custom-made natural language processing (NLP) tools",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0842",
+    "ai_technology": "Social Media Monitoring",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0843",
+    "ai_technology": "Brandwatch Consumer Research platform",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0844",
+    "ai_technology": "Automated Target Recognition Algorithms",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0845",
+    "ai_technology": "BlueDot (mentioned as an example of AI for outbreak intelligence)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0846",
+    "ai_technology": "AI for outbreak prediction",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0847",
+    "ai_technology": "AI for data analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0848",
+    "ai_technology": "Gaussian Processes (Machine Learning technique for modeling functions)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0849",
+    "ai_technology": "Large Language Models (LLMs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0850",
+    "ai_technology": "Artificial Intelligence (AI) algorithms",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0851",
+    "ai_technology": "Reward-Augmented GAN Planner (RAGAN-P)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0852",
+    "ai_technology": "Python (for M&S and likely ML implementation)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0853",
+    "ai_technology": "Generative Adversarial Networks (GAN)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0854",
+    "ai_technology": "Imitation Learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0855",
+    "ai_technology": "Actor-Critic Reinforcement Learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0856",
+    "ai_technology": "Network Analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0857",
+    "ai_technology": "Machine Translation",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0858",
+    "ai_technology": "Biometrics",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0859",
+    "ai_technology": "Social Science Modeling",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0860",
+    "ai_technology": "Machine learning (discussed in the context of AI-based systems and TEV&V challenges)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0861",
+    "ai_technology": "Predictive analytics (mentioned for HA/DR applications)",
+    "ai_category": "Data Analytics"
+  },
+  {
+    "ai_id": "AI0862",
+    "ai_technology": "Object recognition (mentioned for HA/DR applications)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0863",
+    "ai_technology": "Natural language processing (mentioned for HA/DR applications)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0864",
+    "ai_technology": "PReSS (Performance Records Scoring System)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0865",
+    "ai_technology": "Large Language Models",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0866",
+    "ai_technology": "TWANG package in STATA",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0867",
+    "ai_technology": "Voice Cloning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0868",
+    "ai_technology": "Deepfake Generation",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0869",
+    "ai_technology": "Data Poisoning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0870",
+    "ai_technology": "Adversarial Attacks",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0871",
+    "ai_technology": "Generative AI",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0872",
+    "ai_technology": "AI-driven Sentiment Analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0873",
+    "ai_technology": "Big-data solutions",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0874",
+    "ai_technology": "Generalized boosted model (a machine learning technique)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0875",
+    "ai_technology": "Optimization",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0876",
+    "ai_technology": "Regularized Logistic Regression",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0877",
+    "ai_technology": "Regularized Linear Regression",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0878",
+    "ai_technology": "Na\u00efve Bayes",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0879",
+    "ai_technology": "Machine Learning (Supervised)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0880",
+    "ai_technology": "Term Frequency-Inverse Document Frequency (TFIDF)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0881",
+    "ai_technology": "AttentionNet (Neural Network)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0882",
+    "ai_technology": "Microsoft Word (automated transcription function)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0883",
+    "ai_technology": "Regression (Logistic Regression, Penalized Linear Regression)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0884",
+    "ai_technology": "Classification",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0885",
+    "ai_technology": "Natural Language Programming (NLP)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI0886",
+    "ai_technology": "TF-IDF Analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0887",
+    "ai_technology": "Topic Modeling",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0888",
+    "ai_technology": "Collaborative filtering",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0889",
+    "ai_technology": "Content-based filtering",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0890",
+    "ai_technology": "Text-mining",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0891",
+    "ai_technology": "Knowledge-based systems",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0892",
+    "ai_technology": "AI/ML-enabled maritime mines (repositioning, swarming, target interdiction)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0893",
+    "ai_technology": "AI/ML for optimizing decoy deployment and deception employment",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0894",
+    "ai_technology": "Machine Learning (ML) for generating predictions in logistics",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0895",
+    "ai_technology": "Predictive algorithms for PRC decision-making and behavior analysis (integrating multi-INT data)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0896",
+    "ai_technology": "Large Language Models (LLMs) for anomaly detection in censorship, social media, etc.",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0897",
+    "ai_technology": "Deep learning algorithms for identifying AI-generated adversarial disinformation (NLP, image recognition, computer vision)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0898",
+    "ai_technology": "AI/ML for logistics forecasting and optimization",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0899",
+    "ai_technology": "Commercial software applications or data providers for OSINT",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0900",
+    "ai_technology": "Rhombus Guardian, Palantir, OpenAI (mentioned as tools that may answer specific questions in the AI-generated disinformation space)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0901",
+    "ai_technology": "Vector Autoregression (VAR)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0902",
+    "ai_technology": "Factor-Augmented Vector Autoregression (FAVAR)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0903",
+    "ai_technology": "AI-powered RAND-Lex",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0904",
+    "ai_technology": "AI-powered content scraping",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0905",
+    "ai_technology": "iCIMS (applicant tracking system with metrics dashboard)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0906",
+    "ai_technology": "SmashFly (CRM/ATS platform)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0907",
+    "ai_technology": "Micro-targeting",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0908",
+    "ai_technology": "AFRISS-TF (Air Force Recruiting Information Support System \u2013 Total Force)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0909",
+    "ai_technology": "IBM's Kenexa (ATS platform)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0910",
+    "ai_technology": "PRIZM (for segmentation)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0911",
+    "ai_technology": "Oracle's Taleo (ATS platform)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0912",
+    "ai_technology": "ThisPersonDoesNotExist.com",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0913",
+    "ai_technology": "Text-to-image generation",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI0914",
+    "ai_technology": "Contrastive Language-Image Pre-training (CLIP)",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI0915",
+    "ai_technology": "DALL-E",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0916",
+    "ai_technology": "Imagen",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI0917",
+    "ai_technology": "Unstable Diffusion",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0918",
+    "ai_technology": "CivitAI",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0919",
+    "ai_technology": "Diffusion Models",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0920",
+    "ai_technology": "Analytics that can be used to predict maintenance",
+    "ai_category": "Data Analytics"
+  },
+  {
+    "ai_id": "AI0921",
+    "ai_technology": "Advanced Framework for Simulation, Integration, and Modeling (AFSIM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0922",
+    "ai_technology": "Artificial intelligence\u2013 and machine learning\u2013supported engagement simulations (aspirational)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0923",
+    "ai_technology": "Leveraging AI for monitoring the information environment",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0924",
+    "ai_technology": "Leveraging AI for swift issuance of warnings",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0925",
+    "ai_technology": "Analysis of AI-generated content",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0926",
+    "ai_technology": "Leveraging AI for detecting patterns and anomalies",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0927",
+    "ai_technology": "Machine learning models",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0928",
+    "ai_technology": "Artificial Intelligence (mentioned as a tool used in commercial sectors for identifying and measuring vulnerabilities)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0929",
+    "ai_technology": "Video Analytics (AI-enabled)",
+    "ai_category": "Data Analytics"
+  },
+  {
+    "ai_id": "AI0930",
+    "ai_technology": "Machine Learning (Support Vector Machine)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0931",
+    "ai_technology": "Gradient Boosting Regressor",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0932",
+    "ai_technology": "XGBoost Regressor",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0933",
+    "ai_technology": "Ridge Linear Regression",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0934",
+    "ai_technology": "t-SNE (t-distributed Stochastic Neighbor Embedding)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0935",
+    "ai_technology": "Python (standard library)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0936",
+    "ai_technology": "UMAP (Uniform Manifold Approximation and Projection)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0937",
+    "ai_technology": "glmnet (for Lasso and Ridge)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0938",
+    "ai_technology": "Decision Tree",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0939",
+    "ai_technology": "XGBoost library",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0940",
+    "ai_technology": "Lasso Linear Regression",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0941",
+    "ai_technology": "Machine Learning (including deep learning and predictive analysis)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0942",
+    "ai_technology": "Robotics",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0943",
+    "ai_technology": "Computer Speech",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0944",
+    "ai_technology": "Unsupervised Training",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0945",
+    "ai_technology": "Supervised Training",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0946",
+    "ai_technology": "Machine Learning (PRIM, CART for parameter analysis)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0947",
+    "ai_technology": "Naive Bayesian inference",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0948",
+    "ai_technology": "Community Detection Algorithms (e.g., Leiden algorithm)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0949",
+    "ai_technology": "Julia (for implementing algorithms)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI0950",
+    "ai_technology": "R-Shiny (for visualization)",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI0951",
+    "ai_technology": "C",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0952",
+    "ai_technology": "Clustering (time-series clustering for dwell clusters)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0953",
+    "ai_technology": "Statistical modeling",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0954",
+    "ai_technology": "ChatGPT 3.5",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0955",
+    "ai_technology": "Generative AI for content creation (text, images, audio, video)",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI0956",
+    "ai_technology": "Large Language Models (LLMs) for generating persuasive text at scale",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0957",
+    "ai_technology": "Artificial Intelligence (AI) for data analysis and success modeling",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0958",
+    "ai_technology": "Recurrent Neural Networks",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI0959",
+    "ai_technology": "Transformer Models",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0960",
+    "ai_technology": "AI-driven detection technology",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0961",
+    "ai_technology": "Reinforcement Learning from Human Feedback (RLHF)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0962",
+    "ai_technology": "Galactica",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0963",
+    "ai_technology": "Synthesia",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0964",
+    "ai_technology": "Generative AI (LLMs, image/video generation)",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI0965",
+    "ai_technology": "Sora",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0966",
+    "ai_technology": "Optic\u2019s \u201cAI or Not\u201d tool",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0967",
+    "ai_technology": "Deepbrain AI",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0968",
+    "ai_technology": "Assessment generators (e.g., PrepAI, Quilionz)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0969",
+    "ai_technology": "Lesson plan or instructional material generators (e.g., lessonplans.ai, Education Copilot)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0970",
+    "ai_technology": "Virtual assistants (e.g., Amazon Alexa, Apple Siri, Google Assistant, IBM Watson)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0971",
+    "ai_technology": "Automated teaching feedback tools (e.g., TeachFX, Edthena)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0972",
+    "ai_technology": "Google Bard (now Google Gemini)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0973",
+    "ai_technology": "Automated grading tools (e.g., Turnitin, ZipGrade)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0974",
+    "ai_technology": "Virtual learning platforms (e.g., Google Classroom)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0975",
+    "ai_technology": "Adaptive learning systems (e.g., Khan Academy, i-Ready, IXL)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0976",
+    "ai_technology": "Intelligent tutoring systems (e.g., Quill, Khanmigo)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0977",
+    "ai_technology": "Claude.ai",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0978",
+    "ai_technology": "Bibliometric Analysis (implicitly uses computational methods)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0979",
+    "ai_technology": "LLM Assisted Labeling",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0980",
+    "ai_technology": "Sentence Transformer",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0981",
+    "ai_technology": "Large Language Model (LLM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0982",
+    "ai_technology": "Vector search and retrieval",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0983",
+    "ai_technology": "Zero-shot learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0984",
+    "ai_technology": "GPT-3.5 Turbo 16k",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0985",
+    "ai_technology": "Text summarization",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0986",
+    "ai_technology": "LlamaIndex (GPTVectorStoreIndex)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0987",
+    "ai_technology": "OpenAI API",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0988",
+    "ai_technology": "Prompt tuning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0989",
+    "ai_technology": "Sentence classification",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0990",
+    "ai_technology": "Hugging Face (all-mpnet-base-v1)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0991",
+    "ai_technology": "Transformer architecture",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0992",
+    "ai_technology": "IBM Research AI Explainability 360",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0993",
+    "ai_technology": "IBM Research AI Privacy 360",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0994",
+    "ai_technology": "Microsoft Counterfit",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0995",
+    "ai_technology": "IBM Research AI FactSheets 360",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0996",
+    "ai_technology": "IBM Adversarial Robustness 360",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0997",
+    "ai_technology": "IBM Research Uncertainty Quantification 360",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0998",
+    "ai_technology": "IBM Research AI Fairness 360",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI0999",
+    "ai_technology": "Google Explainable AI toolkit",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1000",
+    "ai_technology": "Sentence Transformer Models (STMs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1001",
+    "ai_technology": "all-MiniLM-L6-v2 STM",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1002",
+    "ai_technology": "TorchServe (mentioned in context of vulnerabilities)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1003",
+    "ai_technology": "Counterfit (Microsoft tool for model extraction/inversion)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1004",
+    "ai_technology": "PyTorch (mentioned in context of vulnerabilities and dependencies)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1005",
+    "ai_technology": "MLFlow (mentioned in context of vulnerabilities)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1006",
+    "ai_technology": "Hugging-Face Transformers library (mentioned in context of vulnerabilities)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1007",
+    "ai_technology": "LangChain (LLM framework)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1008",
+    "ai_technology": "TensorFlow (mentioned in context of vulnerabilities)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1009",
+    "ai_technology": "NVIDIA GPUs (mentioned in context of vulnerabilities)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1010",
+    "ai_technology": "CUDA (mentioned in context of vulnerabilities)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1011",
+    "ai_technology": "Unsupervised Machine Learning",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1012",
+    "ai_technology": "R (STM package)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1013",
+    "ai_technology": "Autonomous Systems",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1014",
+    "ai_technology": "Microsoft's Computer Vision",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI1015",
+    "ai_technology": "MosaicATM",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1016",
+    "ai_technology": "AI Superstructure (Infrastructure/Optimization)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI1017",
+    "ai_technology": "Image Recognition",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI1018",
+    "ai_technology": "Google Gemini",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1019",
+    "ai_technology": "AtmoAI",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1020",
+    "ai_technology": "TomorrowIO",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1021",
+    "ai_technology": "Claude AI",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1022",
+    "ai_technology": "Foundation Models (FMs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1023",
+    "ai_technology": "TensorFlow Lite",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1024",
+    "ai_technology": "ctypes",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1025",
+    "ai_technology": "Stable-baselines3",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1026",
+    "ai_technology": "OpenAI GPT version 3.5",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1027",
+    "ai_technology": "Farasa segmenter",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1028",
+    "ai_technology": "Natural Language Processing (NLP) - Lemmatization",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI1029",
+    "ai_technology": "Computational Cognitive Modeling (PPE)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1030",
+    "ai_technology": "AI-driven economy",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1031",
+    "ai_technology": "AI-enabled missions",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1032",
+    "ai_technology": "Adversarial AI attacks",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1033",
+    "ai_technology": "AI-aided legal and illegal fishing activities",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1034",
+    "ai_technology": "AI-aided work",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1035",
+    "ai_technology": "Artificial Intelligence (AI) for diagnostics and risk assessments",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1036",
+    "ai_technology": "Support-Vector Machines (SVMs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1037",
+    "ai_technology": "Object-Oriented Image Analysis",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI1038",
+    "ai_technology": "Variational Autoencoders",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1039",
+    "ai_technology": "Recommender Systems",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1040",
+    "ai_technology": "Generative Pretrained Transformer (GPT)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1041",
+    "ai_technology": "Deep Neural Operators",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1042",
+    "ai_technology": "ArcGIS (for geospatial analysis, including clustering)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1043",
+    "ai_technology": "Gradient Boosting Classifiers (mentioned in reference for a related study)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1044",
+    "ai_technology": "Large Language Models (LLMs) (proposed for future analysis of commander comments)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1045",
+    "ai_technology": "AI for data analysis (mentioned in context of potential bias and future applications)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1046",
+    "ai_technology": "Machine learning (mentioned in context of democratizing knowledge)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1047",
+    "ai_technology": "Artificial Intelligence (AI) for detecting Russian propaganda",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1048",
+    "ai_technology": "AI programs",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1049",
+    "ai_technology": "Algorithmic methods",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI1050",
+    "ai_technology": "Pretrial risk assessment instruments",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1051",
+    "ai_technology": "Actuarial methods",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1052",
+    "ai_technology": "Machine Learning Algorithms",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1053",
+    "ai_technology": "Lightcast.io (for job posting analysis)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1054",
+    "ai_technology": "Epoch's database of notable ML systems",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1055",
+    "ai_technology": "O*NET database (for job classification)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1056",
+    "ai_technology": "Foundation Models (as the subject of study)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1057",
+    "ai_technology": "Algorithmic Modeling",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI1058",
+    "ai_technology": "Bioinformatic Algorithms",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI1059",
+    "ai_technology": "Elastic Net Regression",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1060",
+    "ai_technology": "Decision Support Systems (mentioned as an AI capability)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1061",
+    "ai_technology": "Bayesian Neural Networks (BNNs)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1062",
+    "ai_technology": "Computer Vision (mentioned as an AI capability)",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI1063",
+    "ai_technology": "Natural Language Processing (mentioned as an AI capability)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI1064",
+    "ai_technology": "Active Learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1065",
+    "ai_technology": "Prediction and Classification (mentioned as an AI capability)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1066",
+    "ai_technology": "Adam optimizer",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1067",
+    "ai_technology": "Generative Learning (mentioned as an AI capability)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1068",
+    "ai_technology": "BLiTZ (Bayesian Layers in Torch Zoo)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1069",
+    "ai_technology": "Hyperopt",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1070",
+    "ai_technology": "Standard Neural Networks (SNNs)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1071",
+    "ai_technology": "Poliastro",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1072",
+    "ai_technology": "Automated Planning and Scheduling (mentioned as an AI capability)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1073",
+    "ai_technology": "Aspect-based sentiment analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1074",
+    "ai_technology": "Vector representations (embeddings)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1075",
+    "ai_technology": "Supernetwork modeling",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1076",
+    "ai_technology": "Swarm",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1077",
+    "ai_technology": "POINTER (PrOgressive INsertion-based TransformER)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1078",
+    "ai_technology": "Fine-tuning LLMs",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1079",
+    "ai_technology": "Pycharm",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1080",
+    "ai_technology": "Netic",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1081",
+    "ai_technology": "Pretrained language models (e.g., BERT)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1082",
+    "ai_technology": "Multimedia camouflage technology",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1083",
+    "ai_technology": "Variational Auto-encoders (VAEs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1084",
+    "ai_technology": "Vemsim",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1085",
+    "ai_technology": "Multiagent systems",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1086",
+    "ai_technology": "GTX1080 display card",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1087",
+    "ai_technology": "Pytorch",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1088",
+    "ai_technology": "Image and video stitching technology",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI1089",
+    "ai_technology": "Netlogo",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1090",
+    "ai_technology": "Ubuntu20.04",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1091",
+    "ai_technology": "Text classification",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1092",
+    "ai_technology": "NMSTG (Non-Monotonic Sequential Text Generation)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1093",
+    "ai_technology": "Imagery analysis",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI1094",
+    "ai_technology": "Anylogic",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1095",
+    "ai_technology": "Speech synthesis technology",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1096",
+    "ai_technology": "Maximum margin relevance algorithm",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI1097",
+    "ai_technology": "Matlab",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1098",
+    "ai_technology": "CBART (Constrained BART)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1099",
+    "ai_technology": "Prompt fine-tuning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1100",
+    "ai_technology": "Conditional text generation",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1101",
+    "ai_technology": "OpenAI's ChatGPT",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1102",
+    "ai_technology": "K-Nearest Neighbor Classifiers",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1103",
+    "ai_technology": "Retrieval Augmented Generation (RAG)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1104",
+    "ai_technology": "Google's NotebookLM",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1105",
+    "ai_technology": "OpenAI/Azure GPT-4",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1106",
+    "ai_technology": "Bayesian Improved Surname Geocoding (BISG) algorithm",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI1107",
+    "ai_technology": "Artificial Intelligence (AI) (mentioned in the context of Early Warning Systems and camp monitoring systems)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1108",
+    "ai_technology": "Machine learning (mentioned in the context of camp monitoring systems)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1109",
+    "ai_technology": "Topic modelling",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1110",
+    "ai_technology": "Automated web reading (for narrative analysis)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1111",
+    "ai_technology": "glass.ai (for sectoral mapping)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1112",
+    "ai_technology": "Rootcause (for social media sentiment analysis)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1113",
+    "ai_technology": "VOSviewer (for bibliometric analysis)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1114",
+    "ai_technology": "AI-enabled algorithms (mentioned in relation to decision intelligence)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI1115",
+    "ai_technology": "Quantitative semantic analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1116",
+    "ai_technology": "Machine learning processes (mentioned in relation to decision intelligence)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1117",
+    "ai_technology": "glass.ai",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1118",
+    "ai_technology": "AI-enabled web-reading",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1119",
+    "ai_technology": "Text-as-data analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1120",
+    "ai_technology": "Elsevier Research API",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1121",
+    "ai_technology": "Application Program Interface (API)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1122",
+    "ai_technology": "Web of Science API",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1123",
+    "ai_technology": "Semantic Scholar API",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1124",
+    "ai_technology": "Artificial intelligence technology",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1125",
+    "ai_technology": "Machine Learning (implied in modeling and data analysis)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1126",
+    "ai_technology": "Artificial Neural Networks (mentioned in context of AI capabilities)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1127",
+    "ai_technology": "Large Language Models (LLMs) (mentioned in context of AI capabilities and risks)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1128",
+    "ai_technology": "Deep Learning (mentioned in context of AI capabilities)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1129",
+    "ai_technology": "Logit model (for disability imputation)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1130",
+    "ai_technology": "Cognitive EW (using ML algorithms)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1131",
+    "ai_technology": "Neural nets",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1132",
+    "ai_technology": "Kobayashi Maru software factory",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1133",
+    "ai_technology": "Language Processing",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1134",
+    "ai_technology": "Unified Data Library (UDL)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1135",
+    "ai_technology": "Generative Learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1136",
+    "ai_technology": "Astrodynamics Support Workstation (ASW)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1137",
+    "ai_technology": "Warp Core",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1138",
+    "ai_technology": "Prediction and Classification",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1139",
+    "ai_technology": "ATLAS (Advanced Tracking and Launch Analysis System)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1140",
+    "ai_technology": "Gradient-boosted models",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1141",
+    "ai_technology": "Bayesian Estimation (Markov chain Monte Carlo)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1142",
+    "ai_technology": "Latent Variable Modeling",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1143",
+    "ai_technology": "Large Language Models (LLMs) for qualitative feature identification and latent structure analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1144",
+    "ai_technology": "Large language models",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1145",
+    "ai_technology": "umap-learn",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1146",
+    "ai_technology": "pycld2",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1147",
+    "ai_technology": "Federated Learning (FL)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1148",
+    "ai_technology": "Nonnegative Matrix Factorization (NMF)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1149",
+    "ai_technology": "BigRNA",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1150",
+    "ai_technology": "Unlearning Techniques (e.g., Representation Misdirection for Unlearning - RMU)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1151",
+    "ai_technology": "AlphaFold2",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1152",
+    "ai_technology": "AlphaProteo",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1153",
+    "ai_technology": "ChatGPT4",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1154",
+    "ai_technology": "GPT-4o",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1155",
+    "ai_technology": "Retrieval-Augmented Generation (RAG)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1156",
+    "ai_technology": "Claude 3.5 Sonnet",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1157",
+    "ai_technology": "Aggrescan3D/4D",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1158",
+    "ai_technology": "OpenAI o1",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1159",
+    "ai_technology": "Coscientist",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1160",
+    "ai_technology": "ESM3",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1161",
+    "ai_technology": "AlphaFold3",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1162",
+    "ai_technology": "RAND ChatGPT (based on OpenAI's LLM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1163",
+    "ai_technology": "GPT-4-v0125 (specific version used)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1164",
+    "ai_technology": "Large Language Model (LLM) analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1165",
+    "ai_technology": "Signals tracing",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1166",
+    "ai_technology": "Graph theoretic analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1167",
+    "ai_technology": "ChatGPT (OpenAI GPT-4 Turbo)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1168",
+    "ai_technology": "Natural Language Generation (for user story refinement and mid-level element descriptions)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI1169",
+    "ai_technology": "Dictionary-based text analysis (for sentiment and uncertainty)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI1170",
+    "ai_technology": "R packages ('cooccur', 'visNetwork')",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1171",
+    "ai_technology": "ldagibbs package in Stata",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1172",
+    "ai_technology": "Latent Dirichlet Allocation (LDA) for topic modeling",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1173",
+    "ai_technology": "Sentiment Analysis package in R",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1174",
+    "ai_technology": "Summarization of literature",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1175",
+    "ai_technology": "RANDChat (based on GPT-4o)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1176",
+    "ai_technology": "SoftMax probability distribution (modified for AI operators)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1177",
+    "ai_technology": "Partial Spatial Adaptive Play (PSAP) algorithm (modified for AI operators)",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI1178",
+    "ai_technology": "Pyrra",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1179",
+    "ai_technology": "Integrum",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1180",
+    "ai_technology": "Latent Dirichlet Allocation (LDA)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1181",
+    "ai_technology": "Hit Dexter",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1182",
+    "ai_technology": "BioNLP",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI1183",
+    "ai_technology": "ORGANIC",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1184",
+    "ai_technology": "DeepChem",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1185",
+    "ai_technology": "DeepNeuralNetQSAR",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1186",
+    "ai_technology": "BioMegatron",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1187",
+    "ai_technology": "SciBERT",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1188",
+    "ai_technology": "Biological Design Tools (BDTs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1189",
+    "ai_technology": "PubMedBERT",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1190",
+    "ai_technology": "ScholarBERT",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1191",
+    "ai_technology": "Adversarial Autoencoders (AAEs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1192",
+    "ai_technology": "DARE",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1193",
+    "ai_technology": "BioGPT",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1194",
+    "ai_technology": "DeepTox",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1195",
+    "ai_technology": "Transformers",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1196",
+    "ai_technology": "Dall-E",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1197",
+    "ai_technology": "Google's VirusTotal file analyzer",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1198",
+    "ai_technology": "inClinico",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1199",
+    "ai_technology": "Chemical Design Tools (CDTs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1200",
+    "ai_technology": "Foundational Models",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1201",
+    "ai_technology": "OpenAI's Codex",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1202",
+    "ai_technology": "DeepMind's AlphaCode",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1203",
+    "ai_technology": "Claude",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1204",
+    "ai_technology": "Chemistry42",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1205",
+    "ai_technology": "FAME",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1206",
+    "ai_technology": "Self-Driving Laboratories (SDLs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1207",
+    "ai_technology": "ECAAE (Entangled Conditional Adversarial Autoencoder)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1208",
+    "ai_technology": "Variational Autoencoders (VAEs)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1209",
+    "ai_technology": "Neural fingerprint algorithm",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI1210",
+    "ai_technology": "BioBERT",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1211",
+    "ai_technology": "Chroma",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1212",
+    "ai_technology": "ATNC (Adversarial Threshold Neural Computer)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1213",
+    "ai_technology": "PandaOmics",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1214",
+    "ai_technology": "DeepTracer",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1215",
+    "ai_technology": "Google Colab",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1216",
+    "ai_technology": "Modeling of AI accelerator efficiency",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1217",
+    "ai_technology": "Analysis of compute used for AI training runs",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1218",
+    "ai_technology": "Analysis of AI chip production growth",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1219",
+    "ai_technology": "Modeling of AI training cluster performance",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1220",
+    "ai_technology": "Extrapolation of AI trends",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1221",
+    "ai_technology": "Autonomy",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1222",
+    "ai_technology": "Elicit.org",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1223",
+    "ai_technology": "Language models for literature review automation",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1224",
+    "ai_technology": "Llama Guard (model-grader)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1225",
+    "ai_technology": "Fine-tuning (QLoRA)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1226",
+    "ai_technology": "Inspect framework",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1227",
+    "ai_technology": "Automated Red Teaming",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1228",
+    "ai_technology": "GPT-4 (model-grader)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1229",
+    "ai_technology": "Kahoot! (AI-powered features)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1230",
+    "ai_technology": "i-Ready",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1231",
+    "ai_technology": "Class Companion",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1232",
+    "ai_technology": "G-Suite",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1233",
+    "ai_technology": "Snap & Read",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1234",
+    "ai_technology": "Co:Writer",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1235",
+    "ai_technology": "Grammarly Basic",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1236",
+    "ai_technology": "Khan Academy (adaptive learning platform and Khanmigo)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1237",
+    "ai_technology": "Gemini",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1238",
+    "ai_technology": "MagicSchool AI",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1239",
+    "ai_technology": "Canva AI image-generator tools",
+    "ai_category": "Computer Vision"
+  },
+  {
+    "ai_id": "AI1240",
+    "ai_technology": "Diffit",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1241",
+    "ai_technology": "Brisk",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1242",
+    "ai_technology": "CoGrader",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1243",
+    "ai_technology": "Amira",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1244",
+    "ai_technology": "CoPilot",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1245",
+    "ai_technology": "Writeable from HMH",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1246",
+    "ai_technology": "JAWS",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1247",
+    "ai_technology": "R (for data processing and API calls)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1248",
+    "ai_technology": "ChatGPT (implied by code snippets)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1249",
+    "ai_technology": "General Boosted Model (GBM)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1250",
+    "ai_technology": "Covariate Balancing and Weighting Web App (CoBWeb)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1251",
+    "ai_technology": "GPT-4 (as a grading model)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1252",
+    "ai_technology": "AWS Bedrock",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1253",
+    "ai_technology": "Ensembling (for autograder)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1254",
+    "ai_technology": "Chain-of-Thought (CoT) prompting (for autograder)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1255",
+    "ai_technology": "Microsoft Azure OpenAI API",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1256",
+    "ai_technology": "OpenAI's GPT-4",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1257",
+    "ai_technology": "Foundation Models (discussed in relation to transparency and standardization)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1258",
+    "ai_technology": "Machine Learning (mentioned in context of AI models and research)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1259",
+    "ai_technology": "Artificial Intelligence (AI) models",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1260",
+    "ai_technology": "ChatGPT-4",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1261",
+    "ai_technology": "ChatGPT-3.5",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1262",
+    "ai_technology": "Fine-tuning of LLMs",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1263",
+    "ai_technology": "Generative Pre-trained Transformer (GPT) models",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1264",
+    "ai_technology": "AI-powered monitoring tools (mentioned as a potential application)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1265",
+    "ai_technology": "AI to identify or support students with specific needs (mentioned as a potential application)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1266",
+    "ai_technology": "Natural Language Processing system",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI1267",
+    "ai_technology": "AI-enabled software adapted from the marketing industry",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1268",
+    "ai_technology": "AI-enabled software for social network graph creation and analysis",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1269",
+    "ai_technology": "NeuraMetrix (AI-enabled typing cadence monitoring)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1270",
+    "ai_technology": "Battle Buddy (AI-enabled daily check-ins with wearable sensor data)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1271",
+    "ai_technology": "REACH VET (predictive model using machine learning)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1272",
+    "ai_technology": "Thematic Content Analysis (using GPT)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1273",
+    "ai_technology": "Text Analysis (using GPT)",
+    "ai_category": "Natural Language Processing"
+  },
+  {
+    "ai_id": "AI1274",
+    "ai_technology": "RAND Chat (GPT-4 Turbo 1106-preview version)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1275",
+    "ai_technology": "Information Retrieval (using GPT with Retrieval Augmented Generation concepts)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1276",
+    "ai_technology": "Kolmogorov-Arnold Networks (KAN)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1277",
+    "ai_technology": "Diffusion models",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1278",
+    "ai_technology": "Multi-head latent attention",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1279",
+    "ai_technology": "Cluster Analysis (K-means)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1280",
+    "ai_technology": "Mamba",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1281",
+    "ai_technology": "Stochastic Gradient Descent",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1282",
+    "ai_technology": "Supervised Fine-Tuning (SFT)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1283",
+    "ai_technology": "Mixture-of-Experts (MoE)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1284",
+    "ai_technology": "Multivariate Gaussian Model Fitting",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1285",
+    "ai_technology": "Least Squares Data Fitting",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1286",
+    "ai_technology": "Neurosymbolic Architectures",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1287",
+    "ai_technology": "Causal Models",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1288",
+    "ai_technology": "Cognitive AI",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1289",
+    "ai_technology": "Information Lattice Learning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1290",
+    "ai_technology": "Neuromorphic Computing",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1291",
+    "ai_technology": "Embodiment (AI)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1292",
+    "ai_technology": "Physics-Informed Neural Networks (PINNs)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1293",
+    "ai_technology": "ChemCrow",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1294",
+    "ai_technology": "Large Language Models (LLMs) interfacing with cloud labs",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1295",
+    "ai_technology": "ARES OS",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1296",
+    "ai_technology": "ChemOS",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1297",
+    "ai_technology": "AI agents (e.g., ChemCrow, Coscientist) designing and executing experiments",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1298",
+    "ai_technology": "Multi-objective robust searches",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1299",
+    "ai_technology": "Scenario discovery algorithms",
+    "ai_category": "Optimization & Algorithms"
+  },
+  {
+    "ai_id": "AI1300",
+    "ai_technology": "Clustering of stakeholder comments",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1301",
+    "ai_technology": "Automated moderation of breakout groups",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1302",
+    "ai_technology": "Machine Learning (for weather forecasting and generating DMDU models)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1303",
+    "ai_technology": "AI (general)",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1304",
+    "ai_technology": "AI-controlled port operations",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1305",
+    "ai_technology": "AI-controlled offshore energy production",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1306",
+    "ai_technology": "Artificial intelligence (AI)-enabled operations and planning",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1307",
+    "ai_technology": "AI-controlled shipping systems",
+    "ai_category": "General AI"
+  },
+  {
+    "ai_id": "AI1308",
+    "ai_technology": "The report discusses the potential impact of quantum computing on Artificial Intelligence (AI) and Machine Learning (ML), including quantum equivalents of artificial neural networks (ANNs). It also mentions that AI and ML will likely use a combination of classical and quantum computing techniques.",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1309",
+    "ai_technology": "Grover's algorithm and Harrow-Hassidim-Lloyd (HHL) algorithm are mentioned as quantum algorithms that can enhance AI/ML capabilities.",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1310",
+    "ai_technology": "Machine learning models (mentioned as a potential future use for organizing research)",
+    "ai_category": "Machine Learning"
+  },
+  {
+    "ai_id": "AI1311",
+    "ai_technology": "Natural language processing (mentioned as a required expertise for ODRI staff)",
+    "ai_category": "Natural Language Processing"
+  }
+]

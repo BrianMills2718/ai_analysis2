@@ -287,6 +287,7 @@
                 <option value="ai-by-division">AI by Division</option>
                 <option value="topics-summary">Topics Summary</option>
                 <option value="ai-trends">AI Adoption Trends</option>
+                <option value="top-authors-by-method">Top Authors by Method</option>
             </select>
             <button class="btn" onclick="updateAnalysis()">🔄 Update</button>
             <button class="btn" onclick="exportResults()">📥 Export</button>
@@ -394,6 +395,9 @@
                     break;
                 case 'ai-trends':
                     showAITrends(filteredDocs);
+                    break;
+                case 'top-authors-by-method':
+                    showTopAuthorsByMethod(filteredDocs);
                     break;
                 default:
                     showDocumentList(filteredDocs);
@@ -529,6 +533,57 @@
             });
             
             html += '</tbody></table>';
+            document.getElementById('results').innerHTML = html;
+        }
+        
+        function showTopAuthorsByMethod(docs) {
+            // Count author-method combinations
+            const authorMethodCounts = {};
+            const methodTotals = {};
+            
+            docs.forEach(doc => {
+                doc.methods.forEach(method => {
+                    methodTotals[method] = (methodTotals[method] || 0) + 1;
+                    
+                    doc.authors.forEach(author => {
+                        if (!authorMethodCounts[method]) {
+                            authorMethodCounts[method] = {};
+                        }
+                        authorMethodCounts[method][author] = (authorMethodCounts[method][author] || 0) + 1;
+                    });
+                });
+            });
+            
+            // Get top 10 methods by usage
+            const topMethods = Object.entries(methodTotals)
+                .sort((a, b) => b[1] - a[1])
+                .slice(0, 10)
+                .map(([method, count]) => method);
+            
+            let html = '<h3>👥 Top Authors by Method</h3>';
+            html += '<p><em>Shows top 5 authors for each of the 10 most frequently used methods</em></p>';
+            
+            topMethods.forEach(method => {
+                const methodAuthors = authorMethodCounts[method] || {};
+                const topAuthors = Object.entries(methodAuthors)
+                    .sort((a, b) => b[1] - a[1])
+                    .slice(0, 5);
+                
+                if (topAuthors.length > 0) {
+                    const total = methodTotals[method];
+                    html += `<h4>${method} (${total} total uses)</h4>`;
+                    html += '<table class="results-table" style="margin-bottom: 20px;">';
+                    html += '<thead><tr><th>Author</th><th>Uses</th><th>% of Method</th></tr></thead><tbody>';
+                    
+                    topAuthors.forEach(([author, count]) => {
+                        const percentage = ((count / total) * 100).toFixed(1);
+                        html += `<tr><td><strong>${author}</strong></td><td>${count}</td><td>${percentage}%</td></tr>`;
+                    });
+                    
+                    html += '</tbody></table>';
+                }
+            });
+            
             document.getElementById('results').innerHTML = html;
         }
         

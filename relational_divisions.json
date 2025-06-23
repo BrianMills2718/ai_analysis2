@@ -1,0 +1,170 @@
+[
+  {
+    "division_id": "D0001",
+    "division_name": "Arroyo Center",
+    "division_category": "FFRDC",
+    "is_ffrdc": true,
+    "is_international": false,
+    "is_methods_center": false
+  },
+  {
+    "division_id": "D0002",
+    "division_name": "National Defense Research Institute",
+    "division_category": "Other",
+    "is_ffrdc": true,
+    "is_international": false,
+    "is_methods_center": false
+  },
+  {
+    "division_id": "D0003",
+    "division_name": "American School Leader Panel",
+    "division_category": "Research Program",
+    "is_ffrdc": false,
+    "is_international": false,
+    "is_methods_center": false
+  },
+  {
+    "division_id": "D0004",
+    "division_name": "American Educator Panels",
+    "division_category": "Research Program",
+    "is_ffrdc": false,
+    "is_international": false,
+    "is_methods_center": false
+  },
+  {
+    "division_id": "D0005",
+    "division_name": "Project AIR FORCE",
+    "division_category": "FFRDC",
+    "is_ffrdc": true,
+    "is_international": false,
+    "is_methods_center": false
+  },
+  {
+    "division_id": "D0006",
+    "division_name": "RAND Forecasting Initiative",
+    "division_category": "Research Center",
+    "is_ffrdc": false,
+    "is_international": false,
+    "is_methods_center": true
+  },
+  {
+    "division_id": "D0007",
+    "division_name": "ExpertLens",
+    "division_category": "Other",
+    "is_ffrdc": false,
+    "is_international": false,
+    "is_methods_center": false
+  },
+  {
+    "division_id": "D0008",
+    "division_name": "Homeland Security Operational Analysis Center",
+    "division_category": "Other",
+    "is_ffrdc": true,
+    "is_international": false,
+    "is_methods_center": false
+  },
+  {
+    "division_id": "D0009",
+    "division_name": "RAND-Lex",
+    "division_category": "Other",
+    "is_ffrdc": false,
+    "is_international": false,
+    "is_methods_center": false
+  },
+  {
+    "division_id": "D0010",
+    "division_name": "RAND Europe",
+    "division_category": "International Office",
+    "is_ffrdc": false,
+    "is_international": true,
+    "is_methods_center": false
+  },
+  {
+    "division_id": "D0011",
+    "division_name": "RAND Education and Labor",
+    "division_category": "Other",
+    "is_ffrdc": false,
+    "is_international": false,
+    "is_methods_center": false
+  },
+  {
+    "division_id": "D0012",
+    "division_name": "RAND Graduate Institute",
+    "division_category": "Educational Unit",
+    "is_ffrdc": false,
+    "is_international": false,
+    "is_methods_center": false
+  },
+  {
+    "division_id": "D0013",
+    "division_name": "RAND SWARM",
+    "division_category": "Other",
+    "is_ffrdc": false,
+    "is_international": false,
+    "is_methods_center": false
+  },
+  {
+    "division_id": "D0014",
+    "division_name": "RAND Social and Economic Well-Being",
+    "division_category": "Other",
+    "is_ffrdc": false,
+    "is_international": false,
+    "is_methods_center": false
+  },
+  {
+    "division_id": "D0015",
+    "division_name": "RAND Australia",
+    "division_category": "International Office",
+    "is_ffrdc": false,
+    "is_international": true,
+    "is_methods_center": false
+  },
+  {
+    "division_id": "D0016",
+    "division_name": "Pardee Center for Longer Range Global Policy",
+    "division_category": "Research Center",
+    "is_ffrdc": false,
+    "is_international": false,
+    "is_methods_center": true
+  },
+  {
+    "division_id": "D0017",
+    "division_name": "RAND Health Care",
+    "division_category": "Other",
+    "is_ffrdc": false,
+    "is_international": false,
+    "is_methods_center": false
+  },
+  {
+    "division_id": "D0018",
+    "division_name": "RAND Health Insurance Experiment",
+    "division_category": "Research Program",
+    "is_ffrdc": false,
+    "is_international": false,
+    "is_methods_center": false
+  },
+  {
+    "division_id": "D0019",
+    "division_name": "Center for Research on China",
+    "division_category": "Research Center",
+    "is_ffrdc": false,
+    "is_international": false,
+    "is_methods_center": true
+  },
+  {
+    "division_id": "D0020",
+    "division_name": "Technology and Security Policy Center",
+    "division_category": "Other",
+    "is_ffrdc": false,
+    "is_international": false,
+    "is_methods_center": true
+  },
+  {
+    "division_id": "D0021",
+    "division_name": "RAND Science and Technology",
+    "division_category": "Other",
+    "is_ffrdc": false,
+    "is_international": false,
+    "is_methods_center": false
+  }
+]

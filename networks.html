@@ -391,28 +391,347 @@
         }
 
         async function generateNetworkData(networkType) {
-            // This would normally load from actual data files
-            // For now, generating representative synthetic data based on our research
-            
-            const data = { nodes: [], links: [] };
-            
-            switch(networkType) {
-                case 'author-method':
-                    return generateAuthorMethodNetwork();
-                case 'author-author':
-                    return generateAuthorCollaborationNetwork();
-                case 'method-method':
-                    return generateMethodCooccurrenceNetwork();
-                case 'author-topic':
-                    return generateAuthorTopicNetwork();
-                case 'method-ai':
-                    return generateMethodAINetwork();
-                case 'unit-method':
-                    return generateUnitMethodNetwork();
-                case 'temporal-author':
-                    return generateTemporalAuthorNetwork();
-                default:
-                    return generateAuthorMethodNetwork();
+            // Load real data from the relational files
+            try {
+                switch(networkType) {
+                    case 'author-method':
+                        return await loadRealAuthorMethodNetwork();
+                    case 'author-author':
+                        return await loadRealAuthorCollaborationNetwork();
+                    case 'method-method':
+                        return await loadRealMethodCooccurrenceNetwork();
+                    case 'author-topic':
+                        return await loadRealAuthorTopicNetwork();
+                    case 'method-ai':
+                        return await loadRealMethodAINetwork();
+                    case 'unit-method':
+                        return await loadRealUnitMethodNetwork();
+                    case 'temporal-author':
+                        return await loadRealTemporalAuthorNetwork();
+                    default:
+                        return await loadRealAuthorMethodNetwork();
+                }
+            } catch (error) {
+                console.error('Error loading real network data:', error);
+                // Fallback to basic structure if files don't load
+                return { nodes: [], links: [] };
+            }
+        }
+
+        async function loadRealAuthorMethodNetwork() {
+            try {
+                const [authors, methods, authorMethodLinks] = await Promise.all([
+                    fetch('relational_authors.json').then(r => r.json()),
+                    fetch('relational_methods.json').then(r => r.json()),
+                    fetch('relational_author_method_links.json').then(r => r.json())
+                ]);
+
+                // Create author and method nodes
+                const nodes = [];
+                const authorCounts = {};
+                const methodCounts = {};
+
+                // Count connections for each author and method
+                authorMethodLinks.forEach(link => {
+                    authorCounts[link.author_id] = (authorCounts[link.author_id] || 0) + 1;
+                    methodCounts[link.method_id] = (methodCounts[link.method_id] || 0) + 1;
+                });
+
+                // Add author nodes
+                authors.forEach(author => {
+                    if (authorCounts[author.author_id]) {
+                        nodes.push({
+                            id: author.author_name,
+                            type: 'author',
+                            degree: authorCounts[author.author_id],
+                            email: author.author_email
+                        });
+                    }
+                });
+
+                // Add method nodes
+                methods.forEach(method => {
+                    if (methodCounts[method.method_id]) {
+                        nodes.push({
+                            id: method.method_name,
+                            type: 'method',
+                            degree: methodCounts[method.method_id],
+                            category: method.method_category
+                        });
+                    }
+                });
+
+                // Create links
+                const links = [];
+                const authorIdToName = {};
+                const methodIdToName = {};
+                
+                authors.forEach(a => authorIdToName[a.author_id] = a.author_name);
+                methods.forEach(m => methodIdToName[m.method_id] = m.method_name);
+
+                // Group links by author-method pairs and count
+                const linkCounts = {};
+                authorMethodLinks.forEach(link => {
+                    const key = `${link.author_id}-${link.method_id}`;
+                    linkCounts[key] = (linkCounts[key] || 0) + 1;
+                });
+
+                // Create unique links with weights
+                Object.entries(linkCounts).forEach(([key, count]) => {
+                    const [authorId, methodId] = key.split('-');
+                    const authorName = authorIdToName[authorId];
+                    const methodName = methodIdToName[methodId];
+                    
+                    if (authorName && methodName) {
+                        links.push({
+                            source: authorName,
+                            target: methodName,
+                            weight: count
+                        });
+                    }
+                });
+
+                return { nodes, links };
+            } catch (error) {
+                console.error('Error in loadRealAuthorMethodNetwork:', error);
+                throw error;
+            }
+        }
+
+        async function loadRealAuthorCollaborationNetwork() {
+            try {
+                const [authors, docAuthorLinks] = await Promise.all([
+                    fetch('relational_authors.json').then(r => r.json()),
+                    fetch('relational_doc_author_links.json').then(r => r.json())
+                ]);
+
+                // Group authors by document to find collaborations
+                const docToAuthors = {};
+                docAuthorLinks.forEach(link => {
+                    if (!docToAuthors[link.doc_id]) {
+                        docToAuthors[link.doc_id] = [];
+                    }
+                    docToAuthors[link.doc_id].push(link.author_id);
+                });
+
+                // Count collaborations between authors
+                const collaborations = {};
+                const authorDegrees = {};
+
+                Object.values(docToAuthors).forEach(authorIds => {
+                    if (authorIds.length > 1) {
+                        for (let i = 0; i < authorIds.length; i++) {
+                            for (let j = i + 1; j < authorIds.length; j++) {
+                                const pair = [authorIds[i], authorIds[j]].sort().join('-');
+                                collaborations[pair] = (collaborations[pair] || 0) + 1;
+                                
+                                authorDegrees[authorIds[i]] = (authorDegrees[authorIds[i]] || 0) + 1;
+                                authorDegrees[authorIds[j]] = (authorDegrees[authorIds[j]] || 0) + 1;
+                            }
+                        }
+                    }
+                });
+
+                // Create nodes and links
+                const authorIdToName = {};
+                authors.forEach(a => authorIdToName[a.author_id] = a.author_name);
+
+                const nodes = [];
+                Object.entries(authorDegrees).forEach(([authorId, degree]) => {
+                    const author = authors.find(a => a.author_id === authorId);
+                    if (author && degree >= 2) { // Only include authors with multiple collaborations
+                        nodes.push({
+                            id: author.author_name,
+                            type: 'author',
+                            degree: degree,
+                            email: author.author_email
+                        });
+                    }
+                });
+
+                const links = [];
+                Object.entries(collaborations).forEach(([pair, count]) => {
+                    const [authorId1, authorId2] = pair.split('-');
+                    const author1Name = authorIdToName[authorId1];
+                    const author2Name = authorIdToName[authorId2];
+                    
+                    if (author1Name && author2Name && count >= 2) { // Only include significant collaborations
+                        links.push({
+                            source: author1Name,
+                            target: author2Name,
+                            weight: count
+                        });
+                    }
+                });
+
+                return { nodes, links };
+            } catch (error) {
+                console.error('Error in loadRealAuthorCollaborationNetwork:', error);
+                throw error;
+            }
+        }
+
+        async function loadRealMethodCooccurrenceNetwork() {
+            try {
+                const [methods, docMethodLinks] = await Promise.all([
+                    fetch('relational_methods.json').then(r => r.json()),
+                    fetch('relational_doc_method_links.json').then(r => r.json())
+                ]);
+
+                // Group methods by document
+                const docToMethods = {};
+                docMethodLinks.forEach(link => {
+                    if (!docToMethods[link.doc_id]) {
+                        docToMethods[link.doc_id] = [];
+                    }
+                    docToMethods[link.doc_id].push(link.method_id);
+                });
+
+                // Count co-occurrences
+                const cooccurrences = {};
+                const methodDegrees = {};
+
+                Object.values(docToMethods).forEach(methodIds => {
+                    if (methodIds.length > 1) {
+                        for (let i = 0; i < methodIds.length; i++) {
+                            for (let j = i + 1; j < methodIds.length; j++) {
+                                const pair = [methodIds[i], methodIds[j]].sort().join('-');
+                                cooccurrences[pair] = (cooccurrences[pair] || 0) + 1;
+                                
+                                methodDegrees[methodIds[i]] = (methodDegrees[methodIds[i]] || 0) + 1;
+                                methodDegrees[methodIds[j]] = (methodDegrees[methodIds[j]] || 0) + 1;
+                            }
+                        }
+                    }
+                });
+
+                // Create nodes and links
+                const methodIdToName = {};
+                methods.forEach(m => methodIdToName[m.method_id] = m.method_name);
+
+                const nodes = [];
+                Object.entries(methodDegrees).forEach(([methodId, degree]) => {
+                    const method = methods.find(m => m.method_id === methodId);
+                    if (method && degree >= 3) {
+                        nodes.push({
+                            id: method.method_name,
+                            type: 'method',
+                            degree: degree,
+                            category: method.method_category
+                        });
+                    }
+                });
+
+                const links = [];
+                Object.entries(cooccurrences).forEach(([pair, count]) => {
+                    const [methodId1, methodId2] = pair.split('-');
+                    const method1Name = methodIdToName[methodId1];
+                    const method2Name = methodIdToName[methodId2];
+                    
+                    if (method1Name && method2Name && count >= 3) {
+                        links.push({
+                            source: method1Name,
+                            target: method2Name,
+                            weight: count
+                        });
+                    }
+                });
+
+                return { nodes, links };
+            } catch (error) {
+                console.error('Error in loadRealMethodCooccurrenceNetwork:', error);
+                throw error;
+            }
+        }
+
+        async function loadRealAuthorTopicNetwork() {
+            // For now, return a simplified version since we don't have direct topic-author links
+            // This would need to be built from document content analysis
+            return { nodes: [], links: [] };
+        }
+
+        async function loadRealMethodAINetwork() {
+            try {
+                const [methods, aiUsage, methodAILinks] = await Promise.all([
+                    fetch('relational_methods.json').then(r => r.json()),
+                    fetch('relational_ai_usage.json').then(r => r.json()),
+                    fetch('relational_method_ai_links.json').then(r => r.json())
+                ]);
+
+                // This would combine methods with AI technologies
+                // For now, return simplified structure
+                return { nodes: [], links: [] };
+            } catch (error) {
+                console.error('Error in loadRealMethodAINetwork:', error);
+                return { nodes: [], links: [] };
+            }
+        }
+
+        async function loadRealUnitMethodNetwork() {
+            try {
+                const [divisions, methods, divisionMethodLinks] = await Promise.all([
+                    fetch('relational_divisions.json').then(r => r.json()),
+                    fetch('relational_methods.json').then(r => r.json()),
+                    fetch('relational_division_method_links.json').then(r => r.json())
+                ]);
+
+                // Create unit-method network similar to author-method
+                const nodes = [];
+                const links = [];
+                
+                // Count connections
+                const divisionCounts = {};
+                const methodCounts = {};
+
+                divisionMethodLinks.forEach(link => {
+                    divisionCounts[link.division_id] = (divisionCounts[link.division_id] || 0) + 1;
+                    methodCounts[link.method_id] = (methodCounts[link.method_id] || 0) + 1;
+                });
+
+                // Add nodes
+                divisions.forEach(division => {
+                    if (divisionCounts[division.division_id]) {
+                        nodes.push({
+                            id: division.division_name,
+                            type: 'unit',
+                            degree: divisionCounts[division.division_id]
+                        });
+                    }
+                });
+
+                methods.forEach(method => {
+                    if (methodCounts[method.method_id]) {
+                        nodes.push({
+                            id: method.method_name,
+                            type: 'method',
+                            degree: methodCounts[method.method_id],
+                            category: method.method_category
+                        });
+                    }
+                });
+
+                // Add links (simplified for now)
+                return { nodes, links };
+            } catch (error) {
+                console.error('Error in loadRealUnitMethodNetwork:', error);
+                return { nodes: [], links: [] };
+            }
+        }
+
+        async function loadRealTemporalAuthorNetwork() {
+            try {
+                const [authors, docAuthorLinks, documents] = await Promise.all([
+                    fetch('relational_authors.json').then(r => r.json()),
+                    fetch('relational_doc_author_links.json').then(r => r.json()),
+                    fetch('relational_documents.json').then(r => r.json())
+                ]);
+
+                // This would show author activity over time
+                // For now, return simplified structure
+                return { nodes: [], links: [] };
+            } catch (error) {
+                console.error('Error in loadRealTemporalAuthorNetwork:', error);
+                return { nodes: [], links: [] };
             }
         }
 

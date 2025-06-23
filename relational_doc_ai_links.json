@@ -1,0 +1,9377 @@
+[
+  {
+    "doc_id": "RR-2797-RC",
+    "ai_id": "AI0001",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2797-RC",
+    "ai_id": "AI0002",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2797-RC",
+    "ai_id": "AI0003",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2797-RC",
+    "ai_id": "AI0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2797-RC",
+    "ai_id": "AI0005",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2797-RC",
+    "ai_id": "AI0006",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-1612-OSD",
+    "ai_id": "AI0007",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-1612-OSD",
+    "ai_id": "AI0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-1612-OSD",
+    "ai_id": "AI0009",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-1612-OSD",
+    "ai_id": "AI0010",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3245-NYCCEO",
+    "ai_id": "AI0011",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3245-NYCCEO",
+    "ai_id": "AI0012",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2406-A",
+    "ai_id": "AI0013",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3000-WFHF",
+    "ai_id": "AI0014",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3000-WFHF",
+    "ai_id": "AI0015",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3000-WFHF",
+    "ai_id": "AI0016",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3000-WFHF",
+    "ai_id": "AI0017",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3000-WFHF",
+    "ai_id": "AI0018",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3000-WFHF",
+    "ai_id": "AI0019",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3000-WFHF",
+    "ai_id": "AI0020",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2972-RC",
+    "ai_id": "AI0021",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2972-RC",
+    "ai_id": "AI0022",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2972-RC",
+    "ai_id": "AI0023",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2972-RC",
+    "ai_id": "AI0024",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2972-RC",
+    "ai_id": "AI0025",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2972-RC",
+    "ai_id": "AI0026",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2972-RC",
+    "ai_id": "AI0027",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2972-RC",
+    "ai_id": "AI0028",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3023-DHS",
+    "ai_id": "AI0029",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3023-DHS",
+    "ai_id": "AI0030",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3023-DHS",
+    "ai_id": "AI0022",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3023-DHS",
+    "ai_id": "AI0031",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3025-A",
+    "ai_id": "AI0032",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3025-A",
+    "ai_id": "AI0033",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3025-A",
+    "ai_id": "AI0031",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4192-EUCOM",
+    "ai_id": "AI0034",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4192-EUCOM",
+    "ai_id": "AI0014",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4192-EUCOM",
+    "ai_id": "AI0035",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4192-EUCOM",
+    "ai_id": "AI0036",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4192-EUCOM",
+    "ai_id": "AI0037",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4192-EUCOM",
+    "ai_id": "AI0038",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4227-RC",
+    "ai_id": "AI0039",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4227-RC",
+    "ai_id": "AI0040",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4227-RC",
+    "ai_id": "AI0041",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4227-RC",
+    "ai_id": "AI0022",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4227-RC",
+    "ai_id": "AI0042",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4227-RC",
+    "ai_id": "AI0043",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4227-RC",
+    "ai_id": "AI0044",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4227-RC",
+    "ai_id": "AI0045",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4227-RC",
+    "ai_id": "AI0046",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4227-RC",
+    "ai_id": "AI0047",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4227-RC",
+    "ai_id": "AI0048",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4227-RC",
+    "ai_id": "AI0031",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4227-RC",
+    "ai_id": "AI0049",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4227-RC",
+    "ai_id": "AI0050",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4227-RC",
+    "ai_id": "AI0051",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4344-BMGF",
+    "ai_id": "AI0052",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3179-DHS",
+    "ai_id": "AI0053",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3139-1-AF",
+    "ai_id": "AI0054",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3139-1-AF",
+    "ai_id": "AI0055",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3139-1-AF",
+    "ai_id": "AI0021",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3139-1-AF",
+    "ai_id": "AI0056",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3139-1-AF",
+    "ai_id": "AI0057",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3139-1-AF",
+    "ai_id": "AI0058",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3139-1-AF",
+    "ai_id": "AI0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3139-1-AF",
+    "ai_id": "AI0059",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3139-1-AF",
+    "ai_id": "AI0060",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3139-1-AF",
+    "ai_id": "AI0029",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3139-1-AF",
+    "ai_id": "AI0061",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3139-1-AF",
+    "ai_id": "AI0062",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-359-DHS",
+    "ai_id": "AI0063",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-359-DHS",
+    "ai_id": "AI0064",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-359-DHS",
+    "ai_id": "AI0031",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2849/3-AF",
+    "ai_id": "AI0056",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2849/3-AF",
+    "ai_id": "AI0065",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2849/3-AF",
+    "ai_id": "AI0031",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2849/3-AF",
+    "ai_id": "AI0066",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2849/3-AF",
+    "ai_id": "AI0027",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4407-AF",
+    "ai_id": "AI0067",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4407-AF",
+    "ai_id": "AI0068",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4226-RC",
+    "ai_id": "AI0069",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4226-RC",
+    "ai_id": "AI0070",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4311-RC",
+    "ai_id": "AI0071",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4311-RC",
+    "ai_id": "AI0055",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4311-RC",
+    "ai_id": "AI0072",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4311-RC",
+    "ai_id": "AI0073",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4311-RC",
+    "ai_id": "AI0031",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4311-RC",
+    "ai_id": "AI0074",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4311-RC",
+    "ai_id": "AI0075",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4311-RC",
+    "ai_id": "AI0076",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4311-RC",
+    "ai_id": "AI0077",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4311-RC",
+    "ai_id": "AI0078",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4311-RC",
+    "ai_id": "AI0079",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4368-AF",
+    "ai_id": "AI0080",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4368-AF",
+    "ai_id": "AI0081",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A319-1",
+    "ai_id": "AI0082",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A319-1",
+    "ai_id": "AI0083",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A319-1",
+    "ai_id": "AI0084",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A319-1",
+    "ai_id": "AI0085",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A319-1",
+    "ai_id": "AI0024",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A319-1",
+    "ai_id": "AI0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A319-1",
+    "ai_id": "AI0031",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A319-1",
+    "ai_id": "AI0086",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A319-1",
+    "ai_id": "AI0087",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A319-1",
+    "ai_id": "AI0088",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A319-1",
+    "ai_id": "AI0089",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A319-1",
+    "ai_id": "AI0062",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A508-1",
+    "ai_id": "AI0090",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A487-1",
+    "ai_id": "AI0013",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-A150-1",
+    "ai_id": "AI0055",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-A150-1",
+    "ai_id": "AI0030",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-A150-1",
+    "ai_id": "AI0021",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-A150-1",
+    "ai_id": "AI0022",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-A150-1",
+    "ai_id": "AI0091",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-A150-1",
+    "ai_id": "AI0092",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-A150-1",
+    "ai_id": "AI0024",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-A150-1",
+    "ai_id": "AI0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-A150-1",
+    "ai_id": "AI0093",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-A150-1",
+    "ai_id": "AI0094",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-A150-1",
+    "ai_id": "AI0095",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-A150-1",
+    "ai_id": "AI0096",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-A150-1",
+    "ai_id": "AI0097",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-A150-1",
+    "ai_id": "AI0098",
+    "year": 2020
+  },
+  {
+    "doc_id": "PE-A150-1",
+    "ai_id": "AI0029",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4420-AF",
+    "ai_id": "AI0017",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4420-AF",
+    "ai_id": "AI0099",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0100",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0055",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0021",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0101",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0102",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0103",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0076",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0104",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0105",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0106",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0107",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0108",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0109",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0110",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0111",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0112",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0074",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0113",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-4408/1-AF",
+    "ai_id": "AI0029",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A259-1",
+    "ai_id": "AI0114",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A259-1",
+    "ai_id": "AI0115",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A259-1",
+    "ai_id": "AI0116",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0117",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0057",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0118",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0102",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0119",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0120",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0121",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0122",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0123",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0124",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0125",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0126",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0127",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0128",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0081",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0031",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0129",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0130",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0131",
+    "year": 2020
+  },
+  {
+    "doc_id": "RGSD-A678-1",
+    "ai_id": "AI0132",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A275-1",
+    "ai_id": "AI0021",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A275-1",
+    "ai_id": "AI0022",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A275-1",
+    "ai_id": "AI0133",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A275-1",
+    "ai_id": "AI0134",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A275-1",
+    "ai_id": "AI0135",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A275-1",
+    "ai_id": "AI0136",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A275-1",
+    "ai_id": "AI0137",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A275-1",
+    "ai_id": "AI0138",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2996-RC",
+    "ai_id": "AI0139",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A176-1",
+    "ai_id": "AI0140",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A176-1",
+    "ai_id": "AI0030",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A176-1",
+    "ai_id": "AI0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A176-1",
+    "ai_id": "AI0031",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A176-1",
+    "ai_id": "AI0141",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A176-1",
+    "ai_id": "AI0142",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A176-1",
+    "ai_id": "AI0143",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A176-1",
+    "ai_id": "AI0144",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A176-1",
+    "ai_id": "AI0029",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A176-1",
+    "ai_id": "AI0062",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3147-DHS",
+    "ai_id": "AI0145",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3147-DHS",
+    "ai_id": "AI0146",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3147-DHS",
+    "ai_id": "AI0147",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A394-1",
+    "ai_id": "AI0148",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A394-1",
+    "ai_id": "AI0149",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A394-1",
+    "ai_id": "AI0150",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A394-1",
+    "ai_id": "AI0151",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A394-1",
+    "ai_id": "AI0152",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A394-1",
+    "ai_id": "AI0153",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A394-1",
+    "ai_id": "AI0154",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A394-1",
+    "ai_id": "AI0155",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A394-1",
+    "ai_id": "AI0017",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A394-1",
+    "ai_id": "AI0156",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A394-1",
+    "ai_id": "AI0157",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A394-1",
+    "ai_id": "AI0158",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A394-1",
+    "ai_id": "AI0159",
+    "year": 2020
+  },
+  {
+    "doc_id": "WR-A843-1",
+    "ai_id": "AI0160",
+    "year": 2020
+  },
+  {
+    "doc_id": "WR-A843-1",
+    "ai_id": "AI0161",
+    "year": 2020
+  },
+  {
+    "doc_id": "WR-A843-1",
+    "ai_id": "AI0162",
+    "year": 2020
+  },
+  {
+    "doc_id": "WR-A843-1",
+    "ai_id": "AI0163",
+    "year": 2020
+  },
+  {
+    "doc_id": "WR-A843-1",
+    "ai_id": "AI0164",
+    "year": 2020
+  },
+  {
+    "doc_id": "WR-A843-1",
+    "ai_id": "AI0165",
+    "year": 2020
+  },
+  {
+    "doc_id": "WR-A843-1",
+    "ai_id": "AI0166",
+    "year": 2020
+  },
+  {
+    "doc_id": "WR-A843-1",
+    "ai_id": "AI0074",
+    "year": 2020
+  },
+  {
+    "doc_id": "WR-A843-1",
+    "ai_id": "AI0167",
+    "year": 2020
+  },
+  {
+    "doc_id": "WR-A843-1",
+    "ai_id": "AI0168",
+    "year": 2020
+  },
+  {
+    "doc_id": "WR-A843-1",
+    "ai_id": "AI0169",
+    "year": 2020
+  },
+  {
+    "doc_id": "WR-A843-1",
+    "ai_id": "AI0076",
+    "year": 2020
+  },
+  {
+    "doc_id": "WR-A843-1",
+    "ai_id": "AI0170",
+    "year": 2020
+  },
+  {
+    "doc_id": "WR-A843-1",
+    "ai_id": "AI0109",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A704-1",
+    "ai_id": "AI0171",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A704-1",
+    "ai_id": "AI0172",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A704-1",
+    "ai_id": "AI0173",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A704-1",
+    "ai_id": "AI0174",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A704-1",
+    "ai_id": "AI0102",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3040-DHS",
+    "ai_id": "AI0175",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A628-1",
+    "ai_id": "AI0176",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A628-1",
+    "ai_id": "AI0177",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A628-1",
+    "ai_id": "AI0178",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A628-1",
+    "ai_id": "AI0179",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A628-1",
+    "ai_id": "AI0180",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A628-1",
+    "ai_id": "AI0181",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A628-1",
+    "ai_id": "AI0182",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A628-1",
+    "ai_id": "AI0102",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A628-1",
+    "ai_id": "AI0183",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A628-1",
+    "ai_id": "AI0184",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A628-1",
+    "ai_id": "AI0185",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A628-1",
+    "ai_id": "AI0186",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2705-DOS",
+    "ai_id": "AI0187",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2705-DOS",
+    "ai_id": "AI0021",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2705-DOS",
+    "ai_id": "AI0188",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2705-DOS",
+    "ai_id": "AI0102",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2705-DOS",
+    "ai_id": "AI0189",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-2705-DOS",
+    "ai_id": "AI0190",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A704-2",
+    "ai_id": "AI0191",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A704-2",
+    "ai_id": "AI0008",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A704-2",
+    "ai_id": "AI0192",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A704-2",
+    "ai_id": "AI0009",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A704-2",
+    "ai_id": "AI0031",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A704-2",
+    "ai_id": "AI0193",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A704-2",
+    "ai_id": "AI0102",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A704-2",
+    "ai_id": "AI0183",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A704-2",
+    "ai_id": "AI0061",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A704-2",
+    "ai_id": "AI0194",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A704-2",
+    "ai_id": "AI0195",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3226-RC",
+    "ai_id": "AI0017",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3226-RC",
+    "ai_id": "AI0196",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A108-7",
+    "ai_id": "AI0197",
+    "year": 2020
+  },
+  {
+    "doc_id": "WR-A1004-1",
+    "ai_id": "AI0198",
+    "year": 2020
+  },
+  {
+    "doc_id": "WR-A1004-1",
+    "ai_id": "AI0199",
+    "year": 2020
+  },
+  {
+    "doc_id": "WR-A1004-1",
+    "ai_id": "AI0200",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3083-MFANYC",
+    "ai_id": "AI0201",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-3083-MFANYC",
+    "ai_id": "AI0202",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A683-1",
+    "ai_id": "AI0203",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A683-1",
+    "ai_id": "AI0204",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A683-1",
+    "ai_id": "AI0205",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A683-1",
+    "ai_id": "AI0206",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A683-1",
+    "ai_id": "AI0207",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A683-1",
+    "ai_id": "AI0208",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A683-1",
+    "ai_id": "AI0004",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A683-1",
+    "ai_id": "AI0209",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A683-1",
+    "ai_id": "AI0210",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A683-1",
+    "ai_id": "AI0211",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A683-1",
+    "ai_id": "AI0212",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A683-1",
+    "ai_id": "AI0213",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A683-1",
+    "ai_id": "AI0214",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A683-1",
+    "ai_id": "AI0215",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A683-1",
+    "ai_id": "AI0216",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A683-1",
+    "ai_id": "AI0217",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A633-1",
+    "ai_id": "AI0218",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A633-1",
+    "ai_id": "AI0219",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A383-1",
+    "ai_id": "AI0220",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A383-1",
+    "ai_id": "AI0221",
+    "year": 2020
+  },
+  {
+    "doc_id": "RB-A137-1",
+    "ai_id": "AI0021",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A520-1",
+    "ai_id": "AI0222",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A423-1",
+    "ai_id": "AI0223",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A423-1",
+    "ai_id": "AI0224",
+    "year": 2020
+  },
+  {
+    "doc_id": "RR-A573-1",
+    "ai_id": "AI0225",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A573-1",
+    "ai_id": "AI0021",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A573-1",
+    "ai_id": "AI0022",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A812-1",
+    "ai_id": "AI0226",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A812-1",
+    "ai_id": "AI0081",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A812-1",
+    "ai_id": "AI0227",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A812-1",
+    "ai_id": "AI0228",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A812-1",
+    "ai_id": "AI0102",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A812-1",
+    "ai_id": "AI0229",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A812-1",
+    "ai_id": "AI0230",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A862-1",
+    "ai_id": "AI0055",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A862-1",
+    "ai_id": "AI0231",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A862-1",
+    "ai_id": "AI0227",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4270-MC",
+    "ai_id": "AI0232",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-10145",
+    "ai_id": "AI0233",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-10145",
+    "ai_id": "AI0021",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-10145",
+    "ai_id": "AI0004",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-1",
+    "ai_id": "AI0234",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-1",
+    "ai_id": "AI0235",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-1",
+    "ai_id": "AI0021",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-1",
+    "ai_id": "AI0236",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-1",
+    "ai_id": "AI0237",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-1",
+    "ai_id": "AI0238",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-2",
+    "ai_id": "AI0082",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-2",
+    "ai_id": "AI0162",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-2",
+    "ai_id": "AI0233",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-2",
+    "ai_id": "AI0239",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-2",
+    "ai_id": "AI0240",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-2",
+    "ai_id": "AI0241",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-2",
+    "ai_id": "AI0004",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-2",
+    "ai_id": "AI0242",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-2",
+    "ai_id": "AI0243",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-2",
+    "ai_id": "AI0214",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-2",
+    "ai_id": "AI0244",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A341-2",
+    "ai_id": "AI0245",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4247-OSD",
+    "ai_id": "AI0032",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4247-OSD",
+    "ai_id": "AI0246",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A425-1",
+    "ai_id": "AI0176",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A425-1",
+    "ai_id": "AI0247",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A425-1",
+    "ai_id": "AI0248",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A388-1",
+    "ai_id": "AI0249",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A388-1",
+    "ai_id": "AI0250",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A388-1",
+    "ai_id": "AI0251",
+    "year": 2021
+  },
+  {
+    "doc_id": "RB-A858-1",
+    "ai_id": "AI0252",
+    "year": 2021
+  },
+  {
+    "doc_id": "RGSD-A1167-1",
+    "ai_id": "AI0253",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-870/10-OSD",
+    "ai_id": "AI0254",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-870/10-OSD",
+    "ai_id": "AI0255",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A838-1",
+    "ai_id": "AI0256",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A838-1",
+    "ai_id": "AI0257",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A838-1",
+    "ai_id": "AI0258",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A838-1",
+    "ai_id": "AI0259",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A1068-1",
+    "ai_id": "AI0260",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A1068-1",
+    "ai_id": "AI0261",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A161-1",
+    "ai_id": "AI0262",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A161-1",
+    "ai_id": "AI0263",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A374-2",
+    "ai_id": "AI0264",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A374-2",
+    "ai_id": "AI0265",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A374-2",
+    "ai_id": "AI0266",
+    "year": 2021
+  },
+  {
+    "doc_id": "WR-A621-5",
+    "ai_id": "AI0017",
+    "year": 2021
+  },
+  {
+    "doc_id": "WR-A621-5",
+    "ai_id": "AI0267",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A793-1",
+    "ai_id": "AI0268",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A793-1",
+    "ai_id": "AI0269",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A793-1",
+    "ai_id": "AI0270",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A793-1",
+    "ai_id": "AI0271",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A793-1",
+    "ai_id": "AI0272",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A793-1",
+    "ai_id": "AI0273",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A793-1",
+    "ai_id": "AI0274",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A793-1",
+    "ai_id": "AI0275",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A793-1",
+    "ai_id": "AI0276",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A793-1",
+    "ai_id": "AI0277",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A793-1",
+    "ai_id": "AI0278",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A793-1",
+    "ai_id": "AI0279",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A793-1",
+    "ai_id": "AI0280",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A793-1",
+    "ai_id": "AI0281",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A793-1",
+    "ai_id": "AI0282",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A793-1",
+    "ai_id": "AI0283",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A793-1",
+    "ai_id": "AI0284",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A793-1",
+    "ai_id": "AI0285",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A793-1",
+    "ai_id": "AI0286",
+    "year": 2021
+  },
+  {
+    "doc_id": "WR-A1008-1",
+    "ai_id": "AI0287",
+    "year": 2021
+  },
+  {
+    "doc_id": "WR-A1008-1",
+    "ai_id": "AI0288",
+    "year": 2021
+  },
+  {
+    "doc_id": "WR-A1008-1",
+    "ai_id": "AI0289",
+    "year": 2021
+  },
+  {
+    "doc_id": "WR-A1008-1",
+    "ai_id": "AI0227",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4429-RC",
+    "ai_id": "AI0061",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4429-RC",
+    "ai_id": "AI0037",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4429-RC",
+    "ai_id": "AI0290",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A704-4",
+    "ai_id": "AI0291",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A454-1",
+    "ai_id": "AI0022",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A454-1",
+    "ai_id": "AI0031",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1121-1",
+    "ai_id": "AI0289",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1121-1",
+    "ai_id": "AI0031",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A106-1",
+    "ai_id": "AI0292",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A106-1",
+    "ai_id": "AI0293",
+    "year": 2021
+  },
+  {
+    "doc_id": "WR-A1080-1",
+    "ai_id": "AI0294",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4222-OSD",
+    "ai_id": "AI0295",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4222-OSD",
+    "ai_id": "AI0296",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4222-OSD",
+    "ai_id": "AI0297",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4222-OSD",
+    "ai_id": "AI0298",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4222-OSD",
+    "ai_id": "AI0299",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4222-OSD",
+    "ai_id": "AI0300",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4228-OSD",
+    "ai_id": "AI0295",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4228-OSD",
+    "ai_id": "AI0301",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4228-OSD",
+    "ai_id": "AI0302",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4228-OSD",
+    "ai_id": "AI0297",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4228-OSD",
+    "ai_id": "AI0303",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4228-OSD",
+    "ai_id": "AI0298",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4228-OSD",
+    "ai_id": "AI0304",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4228-OSD",
+    "ai_id": "AI0300",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4228-OSD",
+    "ai_id": "AI0305",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A676-1",
+    "ai_id": "AI0191",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A676-1",
+    "ai_id": "AI0021",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A676-1",
+    "ai_id": "AI0179",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A676-1",
+    "ai_id": "AI0306",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A676-1",
+    "ai_id": "AI0307",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A676-1",
+    "ai_id": "AI0308",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A676-1",
+    "ai_id": "AI0309",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A676-1",
+    "ai_id": "AI0076",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A676-1",
+    "ai_id": "AI0194",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A676-1",
+    "ai_id": "AI0186",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A1270-1",
+    "ai_id": "AI0310",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A1270-1",
+    "ai_id": "AI0016",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A875-1",
+    "ai_id": "AI0061",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A875-1",
+    "ai_id": "AI0311",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A875-1",
+    "ai_id": "AI0312",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A875-1",
+    "ai_id": "AI0313",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A109-1",
+    "ai_id": "AI0314",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A109-1",
+    "ai_id": "AI0315",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A109-1",
+    "ai_id": "AI0316",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A109-1",
+    "ai_id": "AI0317",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A109-1",
+    "ai_id": "AI0318",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A109-1",
+    "ai_id": "AI0031",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A109-1",
+    "ai_id": "AI0319",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A109-1",
+    "ai_id": "AI0320",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A109-1",
+    "ai_id": "AI0321",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A109-1",
+    "ai_id": "AI0322",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A382-1",
+    "ai_id": "AI0030",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A382-1",
+    "ai_id": "AI0323",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A382-1",
+    "ai_id": "AI0324",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A382-1",
+    "ai_id": "AI0241",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A382-1",
+    "ai_id": "AI0325",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A382-1",
+    "ai_id": "AI0326",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A382-1",
+    "ai_id": "AI0327",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A382-1",
+    "ai_id": "AI0328",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A382-1",
+    "ai_id": "AI0329",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A382-1",
+    "ai_id": "AI0330",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A382-1",
+    "ai_id": "AI0027",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A435-1",
+    "ai_id": "AI0013",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1128-1",
+    "ai_id": "AI0331",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1128-1",
+    "ai_id": "AI0332",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1128-1",
+    "ai_id": "AI0333",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A1141-12",
+    "ai_id": "AI0334",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1013-1",
+    "ai_id": "AI0335",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1013-1",
+    "ai_id": "AI0336",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1295-1",
+    "ai_id": "AI0337",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1295-1",
+    "ai_id": "AI0338",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1295-1",
+    "ai_id": "AI0339",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1295-1",
+    "ai_id": "AI0340",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A917-1",
+    "ai_id": "AI0341",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A290-3",
+    "ai_id": "AI0064",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A290-3",
+    "ai_id": "AI0342",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1160-1",
+    "ai_id": "AI0031",
+    "year": 2021
+  },
+  {
+    "doc_id": "WR-A1484-1",
+    "ai_id": "AI0343",
+    "year": 2021
+  },
+  {
+    "doc_id": "WR-A1484-1",
+    "ai_id": "AI0344",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1345-1",
+    "ai_id": "AI0345",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1345-1",
+    "ai_id": "AI0346",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1345-1",
+    "ai_id": "AI0347",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1345-1",
+    "ai_id": "AI0348",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1345-1",
+    "ai_id": "AI0349",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1345-1",
+    "ai_id": "AI0061",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-1",
+    "ai_id": "AI0350",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-1",
+    "ai_id": "AI0351",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-1",
+    "ai_id": "AI0352",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-1",
+    "ai_id": "AI0353",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-1",
+    "ai_id": "AI0354",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-1",
+    "ai_id": "AI0355",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-1",
+    "ai_id": "AI0356",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-1",
+    "ai_id": "AI0357",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-1",
+    "ai_id": "AI0358",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-1",
+    "ai_id": "AI0359",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-1",
+    "ai_id": "AI0360",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-1",
+    "ai_id": "AI0361",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-1",
+    "ai_id": "AI0362",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-1",
+    "ai_id": "AI0363",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-2",
+    "ai_id": "AI0364",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-2",
+    "ai_id": "AI0365",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-2",
+    "ai_id": "AI0366",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-2",
+    "ai_id": "AI0367",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-2",
+    "ai_id": "AI0368",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-2",
+    "ai_id": "AI0369",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-2",
+    "ai_id": "AI0370",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-2",
+    "ai_id": "AI0371",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-2",
+    "ai_id": "AI0372",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-2",
+    "ai_id": "AI0373",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-2",
+    "ai_id": "AI0374",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-2",
+    "ai_id": "AI0375",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-2",
+    "ai_id": "AI0376",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-2",
+    "ai_id": "AI0076",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-2",
+    "ai_id": "AI0377",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-2",
+    "ai_id": "AI0378",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-2",
+    "ai_id": "AI0109",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A263-2",
+    "ai_id": "AI0379",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A730-1",
+    "ai_id": "AI0380",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A730-1",
+    "ai_id": "AI0176",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A730-1",
+    "ai_id": "AI0081",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A730-1",
+    "ai_id": "AI0381",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A730-1",
+    "ai_id": "AI0382",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A134-9",
+    "ai_id": "AI0383",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4373/1-AF",
+    "ai_id": "AI0384",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4373/1-AF",
+    "ai_id": "AI0385",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1503-1",
+    "ai_id": "AI0386",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1503-1",
+    "ai_id": "AI0387",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1503-1",
+    "ai_id": "AI0388",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1503-1",
+    "ai_id": "AI0102",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1503-1",
+    "ai_id": "AI0389",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A531-1",
+    "ai_id": "AI0390",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A924-1",
+    "ai_id": "AI0391",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A924-1",
+    "ai_id": "AI0196",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A924-1",
+    "ai_id": "AI0392",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A556-1",
+    "ai_id": "AI0393",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A556-1",
+    "ai_id": "AI0394",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0082",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0021",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0307",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0395",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0325",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0102",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0396",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0076",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0397",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0398",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0399",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0400",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0229",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0183",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0401",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0402",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0071",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0403",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0404",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0405",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0406",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0407",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0408",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0409",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0410",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0411",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0412",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A926-1",
+    "ai_id": "AI0413",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A1157-1",
+    "ai_id": "AI0013",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1131-2",
+    "ai_id": "AI0414",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A608-1",
+    "ai_id": "AI0021",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A608-1",
+    "ai_id": "AI0022",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A608-1",
+    "ai_id": "AI0415",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4439-AF",
+    "ai_id": "AI0416",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-4439-AF",
+    "ai_id": "AI0267",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A458-3",
+    "ai_id": "AI0417",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A458-3",
+    "ai_id": "AI0418",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A787-1",
+    "ai_id": "AI0419",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A787-1",
+    "ai_id": "AI0420",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A362-2",
+    "ai_id": "AI0421",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A464-1",
+    "ai_id": "AI0055",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A464-1",
+    "ai_id": "AI0108",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A464-1",
+    "ai_id": "AI0422",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A464-1",
+    "ai_id": "AI0423",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A464-1",
+    "ai_id": "AI0424",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A464-1",
+    "ai_id": "AI0179",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A464-1",
+    "ai_id": "AI0425",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A464-1",
+    "ai_id": "AI0426",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A464-1",
+    "ai_id": "AI0102",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A464-1",
+    "ai_id": "AI0231",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A809-1",
+    "ai_id": "AI0427",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A809-1",
+    "ai_id": "AI0017",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A809-1",
+    "ai_id": "AI0147",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A809-1",
+    "ai_id": "AI0428",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A400-2",
+    "ai_id": "AI0429",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1446-1",
+    "ai_id": "AI0430",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1446-1",
+    "ai_id": "AI0102",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A929-1",
+    "ai_id": "AI0021",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A929-1",
+    "ai_id": "AI0022",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A309-1",
+    "ai_id": "AI0013",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1391-1",
+    "ai_id": "AI0431",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1391-1",
+    "ai_id": "AI0432",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A449-1",
+    "ai_id": "AI0186",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A449-1",
+    "ai_id": "AI0433",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A449-1",
+    "ai_id": "AI0162",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A449-1",
+    "ai_id": "AI0076",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A449-1",
+    "ai_id": "AI0434",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A449-1",
+    "ai_id": "AI0435",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A449-1",
+    "ai_id": "AI0059",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A449-1",
+    "ai_id": "AI0214",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A449-1",
+    "ai_id": "AI0102",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A449-1",
+    "ai_id": "AI0436",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A449-1",
+    "ai_id": "AI0437",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A449-1",
+    "ai_id": "AI0190",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A449-1",
+    "ai_id": "AI0438",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1184-1",
+    "ai_id": "AI0439",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1184-1",
+    "ai_id": "AI0440",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A500-1",
+    "ai_id": "AI0021",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A373-1",
+    "ai_id": "AI0441",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A373-1",
+    "ai_id": "AI0442",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A701-1",
+    "ai_id": "AI0443",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A701-1",
+    "ai_id": "AI0444",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A545-1",
+    "ai_id": "AI0445",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A545-1",
+    "ai_id": "AI0446",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A545-1",
+    "ai_id": "AI0447",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A545-1",
+    "ai_id": "AI0448",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A545-1",
+    "ai_id": "AI0449",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A545-1",
+    "ai_id": "AI0450",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A545-1",
+    "ai_id": "AI0451",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A545-1",
+    "ai_id": "AI0377",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A545-1",
+    "ai_id": "AI0452",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A545-1",
+    "ai_id": "AI0453",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A545-1",
+    "ai_id": "AI0454",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1309-1",
+    "ai_id": "AI0021",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1309-1",
+    "ai_id": "AI0022",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1113-1",
+    "ai_id": "AI0021",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1113-1",
+    "ai_id": "AI0022",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A374-3",
+    "ai_id": "AI0455",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A374-3",
+    "ai_id": "AI0456",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1482-3",
+    "ai_id": "AI0457",
+    "year": 2021
+  },
+  {
+    "doc_id": "RGSD-A1810-1",
+    "ai_id": "AI0458",
+    "year": 2021
+  },
+  {
+    "doc_id": "RGSD-A1810-1",
+    "ai_id": "AI0459",
+    "year": 2021
+  },
+  {
+    "doc_id": "RGSD-A1439-1",
+    "ai_id": "AI0460",
+    "year": 2021
+  },
+  {
+    "doc_id": "RGSD-A1439-1",
+    "ai_id": "AI0461",
+    "year": 2021
+  },
+  {
+    "doc_id": "RGSD-A1439-1",
+    "ai_id": "AI0462",
+    "year": 2021
+  },
+  {
+    "doc_id": "RGSD-A1439-1",
+    "ai_id": "AI0463",
+    "year": 2021
+  },
+  {
+    "doc_id": "RGSD-A1439-1",
+    "ai_id": "AI0464",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A112-21",
+    "ai_id": "AI0176",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A112-21",
+    "ai_id": "AI0465",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A112-21",
+    "ai_id": "AI0466",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A112-21",
+    "ai_id": "AI0467",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1482-2",
+    "ai_id": "AI0054",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1482-2",
+    "ai_id": "AI0468",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1482-2",
+    "ai_id": "AI0469",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1482-2",
+    "ai_id": "AI0470",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1482-2",
+    "ai_id": "AI0031",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1482-2",
+    "ai_id": "AI0471",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1482-2",
+    "ai_id": "AI0472",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1278-1",
+    "ai_id": "AI0473",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A779-1",
+    "ai_id": "AI0474",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A779-1",
+    "ai_id": "AI0475",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A779-1",
+    "ai_id": "AI0102",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A779-1",
+    "ai_id": "AI0476",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A281-1",
+    "ai_id": "AI0477",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A281-1",
+    "ai_id": "AI0033",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1563-1",
+    "ai_id": "AI0478",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1563-1",
+    "ai_id": "AI0479",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1563-1",
+    "ai_id": "AI0480",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1563-1",
+    "ai_id": "AI0481",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1563-1",
+    "ai_id": "AI0482",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1563-1",
+    "ai_id": "AI0483",
+    "year": 2021
+  },
+  {
+    "doc_id": "WR-A1526-1-v2",
+    "ai_id": "AI0484",
+    "year": 2021
+  },
+  {
+    "doc_id": "WR-A1526-1-v2",
+    "ai_id": "AI0485",
+    "year": 2021
+  },
+  {
+    "doc_id": "WR-A1526-1-v2",
+    "ai_id": "AI0486",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1360-1",
+    "ai_id": "AI0076",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1360-1",
+    "ai_id": "AI0024",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1360-1",
+    "ai_id": "AI0487",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1360-1",
+    "ai_id": "AI0031",
+    "year": 2022
+  },
+  {
+    "doc_id": "RB-A1360-1",
+    "ai_id": "AI0031",
+    "year": 2022
+  },
+  {
+    "doc_id": "WR-A1719-1",
+    "ai_id": "AI0008",
+    "year": 2022
+  },
+  {
+    "doc_id": "WR-A1719-1",
+    "ai_id": "AI0488",
+    "year": 2022
+  },
+  {
+    "doc_id": "WR-A1719-1",
+    "ai_id": "AI0489",
+    "year": 2022
+  },
+  {
+    "doc_id": "WR-A1719-1",
+    "ai_id": "AI0490",
+    "year": 2022
+  },
+  {
+    "doc_id": "WR-A1719-1",
+    "ai_id": "AI0491",
+    "year": 2022
+  },
+  {
+    "doc_id": "WR-A1719-1",
+    "ai_id": "AI0492",
+    "year": 2022
+  },
+  {
+    "doc_id": "WR-A1719-1",
+    "ai_id": "AI0493",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1078-1",
+    "ai_id": "AI0061",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1355-1",
+    "ai_id": "AI0494",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1355-1",
+    "ai_id": "AI0495",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1355-1",
+    "ai_id": "AI0496",
+    "year": 2021
+  },
+  {
+    "doc_id": "RR-A1507-1",
+    "ai_id": "AI0021",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1507-1",
+    "ai_id": "AI0022",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A869-1",
+    "ai_id": "AI0497",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A992-1",
+    "ai_id": "AI0498",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A992-1",
+    "ai_id": "AI0499",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A609-1",
+    "ai_id": "AI0391",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A609-1",
+    "ai_id": "AI0196",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A609-1",
+    "ai_id": "AI0392",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A284-1",
+    "ai_id": "AI0500",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A284-1",
+    "ai_id": "AI0501",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A284-1",
+    "ai_id": "AI0021",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A284-1",
+    "ai_id": "AI0502",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A284-1",
+    "ai_id": "AI0503",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A284-1",
+    "ai_id": "AI0504",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A284-1",
+    "ai_id": "AI0505",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A284-1",
+    "ai_id": "AI0506",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A284-1",
+    "ai_id": "AI0507",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A284-1",
+    "ai_id": "AI0508",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A620-1",
+    "ai_id": "AI0509",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A620-1",
+    "ai_id": "AI0510",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A691-1",
+    "ai_id": "AI0102",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A691-1",
+    "ai_id": "AI0061",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A691-1",
+    "ai_id": "AI0021",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A691-1",
+    "ai_id": "AI0022",
+    "year": 2021
+  },
+  {
+    "doc_id": "PE-A731-1",
+    "ai_id": "AI0511",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A731-1",
+    "ai_id": "AI0021",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A731-1",
+    "ai_id": "AI0512",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A731-1",
+    "ai_id": "AI0076",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A731-1",
+    "ai_id": "AI0513",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A731-1",
+    "ai_id": "AI0214",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A731-1",
+    "ai_id": "AI0189",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A731-1",
+    "ai_id": "AI0109",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1377-1",
+    "ai_id": "AI0021",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1377-1",
+    "ai_id": "AI0233",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1377-1",
+    "ai_id": "AI0514",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1377-1",
+    "ai_id": "AI0515",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1377-1",
+    "ai_id": "AI0516",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1377-1",
+    "ai_id": "AI0517",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1377-1",
+    "ai_id": "AI0518",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1458-2",
+    "ai_id": "AI0519",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1458-2",
+    "ai_id": "AI0520",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1458-2",
+    "ai_id": "AI0031",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1534-1",
+    "ai_id": "AI0521",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1534-1",
+    "ai_id": "AI0522",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A578-2",
+    "ai_id": "AI0021",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A578-2",
+    "ai_id": "AI0022",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A595-1",
+    "ai_id": "AI0523",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A595-1",
+    "ai_id": "AI0524",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A595-1",
+    "ai_id": "AI0525",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1205-1",
+    "ai_id": "AI0526",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1205-1",
+    "ai_id": "AI0527",
+    "year": 2022
+  },
+  {
+    "doc_id": "WR-A1131-1",
+    "ai_id": "AI0528",
+    "year": 2022
+  },
+  {
+    "doc_id": "WR-A1131-1",
+    "ai_id": "AI0529",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4196-A",
+    "ai_id": "AI0530",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4196-A",
+    "ai_id": "AI0531",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4196-A",
+    "ai_id": "AI0532",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4196-A",
+    "ai_id": "AI0533",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4196-A",
+    "ai_id": "AI0534",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4196-A",
+    "ai_id": "AI0307",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4196-A",
+    "ai_id": "AI0535",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4196-A",
+    "ai_id": "AI0536",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4196-A",
+    "ai_id": "AI0009",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4196-A",
+    "ai_id": "AI0537",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4196-A",
+    "ai_id": "AI0081",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4196-A",
+    "ai_id": "AI0538",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4196-A",
+    "ai_id": "AI0102",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4196-A",
+    "ai_id": "AI0076",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4196-A",
+    "ai_id": "AI0539",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4196-A",
+    "ai_id": "AI0109",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4196-A",
+    "ai_id": "AI0540",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-4196-A",
+    "ai_id": "AI0541",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1522-1",
+    "ai_id": "AI0542",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1522-1",
+    "ai_id": "AI0543",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1498-1",
+    "ai_id": "AI0021",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A542-1",
+    "ai_id": "AI0544",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A542-1",
+    "ai_id": "AI0403",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A542-1",
+    "ai_id": "AI0545",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A542-1",
+    "ai_id": "AI0546",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A542-1",
+    "ai_id": "AI0017",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A542-1",
+    "ai_id": "AI0547",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A542-1",
+    "ai_id": "AI0102",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A542-1",
+    "ai_id": "AI0138",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1417-1",
+    "ai_id": "AI0057",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1417-1",
+    "ai_id": "AI0102",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1417-1",
+    "ai_id": "AI0548",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1849-1",
+    "ai_id": "AI0021",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1849-1",
+    "ai_id": "AI0022",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A539-2",
+    "ai_id": "AI0549",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A539-2",
+    "ai_id": "AI0550",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A539-2",
+    "ai_id": "AI0551",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A539-2",
+    "ai_id": "AI0552",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A539-2",
+    "ai_id": "AI0553",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A435-5",
+    "ai_id": "AI0554",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A435-5",
+    "ai_id": "AI0555",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A435-5",
+    "ai_id": "AI0556",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A435-5",
+    "ai_id": "AI0557",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1964-1",
+    "ai_id": "AI0558",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1498-2",
+    "ai_id": "AI0061",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1498-2",
+    "ai_id": "AI0559",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A985-1",
+    "ai_id": "AI0021",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A985-1",
+    "ai_id": "AI0022",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1984-1",
+    "ai_id": "AI0560",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1984-1",
+    "ai_id": "AI0561",
+    "year": 2022
+  },
+  {
+    "doc_id": "RB-A1062-1",
+    "ai_id": "AI0102",
+    "year": 2022
+  },
+  {
+    "doc_id": "RB-A1062-1",
+    "ai_id": "AI0562",
+    "year": 2022
+  },
+  {
+    "doc_id": "RB-A1062-1",
+    "ai_id": "AI0031",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A198-4",
+    "ai_id": "AI0563",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A198-4",
+    "ai_id": "AI0564",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1853-1",
+    "ai_id": "AI0565",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1853-1",
+    "ai_id": "AI0566",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A751-1",
+    "ai_id": "AI0567",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A751-1",
+    "ai_id": "AI0568",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A751-1",
+    "ai_id": "AI0569",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1043-1",
+    "ai_id": "AI0570",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1043-1",
+    "ai_id": "AI0571",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1043-1",
+    "ai_id": "AI0572",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1043-1",
+    "ai_id": "AI0573",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1043-1",
+    "ai_id": "AI0574",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1043-1",
+    "ai_id": "AI0074",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1043-1",
+    "ai_id": "AI0575",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1043-1",
+    "ai_id": "AI0576",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1043-1",
+    "ai_id": "AI0577",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1043-1",
+    "ai_id": "AI0578",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-2995-A",
+    "ai_id": "AI0579",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-2995-A",
+    "ai_id": "AI0580",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-2995-A",
+    "ai_id": "AI0581",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1304-1",
+    "ai_id": "AI0582",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1304-1",
+    "ai_id": "AI0583",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1377-2",
+    "ai_id": "AI0013",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A632-1",
+    "ai_id": "AI0584",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A632-1",
+    "ai_id": "AI0585",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A138-1",
+    "ai_id": "AI0024",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A138-1",
+    "ai_id": "AI0031",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A138-1",
+    "ai_id": "AI0076",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A138-1",
+    "ai_id": "AI0438",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A138-1",
+    "ai_id": "AI0586",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A138-1",
+    "ai_id": "AI0186",
+    "year": 2022
+  },
+  {
+    "doc_id": "RGSD-A2147-1",
+    "ai_id": "AI0587",
+    "year": 2022
+  },
+  {
+    "doc_id": "RGSD-A2147-1",
+    "ai_id": "AI0588",
+    "year": 2022
+  },
+  {
+    "doc_id": "RGSD-A2147-1",
+    "ai_id": "AI0589",
+    "year": 2022
+  },
+  {
+    "doc_id": "RGSD-A2147-1",
+    "ai_id": "AI0590",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1201-1-v2",
+    "ai_id": "AI0013",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1758-1",
+    "ai_id": "AI0591",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1758-1",
+    "ai_id": "AI0592",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A198-7",
+    "ai_id": "AI0013",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A383-2",
+    "ai_id": "AI0220",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A383-2",
+    "ai_id": "AI0593",
+    "year": 2022
+  },
+  {
+    "doc_id": "RGSD-A2236-1",
+    "ai_id": "AI0594",
+    "year": 2022
+  },
+  {
+    "doc_id": "RGSD-A2236-1",
+    "ai_id": "AI0595",
+    "year": 2022
+  },
+  {
+    "doc_id": "RGSD-A2236-1",
+    "ai_id": "AI0596",
+    "year": 2022
+  },
+  {
+    "doc_id": "RGSD-A2236-1",
+    "ai_id": "AI0181",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1564-1",
+    "ai_id": "AI0597",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1564-1",
+    "ai_id": "AI0598",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1031-1",
+    "ai_id": "AI0599",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1031-1",
+    "ai_id": "AI0033",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A2028-1",
+    "ai_id": "AI0600",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A2028-1",
+    "ai_id": "AI0601",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A2028-1",
+    "ai_id": "AI0602",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A801-1",
+    "ai_id": "AI0603",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1899-1",
+    "ai_id": "AI0604",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1899-1",
+    "ai_id": "AI0605",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1899-1",
+    "ai_id": "AI0156",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1899-1",
+    "ai_id": "AI0606",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1899-1",
+    "ai_id": "AI0607",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1141-7",
+    "ai_id": "AI0608",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1141-7",
+    "ai_id": "AI0609",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A873-1",
+    "ai_id": "AI0610",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A873-1",
+    "ai_id": "AI0021",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A873-1",
+    "ai_id": "AI0611",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A873-1",
+    "ai_id": "AI0612",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A873-1",
+    "ai_id": "AI0192",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A873-1",
+    "ai_id": "AI0004",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A873-1",
+    "ai_id": "AI0613",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A873-1",
+    "ai_id": "AI0102",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1481-2",
+    "ai_id": "AI0022",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1481-2",
+    "ai_id": "AI0031",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A828-1",
+    "ai_id": "AI0021",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A828-1",
+    "ai_id": "AI0614",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A828-1",
+    "ai_id": "AI0615",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A828-1",
+    "ai_id": "AI0004",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A828-1",
+    "ai_id": "AI0616",
+    "year": 2022
+  },
+  {
+    "doc_id": "WR-A2499-1",
+    "ai_id": "AI0617",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A872-2",
+    "ai_id": "AI0017",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A872-2",
+    "ai_id": "AI0159",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A872-2",
+    "ai_id": "AI0196",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1425-1",
+    "ai_id": "AI0618",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1259-2",
+    "ai_id": "AI0619",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1259-2",
+    "ai_id": "AI0620",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A866-1",
+    "ai_id": "AI0621",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A866-1",
+    "ai_id": "AI0021",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A866-1",
+    "ai_id": "AI0022",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A866-1",
+    "ai_id": "AI0622",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A866-1",
+    "ai_id": "AI0623",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A866-1",
+    "ai_id": "AI0624",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A866-1",
+    "ai_id": "AI0024",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A866-1",
+    "ai_id": "AI0625",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A866-1",
+    "ai_id": "AI0626",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A866-1",
+    "ai_id": "AI0627",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A866-1",
+    "ai_id": "AI0214",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A866-1",
+    "ai_id": "AI0513",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A866-1",
+    "ai_id": "AI0628",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A866-1",
+    "ai_id": "AI0629",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A866-1",
+    "ai_id": "AI0216",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A992-3",
+    "ai_id": "AI0630",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A992-3",
+    "ai_id": "AI0631",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A992-3",
+    "ai_id": "AI0031",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1672-1",
+    "ai_id": "AI0022",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1672-1",
+    "ai_id": "AI0632",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1251-1",
+    "ai_id": "AI0633",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1251-1",
+    "ai_id": "AI0102",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1251-1",
+    "ai_id": "AI0623",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1251-1",
+    "ai_id": "AI0634",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1198-1",
+    "ai_id": "AI0635",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1198-1",
+    "ai_id": "AI0636",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1198-1",
+    "ai_id": "AI0637",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1198-1",
+    "ai_id": "AI0638",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1198-1",
+    "ai_id": "AI0639",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1198-1",
+    "ai_id": "AI0640",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1198-1",
+    "ai_id": "AI0641",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1198-1",
+    "ai_id": "AI0642",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1198-1",
+    "ai_id": "AI0643",
+    "year": 2022
+  },
+  {
+    "doc_id": "RGSD-A2531-1",
+    "ai_id": "AI0644",
+    "year": 2022
+  },
+  {
+    "doc_id": "RGSD-A2531-1",
+    "ai_id": "AI0645",
+    "year": 2022
+  },
+  {
+    "doc_id": "RGSD-A2531-1",
+    "ai_id": "AI0646",
+    "year": 2022
+  },
+  {
+    "doc_id": "RGSD-A2531-1",
+    "ai_id": "AI0647",
+    "year": 2022
+  },
+  {
+    "doc_id": "RGSD-A2531-1",
+    "ai_id": "AI0648",
+    "year": 2022
+  },
+  {
+    "doc_id": "RGSD-A2531-1",
+    "ai_id": "AI0649",
+    "year": 2022
+  },
+  {
+    "doc_id": "RGSD-A2531-1",
+    "ai_id": "AI0650",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1882-1",
+    "ai_id": "AI0651",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1882-1",
+    "ai_id": "AI0652",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1882-1",
+    "ai_id": "AI0653",
+    "year": 2022
+  },
+  {
+    "doc_id": "RR-A1882-1",
+    "ai_id": "AI0654",
+    "year": 2022
+  },
+  {
+    "doc_id": "PE-A1996-1",
+    "ai_id": "AI0379",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A981-1",
+    "ai_id": "AI0021",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A981-1",
+    "ai_id": "AI0655",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A981-1",
+    "ai_id": "AI0004",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A981-1",
+    "ai_id": "AI0656",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A981-1",
+    "ai_id": "AI0657",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A981-1",
+    "ai_id": "AI0107",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A981-2",
+    "ai_id": "AI0658",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A981-2",
+    "ai_id": "AI0021",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1376-1",
+    "ai_id": "AI0659",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1376-1",
+    "ai_id": "AI0660",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2473-1",
+    "ai_id": "AI0661",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A660-7",
+    "ai_id": "AI0662",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2249-1",
+    "ai_id": "AI0663",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1689-1",
+    "ai_id": "AI0664",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1689-1",
+    "ai_id": "AI0021",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1689-1",
+    "ai_id": "AI0665",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1689-1",
+    "ai_id": "AI0666",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1689-1",
+    "ai_id": "AI0667",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1689-1",
+    "ai_id": "AI0668",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1689-1",
+    "ai_id": "AI0669",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1689-1",
+    "ai_id": "AI0670",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1689-1",
+    "ai_id": "AI0671",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1689-1",
+    "ai_id": "AI0102",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1689-1",
+    "ai_id": "AI0672",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1689-1",
+    "ai_id": "AI0554",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1689-1",
+    "ai_id": "AI0673",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1572-1",
+    "ai_id": "AI0674",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1572-1",
+    "ai_id": "AI0061",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1572-1",
+    "ai_id": "AI0675",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1572-1",
+    "ai_id": "AI0313",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A988-4",
+    "ai_id": "AI0013",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1761-1",
+    "ai_id": "AI0191",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1761-1",
+    "ai_id": "AI0021",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1761-1",
+    "ai_id": "AI0022",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1761-1",
+    "ai_id": "AI0102",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1761-1",
+    "ai_id": "AI0676",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1761-1",
+    "ai_id": "AI0677",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A985-2",
+    "ai_id": "AI0021",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A985-2",
+    "ai_id": "AI0022",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2302-1",
+    "ai_id": "AI0021",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2302-1",
+    "ai_id": "AI0200",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1577-1",
+    "ai_id": "AI0678",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1577-1",
+    "ai_id": "AI0679",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A119-5",
+    "ai_id": "AI0680",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1233-5",
+    "ai_id": "AI0681",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1233-5",
+    "ai_id": "AI0682",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1233-5",
+    "ai_id": "AI0683",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1233-5",
+    "ai_id": "AI0684",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1233-5",
+    "ai_id": "AI0685",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1233-5",
+    "ai_id": "AI0686",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1233-5",
+    "ai_id": "AI0687",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1351-2",
+    "ai_id": "AI0013",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A952-1",
+    "ai_id": "AI0445",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A952-1",
+    "ai_id": "AI0688",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A952-1",
+    "ai_id": "AI0689",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A952-1",
+    "ai_id": "AI0021",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A952-1",
+    "ai_id": "AI0690",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A952-1",
+    "ai_id": "AI0691",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A952-1",
+    "ai_id": "AI0692",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A952-1",
+    "ai_id": "AI0102",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A952-1",
+    "ai_id": "AI0229",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A952-1",
+    "ai_id": "AI0183",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A952-1",
+    "ai_id": "AI0676",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A952-1",
+    "ai_id": "AI0693",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A952-1",
+    "ai_id": "AI0694",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2527-1",
+    "ai_id": "AI0460",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2527-1",
+    "ai_id": "AI0538",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2527-1",
+    "ai_id": "AI0695",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2527-1",
+    "ai_id": "AI0696",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2009-1",
+    "ai_id": "AI0697",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A1259-8",
+    "ai_id": "AI0698",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A1259-8",
+    "ai_id": "AI0699",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A1259-8",
+    "ai_id": "AI0700",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A1259-8",
+    "ai_id": "AI0701",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A1259-8",
+    "ai_id": "AI0702",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A1259-8",
+    "ai_id": "AI0079",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1474-1",
+    "ai_id": "AI0703",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1474-1",
+    "ai_id": "AI0704",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A980-1",
+    "ai_id": "AI0705",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A980-1",
+    "ai_id": "AI0706",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A980-1",
+    "ai_id": "AI0707",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A980-1",
+    "ai_id": "AI0009",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1929-1",
+    "ai_id": "AI0013",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1784-1",
+    "ai_id": "AI0708",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1784-1",
+    "ai_id": "AI0021",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1784-1",
+    "ai_id": "AI0022",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1784-1",
+    "ai_id": "AI0709",
+    "year": 2023
+  },
+  {
+    "doc_id": "RB-A1949-1",
+    "ai_id": "AI0013",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A853-1",
+    "ai_id": "AI0710",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A853-1",
+    "ai_id": "AI0711",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A853-1",
+    "ai_id": "AI0024",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A853-1",
+    "ai_id": "AI0004",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A853-1",
+    "ai_id": "AI0031",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A853-1",
+    "ai_id": "AI0074",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A853-1",
+    "ai_id": "AI0712",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A853-1",
+    "ai_id": "AI0136",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A853-1",
+    "ai_id": "AI0713",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A853-1",
+    "ai_id": "AI0714",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A853-1",
+    "ai_id": "AI0715",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A853-1",
+    "ai_id": "AI0716",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1542-1",
+    "ai_id": "AI0717",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1542-1",
+    "ai_id": "AI0021",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1542-1",
+    "ai_id": "AI0718",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1542-1",
+    "ai_id": "AI0719",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1542-1",
+    "ai_id": "AI0720",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1542-1",
+    "ai_id": "AI0721",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1542-1",
+    "ai_id": "AI0722",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2308-1",
+    "ai_id": "AI0723",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2308-1",
+    "ai_id": "AI0724",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2049-1",
+    "ai_id": "AI0061",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2049-1",
+    "ai_id": "AI0102",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2637-1",
+    "ai_id": "AI0725",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2637-1",
+    "ai_id": "AI0102",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2637-1",
+    "ai_id": "AI0726",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A968-1",
+    "ai_id": "AI0727",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1357-3",
+    "ai_id": "AI0728",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1554-1",
+    "ai_id": "AI0021",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1554-1",
+    "ai_id": "AI0022",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1565-1",
+    "ai_id": "AI0729",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1565-1",
+    "ai_id": "AI0730",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1565-1",
+    "ai_id": "AI0021",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1565-1",
+    "ai_id": "AI0731",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2625-1",
+    "ai_id": "AI0732",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2625-1",
+    "ai_id": "AI0733",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2625-1",
+    "ai_id": "AI0734",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2625-1",
+    "ai_id": "AI0081",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2625-1",
+    "ai_id": "AI0735",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2625-1",
+    "ai_id": "AI0736",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2625-1",
+    "ai_id": "AI0737",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1690-1",
+    "ai_id": "AI0738",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1690-1",
+    "ai_id": "AI0739",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1690-1",
+    "ai_id": "AI0740",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1690-1",
+    "ai_id": "AI0179",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1690-1",
+    "ai_id": "AI0102",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1690-1",
+    "ai_id": "AI0741",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2887-1",
+    "ai_id": "AI0742",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2887-1",
+    "ai_id": "AI0200",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2034-1",
+    "ai_id": "AI0743",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2034-1",
+    "ai_id": "AI0744",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2717-1",
+    "ai_id": "AI0745",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2717-1",
+    "ai_id": "AI0746",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2717-1",
+    "ai_id": "AI0747",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2717-1",
+    "ai_id": "AI0748",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2717-1",
+    "ai_id": "AI0749",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2717-1",
+    "ai_id": "AI0750",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2859-1",
+    "ai_id": "AI0751",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2859-1",
+    "ai_id": "AI0752",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2859-1",
+    "ai_id": "AI0753",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2859-1",
+    "ai_id": "AI0754",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2110-1",
+    "ai_id": "AI0755",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2110-1",
+    "ai_id": "AI0756",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2679-1",
+    "ai_id": "AI0757",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2679-1",
+    "ai_id": "AI0758",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2679-1",
+    "ai_id": "AI0759",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2679-1",
+    "ai_id": "AI0760",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2679-1",
+    "ai_id": "AI0761",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2679-1",
+    "ai_id": "AI0762",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2679-1",
+    "ai_id": "AI0763",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2679-1",
+    "ai_id": "AI0764",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2679-1",
+    "ai_id": "AI0765",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2679-1",
+    "ai_id": "AI0074",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2679-1",
+    "ai_id": "AI0766",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2679-1",
+    "ai_id": "AI0767",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2679-1",
+    "ai_id": "AI0017",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2679-1",
+    "ai_id": "AI0156",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2679-1",
+    "ai_id": "AI0768",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2679-1",
+    "ai_id": "AI0577",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2679-1",
+    "ai_id": "AI0769",
+    "year": 2023
+  },
+  {
+    "doc_id": "PE-A2679-1",
+    "ai_id": "AI0770",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A815-1",
+    "ai_id": "AI0771",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A815-1",
+    "ai_id": "AI0772",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A815-1",
+    "ai_id": "AI0102",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A815-1",
+    "ai_id": "AI0227",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2251-1",
+    "ai_id": "AI0017",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2251-1",
+    "ai_id": "AI0099",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2614-1",
+    "ai_id": "AI0773",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2614-1",
+    "ai_id": "AI0774",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1812-1",
+    "ai_id": "AI0775",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1812-1",
+    "ai_id": "AI0776",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1812-1",
+    "ai_id": "AI0777",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1812-1",
+    "ai_id": "AI0778",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1812-1",
+    "ai_id": "AI0779",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1812-1",
+    "ai_id": "AI0252",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1812-1",
+    "ai_id": "AI0780",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2892-1",
+    "ai_id": "AI0781",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2892-1",
+    "ai_id": "AI0782",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2892-1",
+    "ai_id": "AI0783",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2892-1",
+    "ai_id": "AI0074",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2892-1",
+    "ai_id": "AI0784",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2892-1",
+    "ai_id": "AI0785",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2892-1",
+    "ai_id": "AI0786",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2892-1",
+    "ai_id": "AI0787",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2892-1",
+    "ai_id": "AI0788",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2892-1",
+    "ai_id": "AI0189",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2892-1",
+    "ai_id": "AI0789",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2655-1",
+    "ai_id": "AI0179",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2655-1",
+    "ai_id": "AI0790",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2655-1",
+    "ai_id": "AI0791",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2655-1",
+    "ai_id": "AI0102",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2655-1",
+    "ai_id": "AI0792",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2655-1",
+    "ai_id": "AI0793",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2100-1",
+    "ai_id": "AI0013",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A992-2",
+    "ai_id": "AI0017",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A992-2",
+    "ai_id": "AI0196",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2849-1",
+    "ai_id": "AI0013",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A1871-1",
+    "ai_id": "AI0794",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0795",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0796",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0797",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0798",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0799",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0102",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0800",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0076",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0801",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0802",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0803",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0804",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0353",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0805",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0806",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0807",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0808",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0809",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0768",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0577",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0109",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0810",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0770",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0811",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2838-1",
+    "ai_id": "AI0812",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2162-1",
+    "ai_id": "AI0345",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2162-1",
+    "ai_id": "AI0288",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2162-1",
+    "ai_id": "AI0813",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2162-1",
+    "ai_id": "AI0814",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2162-1",
+    "ai_id": "AI0192",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2162-1",
+    "ai_id": "AI0081",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2162-1",
+    "ai_id": "AI0815",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2162-1",
+    "ai_id": "AI0102",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2848-1",
+    "ai_id": "AI0813",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2848-1",
+    "ai_id": "AI0816",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2848-1",
+    "ai_id": "AI0817",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2848-1",
+    "ai_id": "AI0192",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2848-1",
+    "ai_id": "AI0081",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2848-1",
+    "ai_id": "AI0815",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2903-1",
+    "ai_id": "AI0196",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2903-1",
+    "ai_id": "AI0672",
+    "year": 2023
+  },
+  {
+    "doc_id": "RB-A2903-1",
+    "ai_id": "AI0818",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2689-1",
+    "ai_id": "AI0819",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2790-1",
+    "ai_id": "AI0820",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2790-1",
+    "ai_id": "AI0821",
+    "year": 2023
+  },
+  {
+    "doc_id": "RB-A2338-1",
+    "ai_id": "AI0017",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2338-2",
+    "ai_id": "AI0031",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2338-4",
+    "ai_id": "AI0017",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2338-5",
+    "ai_id": "AI0031",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2846-1",
+    "ai_id": "AI0822",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2846-1",
+    "ai_id": "AI0823",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2846-1",
+    "ai_id": "AI0824",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2846-1",
+    "ai_id": "AI0825",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2846-1",
+    "ai_id": "AI0826",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2846-1",
+    "ai_id": "AI0827",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2846-1",
+    "ai_id": "AI0503",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2846-1",
+    "ai_id": "AI0828",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2846-1",
+    "ai_id": "AI0829",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2846-1",
+    "ai_id": "AI0830",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2846-1",
+    "ai_id": "AI0831",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2846-1",
+    "ai_id": "AI0832",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2846-1",
+    "ai_id": "AI0833",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2910-1",
+    "ai_id": "AI0834",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2910-1",
+    "ai_id": "AI0835",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2910-1",
+    "ai_id": "AI0836",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2910-1",
+    "ai_id": "AI0837",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2910-1",
+    "ai_id": "AI0252",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2910-1",
+    "ai_id": "AI0838",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2910-1",
+    "ai_id": "AI0138",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2910-1",
+    "ai_id": "AI0267",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A3085-1",
+    "ai_id": "AI0839",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2696-1",
+    "ai_id": "AI0840",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2696-1",
+    "ai_id": "AI0096",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2696-1",
+    "ai_id": "AI0841",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2696-1",
+    "ai_id": "AI0102",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2696-2",
+    "ai_id": "AI0057",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2696-2",
+    "ai_id": "AI0842",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2696-2",
+    "ai_id": "AI0843",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A970-1",
+    "ai_id": "AI0844",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2788-1",
+    "ai_id": "AI0845",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2788-1",
+    "ai_id": "AI0846",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2788-1",
+    "ai_id": "AI0847",
+    "year": 2023
+  },
+  {
+    "doc_id": "WR-A2499-1-v2",
+    "ai_id": "AI0848",
+    "year": 2023
+  },
+  {
+    "doc_id": "RR-A2520-1",
+    "ai_id": "AI0849",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2520-1",
+    "ai_id": "AI0850",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2520-1",
+    "ai_id": "AI0021",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A582-1",
+    "ai_id": "AI0851",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A582-1",
+    "ai_id": "AI0852",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A582-1",
+    "ai_id": "AI0853",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A582-1",
+    "ai_id": "AI0854",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A582-1",
+    "ai_id": "AI0855",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2500-1",
+    "ai_id": "AI0021",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2500-1",
+    "ai_id": "AI0856",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2500-1",
+    "ai_id": "AI0857",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2500-1",
+    "ai_id": "AI0102",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2500-1",
+    "ai_id": "AI0858",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2500-1",
+    "ai_id": "AI0029",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2500-1",
+    "ai_id": "AI0859",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2360-1",
+    "ai_id": "AI0017",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2360-1",
+    "ai_id": "AI0099",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3079-1",
+    "ai_id": "AI0860",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3079-1",
+    "ai_id": "AI0861",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3079-1",
+    "ai_id": "AI0862",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3079-1",
+    "ai_id": "AI0863",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-1",
+    "ai_id": "AI0864",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-1",
+    "ai_id": "AI0021",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-1",
+    "ai_id": "AI0092",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-1",
+    "ai_id": "AI0865",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-1",
+    "ai_id": "AI0102",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-1",
+    "ai_id": "AI0098",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-1",
+    "ai_id": "AI0702",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-1",
+    "ai_id": "AI0027",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2697-1",
+    "ai_id": "AI0866",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2697-1",
+    "ai_id": "AI0033",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2533-1",
+    "ai_id": "AI0867",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2533-1",
+    "ai_id": "AI0868",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2533-1",
+    "ai_id": "AI0021",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2533-1",
+    "ai_id": "AI0869",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2533-1",
+    "ai_id": "AI0870",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2533-1",
+    "ai_id": "AI0024",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2533-1",
+    "ai_id": "AI0004",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2533-1",
+    "ai_id": "AI0871",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2533-1",
+    "ai_id": "AI0872",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2882-1",
+    "ai_id": "AI0873",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2882-1",
+    "ai_id": "AI0022",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2882-1",
+    "ai_id": "AI0031",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2984-1",
+    "ai_id": "AI0021",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2984-1",
+    "ai_id": "AI0022",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2380-1",
+    "ai_id": "AI0013",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A993-1",
+    "ai_id": "AI0394",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A993-1",
+    "ai_id": "AI0874",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-2",
+    "ai_id": "AI0875",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-2",
+    "ai_id": "AI0092",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-2",
+    "ai_id": "AI0102",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-2",
+    "ai_id": "AI0098",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-2",
+    "ai_id": "AI0702",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-3",
+    "ai_id": "AI0876",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-3",
+    "ai_id": "AI0877",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-3",
+    "ai_id": "AI0490",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-3",
+    "ai_id": "AI0878",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-3",
+    "ai_id": "AI0879",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-3",
+    "ai_id": "AI0102",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-3",
+    "ai_id": "AI0880",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-3",
+    "ai_id": "AI0881",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3119-1",
+    "ai_id": "AI0882",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-4",
+    "ai_id": "AI0180",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-4",
+    "ai_id": "AI0031",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-4",
+    "ai_id": "AI0883",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-4",
+    "ai_id": "AI0102",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-4",
+    "ai_id": "AI0884",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3137-1",
+    "ai_id": "AI0885",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3137-1",
+    "ai_id": "AI0886",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3137-1",
+    "ai_id": "AI0057",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3137-1",
+    "ai_id": "AI0887",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-5",
+    "ai_id": "AI0021",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-5",
+    "ai_id": "AI0888",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-5",
+    "ai_id": "AI0889",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-5",
+    "ai_id": "AI0890",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-5",
+    "ai_id": "AI0102",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-5",
+    "ai_id": "AI0138",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1745-5",
+    "ai_id": "AI0891",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2930-1",
+    "ai_id": "AI0892",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2930-1",
+    "ai_id": "AI0893",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2930-1",
+    "ai_id": "AI0894",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2930-1",
+    "ai_id": "AI0895",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2930-1",
+    "ai_id": "AI0896",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2930-1",
+    "ai_id": "AI0897",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2930-1",
+    "ai_id": "AI0898",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2930-1",
+    "ai_id": "AI0899",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2930-1",
+    "ai_id": "AI0900",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2078-2",
+    "ai_id": "AI0901",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2078-2",
+    "ai_id": "AI0623",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2078-2",
+    "ai_id": "AI0902",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3113-1",
+    "ai_id": "AI0903",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3113-1",
+    "ai_id": "AI0904",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-4391-AF",
+    "ai_id": "AI0905",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-4391-AF",
+    "ai_id": "AI0906",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-4391-AF",
+    "ai_id": "AI0907",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-4391-AF",
+    "ai_id": "AI0908",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-4391-AF",
+    "ai_id": "AI0136",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-4391-AF",
+    "ai_id": "AI0017",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-4391-AF",
+    "ai_id": "AI0909",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-4391-AF",
+    "ai_id": "AI0910",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-4391-AF",
+    "ai_id": "AI0911",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-4391-AF",
+    "ai_id": "AI0159",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3131-1",
+    "ai_id": "AI0912",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3131-1",
+    "ai_id": "AI0913",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3131-1",
+    "ai_id": "AI0914",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3131-1",
+    "ai_id": "AI0074",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3131-1",
+    "ai_id": "AI0915",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3131-1",
+    "ai_id": "AI0916",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3131-1",
+    "ai_id": "AI0917",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3131-1",
+    "ai_id": "AI0918",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3131-1",
+    "ai_id": "AI0759",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3131-1",
+    "ai_id": "AI0769",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3131-1",
+    "ai_id": "AI0919",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2418-1",
+    "ai_id": "AI0920",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2418-1",
+    "ai_id": "AI0921",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2418-1",
+    "ai_id": "AI0147",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2418-1",
+    "ai_id": "AI0922",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2205-1",
+    "ai_id": "AI0923",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2205-1",
+    "ai_id": "AI0924",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2205-1",
+    "ai_id": "AI0925",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2205-1",
+    "ai_id": "AI0926",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1734-1",
+    "ai_id": "AI0506",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1734-1",
+    "ai_id": "AI0021",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1734-1",
+    "ai_id": "AI0022",
+    "year": 2024
+  },
+  {
+    "doc_id": "RB-A691-1",
+    "ai_id": "AI0013",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A691-1",
+    "ai_id": "AI0927",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2504-1",
+    "ai_id": "AI0928",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2260-1",
+    "ai_id": "AI0929",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2260-2",
+    "ai_id": "AI0013",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2683-1",
+    "ai_id": "AI0930",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2683-1",
+    "ai_id": "AI0012",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3274-1",
+    "ai_id": "AI0931",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3274-1",
+    "ai_id": "AI0932",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3274-1",
+    "ai_id": "AI0933",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3274-1",
+    "ai_id": "AI0934",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3274-1",
+    "ai_id": "AI0935",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3274-1",
+    "ai_id": "AI0936",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3274-1",
+    "ai_id": "AI0937",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3274-1",
+    "ai_id": "AI0938",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3274-1",
+    "ai_id": "AI0939",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3274-1",
+    "ai_id": "AI0185",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3274-1",
+    "ai_id": "AI0832",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3274-1",
+    "ai_id": "AI0940",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2873-1",
+    "ai_id": "AI0941",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2873-1",
+    "ai_id": "AI0942",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2873-1",
+    "ai_id": "AI0943",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2873-1",
+    "ai_id": "AI0944",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2873-1",
+    "ai_id": "AI0074",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2873-1",
+    "ai_id": "AI0102",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2873-1",
+    "ai_id": "AI0945",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2873-1",
+    "ai_id": "AI0029",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2873-1",
+    "ai_id": "AI0107",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3187-1",
+    "ai_id": "AI0946",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3187-1",
+    "ai_id": "AI0947",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3187-1",
+    "ai_id": "AI0948",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3187-1",
+    "ai_id": "AI0949",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3187-1",
+    "ai_id": "AI0081",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3187-1",
+    "ai_id": "AI0950",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3187-1",
+    "ai_id": "AI0951",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3187-1",
+    "ai_id": "AI0952",
+    "year": 2024
+  },
+  {
+    "doc_id": "RGSD-A3187-1",
+    "ai_id": "AI0953",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3073-1",
+    "ai_id": "AI0954",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3073-1",
+    "ai_id": "AI0955",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3073-1",
+    "ai_id": "AI0956",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3073-1",
+    "ai_id": "AI0915",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3073-1",
+    "ai_id": "AI0768",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3073-1",
+    "ai_id": "AI0759",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3073-1",
+    "ai_id": "AI0769",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1574-1",
+    "ai_id": "AI0957",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2662-1",
+    "ai_id": "AI0958",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2662-1",
+    "ai_id": "AI0004",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2662-1",
+    "ai_id": "AI0031",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2662-1",
+    "ai_id": "AI0074",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2662-1",
+    "ai_id": "AI0102",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2662-1",
+    "ai_id": "AI0959",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2662-1",
+    "ai_id": "AI0029",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3089-1",
+    "ai_id": "AI0960",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3089-1",
+    "ai_id": "AI0961",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3089-1",
+    "ai_id": "AI0962",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3089-1",
+    "ai_id": "AI0963",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3089-1",
+    "ai_id": "AI0964",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3089-1",
+    "ai_id": "AI0764",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3089-1",
+    "ai_id": "AI0915",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3089-1",
+    "ai_id": "AI0965",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3089-1",
+    "ai_id": "AI0768",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3089-1",
+    "ai_id": "AI0759",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3089-1",
+    "ai_id": "AI0769",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3089-1",
+    "ai_id": "AI0966",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3089-1",
+    "ai_id": "AI0967",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3089-1",
+    "ai_id": "AI0770",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A956-21",
+    "ai_id": "AI0968",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A956-21",
+    "ai_id": "AI0969",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A956-21",
+    "ai_id": "AI0970",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A956-21",
+    "ai_id": "AI0971",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A956-21",
+    "ai_id": "AI0972",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A956-21",
+    "ai_id": "AI0973",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A956-21",
+    "ai_id": "AI0974",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A956-21",
+    "ai_id": "AI0975",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A956-21",
+    "ai_id": "AI0976",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A956-21",
+    "ai_id": "AI0770",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3115-1",
+    "ai_id": "AI0977",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A658-4",
+    "ai_id": "AI0102",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3121-1",
+    "ai_id": "AI0345",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3121-1",
+    "ai_id": "AI0740",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3121-1",
+    "ai_id": "AI0978",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3121-1",
+    "ai_id": "AI0979",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3121-1",
+    "ai_id": "AI0980",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3121-1",
+    "ai_id": "AI0693",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3121-1",
+    "ai_id": "AI0981",
+    "year": 2024
+  },
+  {
+    "doc_id": "WR-A3330-1",
+    "ai_id": "AI0391",
+    "year": 2024
+  },
+  {
+    "doc_id": "WR-A3330-1",
+    "ai_id": "AI0196",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3193-1",
+    "ai_id": "AI0982",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3193-1",
+    "ai_id": "AI0983",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3193-1",
+    "ai_id": "AI0984",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3193-1",
+    "ai_id": "AI0985",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3193-1",
+    "ai_id": "AI0986",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3193-1",
+    "ai_id": "AI0987",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3193-1",
+    "ai_id": "AI0988",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3193-1",
+    "ai_id": "AI0849",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3193-1",
+    "ai_id": "AI0989",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3193-1",
+    "ai_id": "AI0990",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3193-1",
+    "ai_id": "AI0991",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3194-1",
+    "ai_id": "AI0992",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3194-1",
+    "ai_id": "AI0993",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3194-1",
+    "ai_id": "AI0994",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3194-1",
+    "ai_id": "AI0995",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3194-1",
+    "ai_id": "AI0996",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3194-1",
+    "ai_id": "AI0997",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3194-1",
+    "ai_id": "AI0998",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3194-1",
+    "ai_id": "AI0999",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2323-1",
+    "ai_id": "AI1000",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2323-1",
+    "ai_id": "AI1001",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2323-1",
+    "ai_id": "AI0102",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2323-1",
+    "ai_id": "AI0031",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2849-1",
+    "ai_id": "AI1002",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2849-1",
+    "ai_id": "AI0021",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2849-1",
+    "ai_id": "AI1003",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2849-1",
+    "ai_id": "AI1004",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2849-1",
+    "ai_id": "AI1005",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2849-1",
+    "ai_id": "AI1006",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2849-1",
+    "ai_id": "AI1007",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2849-1",
+    "ai_id": "AI1008",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2849-1",
+    "ai_id": "AI0849",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2849-1",
+    "ai_id": "AI1009",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2849-1",
+    "ai_id": "AI1010",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A2638-1",
+    "ai_id": "AI0021",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A2638-1",
+    "ai_id": "AI0022",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1740-1",
+    "ai_id": "AI1011",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1740-1",
+    "ai_id": "AI1012",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1740-1",
+    "ai_id": "AI0887",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI0021",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI0057",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI1013",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI1014",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI0102",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI0849",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI1015",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI1016",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI1017",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI1018",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI0512",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI1019",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI1020",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI0770",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI0030",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI1021",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI1022",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI0871",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI0238",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2763-1",
+    "ai_id": "AI0029",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1722-6",
+    "ai_id": "AI1023",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1722-6",
+    "ai_id": "AI0081",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1722-6",
+    "ai_id": "AI1024",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1722-6",
+    "ai_id": "AI1025",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1722-6",
+    "ai_id": "AI0702",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2454-1",
+    "ai_id": "AI1026",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2454-1",
+    "ai_id": "AI1027",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2454-1",
+    "ai_id": "AI1028",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2454-1",
+    "ai_id": "AI0729",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2454-1",
+    "ai_id": "AI1029",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2454-1",
+    "ai_id": "AI0849",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2992-1",
+    "ai_id": "AI1030",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2992-1",
+    "ai_id": "AI1031",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2992-1",
+    "ai_id": "AI1032",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2992-1",
+    "ai_id": "AI1033",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2992-1",
+    "ai_id": "AI1034",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A1782-1",
+    "ai_id": "AI1035",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A1782-1",
+    "ai_id": "AI0764",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A1782-1",
+    "ai_id": "AI0871",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A1782-1",
+    "ai_id": "AI0849",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A1782-1",
+    "ai_id": "AI0769",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A1782-1",
+    "ai_id": "AI0770",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A2890-1",
+    "ai_id": "AI0082",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A2890-1",
+    "ai_id": "AI0055",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A2890-1",
+    "ai_id": "AI1036",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A2890-1",
+    "ai_id": "AI0021",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A2890-1",
+    "ai_id": "AI1037",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A2890-1",
+    "ai_id": "AI1038",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A2890-1",
+    "ai_id": "AI1039",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A2890-1",
+    "ai_id": "AI0435",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A2890-1",
+    "ai_id": "AI0074",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A2890-1",
+    "ai_id": "AI1040",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A2890-1",
+    "ai_id": "AI1041",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A2890-1",
+    "ai_id": "AI0849",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A2890-1",
+    "ai_id": "AI0053",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2453-1",
+    "ai_id": "AI1042",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2453-1",
+    "ai_id": "AI1043",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2453-1",
+    "ai_id": "AI1044",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3441-1",
+    "ai_id": "AI1045",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3441-1",
+    "ai_id": "AI1046",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2771-1",
+    "ai_id": "AI1047",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2771-1",
+    "ai_id": "AI1048",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3299-1",
+    "ai_id": "AI1049",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3299-1",
+    "ai_id": "AI1050",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3299-1",
+    "ai_id": "AI1051",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A2905-1",
+    "ai_id": "AI1052",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3415-1",
+    "ai_id": "AI1053",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3415-1",
+    "ai_id": "AI1054",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3415-1",
+    "ai_id": "AI1055",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3415-1",
+    "ai_id": "AI1056",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3415-1",
+    "ai_id": "AI0849",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3415-1",
+    "ai_id": "AI0189",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3415-1",
+    "ai_id": "AI0991",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3263-1",
+    "ai_id": "AI1057",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3263-1",
+    "ai_id": "AI1058",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3263-1",
+    "ai_id": "AI0031",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3295-1",
+    "ai_id": "AI0849",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3295-1",
+    "ai_id": "AI0021",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3295-1",
+    "ai_id": "AI0770",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3212-1",
+    "ai_id": "AI0508",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2139-1",
+    "ai_id": "AI1059",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3427-1",
+    "ai_id": "AI0013",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-2",
+    "ai_id": "AI1060",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-2",
+    "ai_id": "AI1061",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-2",
+    "ai_id": "AI1062",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-2",
+    "ai_id": "AI1063",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-2",
+    "ai_id": "AI1064",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-2",
+    "ai_id": "AI1065",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-2",
+    "ai_id": "AI1066",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-2",
+    "ai_id": "AI1067",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-2",
+    "ai_id": "AI1068",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-2",
+    "ai_id": "AI1069",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-2",
+    "ai_id": "AI1070",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-2",
+    "ai_id": "AI1071",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-2",
+    "ai_id": "AI1072",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1073",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1074",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1075",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI0017",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1076",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI0102",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI0849",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1077",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI0138",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1078",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1079",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1080",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1081",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1082",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI0156",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1083",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1084",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1085",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI0183",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1086",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1087",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1088",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1089",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1090",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1091",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1092",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1093",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1094",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1095",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1096",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1097",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI0052",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI0074",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1098",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1099",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2679-1",
+    "ai_id": "AI1100",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3414-1",
+    "ai_id": "AI0089",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3414-1",
+    "ai_id": "AI1101",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3414-1",
+    "ai_id": "AI0958",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3414-1",
+    "ai_id": "AI0021",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3414-1",
+    "ai_id": "AI1102",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3414-1",
+    "ai_id": "AI1103",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3414-1",
+    "ai_id": "AI1104",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3414-1",
+    "ai_id": "AI1105",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3414-1",
+    "ai_id": "AI0871",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3414-1",
+    "ai_id": "AI0849",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3414-1",
+    "ai_id": "AI0189",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3414-1",
+    "ai_id": "AI0060",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3414-1",
+    "ai_id": "AI0919",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3414-1",
+    "ai_id": "AI0832",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3304-1",
+    "ai_id": "AI1106",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3192-1",
+    "ai_id": "AI1107",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3192-1",
+    "ai_id": "AI1108",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3192-4",
+    "ai_id": "AI1109",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3192-4",
+    "ai_id": "AI1110",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3192-4",
+    "ai_id": "AI1111",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3192-4",
+    "ai_id": "AI1112",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3192-4",
+    "ai_id": "AI1113",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3192-4",
+    "ai_id": "AI1114",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3192-4",
+    "ai_id": "AI1115",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3192-4",
+    "ai_id": "AI1116",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3192-2",
+    "ai_id": "AI1109",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3192-2",
+    "ai_id": "AI1117",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3192-2",
+    "ai_id": "AI1118",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3192-2",
+    "ai_id": "AI0290",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1363-10",
+    "ai_id": "AI1119",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1363-10",
+    "ai_id": "AI1120",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1363-10",
+    "ai_id": "AI1121",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1363-10",
+    "ai_id": "AI0779",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1363-10",
+    "ai_id": "AI1122",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1363-10",
+    "ai_id": "AI1123",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3377-1",
+    "ai_id": "AI1124",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2981-1",
+    "ai_id": "AI1125",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2981-1",
+    "ai_id": "AI1126",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2981-1",
+    "ai_id": "AI1127",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2981-1",
+    "ai_id": "AI1128",
+    "year": 2024
+  },
+  {
+    "doc_id": "RB-A2981-1",
+    "ai_id": "AI0013",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3474-1",
+    "ai_id": "AI1129",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A1934-1",
+    "ai_id": "AI0021",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1934-1",
+    "ai_id": "AI0022",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1934-1",
+    "ai_id": "AI1130",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1934-1",
+    "ai_id": "AI0156",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A1934-1",
+    "ai_id": "AI1131",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3400-1",
+    "ai_id": "AI0013",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-1",
+    "ai_id": "AI1132",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-1",
+    "ai_id": "AI0055",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-1",
+    "ai_id": "AI1133",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-1",
+    "ai_id": "AI1061",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-1",
+    "ai_id": "AI1134",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-1",
+    "ai_id": "AI1135",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-1",
+    "ai_id": "AI0024",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-1",
+    "ai_id": "AI1136",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-1",
+    "ai_id": "AI1137",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-1",
+    "ai_id": "AI1071",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-1",
+    "ai_id": "AI1138",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-1",
+    "ai_id": "AI0029",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-1",
+    "ai_id": "AI0107",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2318-1",
+    "ai_id": "AI1139",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3269-2",
+    "ai_id": "AI1140",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3269-2",
+    "ai_id": "AI0221",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3207-3",
+    "ai_id": "AI1141",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3207-3",
+    "ai_id": "AI1142",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2471-1",
+    "ai_id": "AI1143",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2471-1",
+    "ai_id": "AI1144",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3215-1",
+    "ai_id": "AI0176",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3215-1",
+    "ai_id": "AI0345",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3215-1",
+    "ai_id": "AI1145",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3215-1",
+    "ai_id": "AI0021",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3215-1",
+    "ai_id": "AI0108",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3215-1",
+    "ai_id": "AI0512",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3215-1",
+    "ai_id": "AI0192",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3215-1",
+    "ai_id": "AI0208",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3215-1",
+    "ai_id": "AI1146",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3215-1",
+    "ai_id": "AI1147",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3215-1",
+    "ai_id": "AI0435",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3215-1",
+    "ai_id": "AI1148",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3215-1",
+    "ai_id": "AI0214",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3215-1",
+    "ai_id": "AI0189",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3215-1",
+    "ai_id": "AI0770",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A3215-2",
+    "ai_id": "AI0013",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "ai_id": "AI0054",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "ai_id": "AI0055",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "ai_id": "AI1149",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "ai_id": "AI1150",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "ai_id": "AI1151",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "ai_id": "AI0062",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "ai_id": "AI1152",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "ai_id": "AI1153",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "ai_id": "AI1154",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "ai_id": "AI0512",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "ai_id": "AI0031",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "ai_id": "AI1155",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "ai_id": "AI0768",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "ai_id": "AI1156",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "ai_id": "AI1157",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "ai_id": "AI1158",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "ai_id": "AI1159",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "ai_id": "AI1160",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A3674-1",
+    "ai_id": "AI1161",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2964-1",
+    "ai_id": "AI1162",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2964-1",
+    "ai_id": "AI1163",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2964-1",
+    "ai_id": "AI1164",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2182-1",
+    "ai_id": "AI1165",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2182-1",
+    "ai_id": "AI0017",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2182-1",
+    "ai_id": "AI1166",
+    "year": 2024
+  },
+  {
+    "doc_id": "PE-A2854-1",
+    "ai_id": "AI0021",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A2854-1",
+    "ai_id": "AI0022",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3261-1",
+    "ai_id": "AI1167",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3261-1",
+    "ai_id": "AI1168",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2980-1",
+    "ai_id": "AI1169",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2980-1",
+    "ai_id": "AI1170",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2980-1",
+    "ai_id": "AI1171",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2980-1",
+    "ai_id": "AI1172",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2980-1",
+    "ai_id": "AI1173",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3776-1",
+    "ai_id": "AI0013",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3540-1",
+    "ai_id": "AI1174",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3540-1",
+    "ai_id": "AI0773",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3540-1",
+    "ai_id": "AI1175",
+    "year": 2025
+  },
+  {
+    "doc_id": "WR-A3488-1",
+    "ai_id": "AI1176",
+    "year": 2025
+  },
+  {
+    "doc_id": "WR-A3488-1",
+    "ai_id": "AI1177",
+    "year": 2025
+  },
+  {
+    "doc_id": "WR-A3488-1",
+    "ai_id": "AI0568",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3450-1",
+    "ai_id": "AI0857",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3450-1",
+    "ai_id": "AI0313",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3450-1",
+    "ai_id": "AI1178",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3450-1",
+    "ai_id": "AI1179",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3450-1",
+    "ai_id": "AI1180",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI0055",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1181",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI0021",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1182",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI0797",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI0102",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1183",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI0849",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1151",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1184",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1185",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI0919",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1186",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI0162",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1187",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1188",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI0764",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI0004",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1189",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1190",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1191",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1192",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1193",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1194",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI0107",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1195",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1196",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1197",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1198",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI0085",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1199",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1200",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1201",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI0214",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1202",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI0770",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1203",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1204",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1205",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI0024",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1206",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1207",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1208",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI0074",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1209",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1210",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1211",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1212",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI0871",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1159",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1213",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI0769",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI0029",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2990-1",
+    "ai_id": "AI1214",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3572-1",
+    "ai_id": "AI1215",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3572-1",
+    "ai_id": "AI1216",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3572-1",
+    "ai_id": "AI1217",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3572-1",
+    "ai_id": "AI1218",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3572-1",
+    "ai_id": "AI1219",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3572-1",
+    "ai_id": "AI1220",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2476-1",
+    "ai_id": "AI0468",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2476-1",
+    "ai_id": "AI0021",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2476-1",
+    "ai_id": "AI0022",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2476-1",
+    "ai_id": "AI1221",
+    "year": 2024
+  },
+  {
+    "doc_id": "RR-A2966-1",
+    "ai_id": "AI1222",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2966-1",
+    "ai_id": "AI1223",
+    "year": 2025
+  },
+  {
+    "doc_id": "WR-A3797-1",
+    "ai_id": "AI1224",
+    "year": 2025
+  },
+  {
+    "doc_id": "WR-A3797-1",
+    "ai_id": "AI1225",
+    "year": 2025
+  },
+  {
+    "doc_id": "WR-A3797-1",
+    "ai_id": "AI1226",
+    "year": 2025
+  },
+  {
+    "doc_id": "WR-A3797-1",
+    "ai_id": "AI1227",
+    "year": 2025
+  },
+  {
+    "doc_id": "WR-A3797-1",
+    "ai_id": "AI1228",
+    "year": 2025
+  },
+  {
+    "doc_id": "WR-A3797-1",
+    "ai_id": "AI0849",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2562-2",
+    "ai_id": "AI0063",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2562-2",
+    "ai_id": "AI0031",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "ai_id": "AI1229",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "ai_id": "AI1230",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "ai_id": "AI1231",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "ai_id": "AI1232",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "ai_id": "AI1233",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "ai_id": "AI1234",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "ai_id": "AI1235",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "ai_id": "AI1236",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "ai_id": "AI1237",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "ai_id": "AI1238",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "ai_id": "AI1239",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "ai_id": "AI1240",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "ai_id": "AI0770",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "ai_id": "AI1241",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "ai_id": "AI1242",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "ai_id": "AI1243",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "ai_id": "AI1244",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "ai_id": "AI1245",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A134-25",
+    "ai_id": "AI1246",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2116-3",
+    "ai_id": "AI0849",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2116-3",
+    "ai_id": "AI1247",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2116-3",
+    "ai_id": "AI1248",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A1870-2",
+    "ai_id": "AI1249",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A1870-2",
+    "ai_id": "AI1250",
+    "year": 2025
+  },
+  {
+    "doc_id": "WR-A3124-1",
+    "ai_id": "AI1251",
+    "year": 2025
+  },
+  {
+    "doc_id": "WR-A3124-1",
+    "ai_id": "AI1252",
+    "year": 2025
+  },
+  {
+    "doc_id": "WR-A3124-1",
+    "ai_id": "AI1253",
+    "year": 2025
+  },
+  {
+    "doc_id": "WR-A3124-1",
+    "ai_id": "AI1254",
+    "year": 2025
+  },
+  {
+    "doc_id": "WR-A3124-1",
+    "ai_id": "AI1255",
+    "year": 2025
+  },
+  {
+    "doc_id": "WR-A3124-1",
+    "ai_id": "AI1256",
+    "year": 2025
+  },
+  {
+    "doc_id": "WR-A3124-1",
+    "ai_id": "AI0849",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3379-2",
+    "ai_id": "AI1257",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3379-2",
+    "ai_id": "AI1258",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3636-1",
+    "ai_id": "AI0013",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3436-1",
+    "ai_id": "AI0013",
+    "year": 2025
+  },
+  {
+    "doc_id": "RB-A3078-1",
+    "ai_id": "AI1259",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2853-1",
+    "ai_id": "AI1260",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2853-1",
+    "ai_id": "AI1261",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2853-1",
+    "ai_id": "AI1262",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2853-1",
+    "ai_id": "AI0849",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2853-1",
+    "ai_id": "AI1263",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2853-1",
+    "ai_id": "AI0884",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3811-1",
+    "ai_id": "AI1264",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3811-1",
+    "ai_id": "AI1265",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2997-2",
+    "ai_id": "AI0102",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2997-2",
+    "ai_id": "AI1266",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2876-1",
+    "ai_id": "AI0074",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2876-1",
+    "ai_id": "AI0102",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2876-1",
+    "ai_id": "AI0021",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2876-1",
+    "ai_id": "AI0871",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2642-4",
+    "ai_id": "AI1267",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2642-4",
+    "ai_id": "AI1268",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2642-3",
+    "ai_id": "AI0021",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2642-3",
+    "ai_id": "AI0022",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3635-1",
+    "ai_id": "AI0022",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3635-1",
+    "ai_id": "AI1269",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3635-1",
+    "ai_id": "AI0031",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3635-1",
+    "ai_id": "AI1270",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3635-1",
+    "ai_id": "AI1271",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A2952-1",
+    "ai_id": "AI1052",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3202-1",
+    "ai_id": "AI1272",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3202-1",
+    "ai_id": "AI1273",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3202-1",
+    "ai_id": "AI1274",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3202-1",
+    "ai_id": "AI1275",
+    "year": 2025
+  },
+  {
+    "doc_id": "WR-A4015-1",
+    "ai_id": "AI0102",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3485-1",
+    "ai_id": "AI0961",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3485-1",
+    "ai_id": "AI1276",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3485-1",
+    "ai_id": "AI0008",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3485-1",
+    "ai_id": "AI1277",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3485-1",
+    "ai_id": "AI0085",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3485-1",
+    "ai_id": "AI0208",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3485-1",
+    "ai_id": "AI0024",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3485-1",
+    "ai_id": "AI1278",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3485-1",
+    "ai_id": "AI1279",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3485-1",
+    "ai_id": "AI1280",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3485-1",
+    "ai_id": "AI1281",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3485-1",
+    "ai_id": "AI1282",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3485-1",
+    "ai_id": "AI1283",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3485-1",
+    "ai_id": "AI1284",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3485-1",
+    "ai_id": "AI0849",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3485-1",
+    "ai_id": "AI1285",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3691-1",
+    "ai_id": "AI1286",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3691-1",
+    "ai_id": "AI1287",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3691-1",
+    "ai_id": "AI1288",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3691-1",
+    "ai_id": "AI1289",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3691-1",
+    "ai_id": "AI1290",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3691-1",
+    "ai_id": "AI1291",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3691-1",
+    "ai_id": "AI0849",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3691-1",
+    "ai_id": "AI0702",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3691-1",
+    "ai_id": "AI1292",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3851-1",
+    "ai_id": "AI1293",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3851-1",
+    "ai_id": "AI1294",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3851-1",
+    "ai_id": "AI1295",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3851-1",
+    "ai_id": "AI1296",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3851-1",
+    "ai_id": "AI1159",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3851-1",
+    "ai_id": "AI1297",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3789-1",
+    "ai_id": "AI1298",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3789-1",
+    "ai_id": "AI1299",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3789-1",
+    "ai_id": "AI1300",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3789-1",
+    "ai_id": "AI1301",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3789-1",
+    "ai_id": "AI1302",
+    "year": 2025
+  },
+  {
+    "doc_id": "PE-A3789-1",
+    "ai_id": "AI1303",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3019-1",
+    "ai_id": "AI1304",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3019-1",
+    "ai_id": "AI1305",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3019-1",
+    "ai_id": "AI0252",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3019-1",
+    "ai_id": "AI1306",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3019-1",
+    "ai_id": "AI1307",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A1020-1",
+    "ai_id": "AI1308",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A1020-1",
+    "ai_id": "AI1309",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A1397-1",
+    "ai_id": "AI0659",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A1397-1",
+    "ai_id": "AI0660",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3025-5",
+    "ai_id": "AI1310",
+    "year": 2025
+  },
+  {
+    "doc_id": "RR-A3025-5",
+    "ai_id": "AI1311",
+    "year": 2025
+  }
+]

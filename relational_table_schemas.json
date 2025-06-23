@@ -1,0 +1,285 @@
+{
+  "document_method_author": {
+    "description": "Core relationship table linking documents, methods, and authors",
+    "purpose": "Enable queries about who uses what methods when",
+    "columns": [
+      {
+        "name": "doc_id",
+        "type": "TEXT",
+        "description": "RAND document ID (e.g., RR-1234-A)"
+      },
+      {
+        "name": "method",
+        "type": "TEXT",
+        "description": "Research method used"
+      },
+      {
+        "name": "author_name",
+        "type": "TEXT",
+        "description": "Author name"
+      },
+      {
+        "name": "author_email",
+        "type": "TEXT",
+        "description": "Author RAND email"
+      },
+      {
+        "name": "year",
+        "type": "INTEGER",
+        "description": "Publication year"
+      },
+      {
+        "name": "doc_type",
+        "type": "TEXT",
+        "description": "Document type (RR, RB, PE, etc.)"
+      },
+      {
+        "name": "division",
+        "type": "TEXT",
+        "description": "RAND division (when known)"
+      },
+      {
+        "name": "uses_ai",
+        "type": "BOOLEAN",
+        "description": "Whether document uses AI methods"
+      }
+    ],
+    "primary_key": [
+      "doc_id",
+      "method",
+      "author_name"
+    ],
+    "indexes": [
+      "year",
+      "method",
+      "author_name",
+      "division"
+    ],
+    "sample_queries": [
+      "SELECT method, COUNT(*) FROM document_method_author WHERE year = 2022 GROUP BY method",
+      "SELECT author_name, method FROM document_method_author WHERE division = 'Arroyo Center'",
+      "SELECT COUNT(DISTINCT author_name) FROM document_method_author WHERE method = 'Statistical Analysis'"
+    ]
+  },
+  "division_method_time": {
+    "description": "Aggregated view of methodology usage by division over time",
+    "purpose": "Track how different divisions adopt methodologies temporally",
+    "columns": [
+      {
+        "name": "division",
+        "type": "TEXT",
+        "description": "RAND division name"
+      },
+      {
+        "name": "method",
+        "type": "TEXT",
+        "description": "Research method"
+      },
+      {
+        "name": "year",
+        "type": "INTEGER",
+        "description": "Publication year"
+      },
+      {
+        "name": "document_count",
+        "type": "INTEGER",
+        "description": "Number of documents using this method"
+      },
+      {
+        "name": "author_count",
+        "type": "INTEGER",
+        "description": "Number of unique authors using this method"
+      },
+      {
+        "name": "ai_usage_count",
+        "type": "INTEGER",
+        "description": "Number of documents also using AI"
+      },
+      {
+        "name": "ai_percentage",
+        "type": "REAL",
+        "description": "Percentage of method usage that also uses AI"
+      }
+    ],
+    "primary_key": [
+      "division",
+      "method",
+      "year"
+    ],
+    "indexes": [
+      "division",
+      "method",
+      "year"
+    ],
+    "sample_queries": [
+      "SELECT method, SUM(document_count) FROM division_method_time WHERE division = 'National Defense Research Institute' GROUP BY method",
+      "SELECT year, AVG(ai_percentage) FROM division_method_time WHERE method = 'Statistical Analysis' GROUP BY year",
+      "SELECT division, method, year FROM division_method_time WHERE ai_percentage > 50"
+    ]
+  },
+  "ai_method_year": {
+    "description": "Track AI technology adoption across different research methods",
+    "purpose": "Analyze how AI is being integrated into traditional research methods",
+    "columns": [
+      {
+        "name": "ai_technology",
+        "type": "TEXT",
+        "description": "Specific AI technology used"
+      },
+      {
+        "name": "method",
+        "type": "TEXT",
+        "description": "Research method it's paired with"
+      },
+      {
+        "name": "year",
+        "type": "INTEGER",
+        "description": "Publication year"
+      },
+      {
+        "name": "document_count",
+        "type": "INTEGER",
+        "description": "Number of documents using this combination"
+      },
+      {
+        "name": "author_count",
+        "type": "INTEGER",
+        "description": "Number of unique authors using this combination"
+      },
+      {
+        "name": "division_count",
+        "type": "INTEGER",
+        "description": "Number of divisions using this combination"
+      }
+    ],
+    "primary_key": [
+      "ai_technology",
+      "method",
+      "year"
+    ],
+    "indexes": [
+      "ai_technology",
+      "method",
+      "year"
+    ],
+    "sample_queries": [
+      "SELECT ai_technology, SUM(document_count) FROM ai_method_year GROUP BY ai_technology ORDER BY SUM(document_count) DESC",
+      "SELECT method, year, SUM(document_count) FROM ai_method_year WHERE ai_technology = 'Machine Learning' GROUP BY method, year",
+      "SELECT year, COUNT(DISTINCT ai_technology) FROM ai_method_year GROUP BY year"
+    ]
+  },
+  "author_network": {
+    "description": "Track author collaborations and methodology expertise",
+    "purpose": "Analyze collaboration patterns and methodological expertise networks",
+    "columns": [
+      {
+        "name": "author_name",
+        "type": "TEXT",
+        "description": "Primary author name"
+      },
+      {
+        "name": "collaborator_name",
+        "type": "TEXT",
+        "description": "Collaborating author name"
+      },
+      {
+        "name": "shared_methods",
+        "type": "TEXT",
+        "description": "JSON list of methods used together"
+      },
+      {
+        "name": "collaboration_count",
+        "type": "INTEGER",
+        "description": "Number of documents co-authored"
+      },
+      {
+        "name": "year_first",
+        "type": "INTEGER",
+        "description": "First year of collaboration"
+      },
+      {
+        "name": "year_last",
+        "type": "INTEGER",
+        "description": "Most recent year of collaboration"
+      },
+      {
+        "name": "shared_divisions",
+        "type": "TEXT",
+        "description": "JSON list of divisions worked in together"
+      }
+    ],
+    "primary_key": [
+      "author_name",
+      "collaborator_name"
+    ],
+    "indexes": [
+      "author_name",
+      "collaboration_count"
+    ],
+    "sample_queries": [
+      "SELECT author_name, SUM(collaboration_count) FROM author_network GROUP BY author_name ORDER BY SUM(collaboration_count) DESC",
+      "SELECT * FROM author_network WHERE shared_methods LIKE '%Statistical Analysis%' AND collaboration_count > 1",
+      "SELECT COUNT(*) FROM author_network WHERE year_last = 2024"
+    ]
+  },
+  "method_evolution": {
+    "description": "Track how methodology usage evolves over time",
+    "purpose": "Analyze trends in methodology adoption and evolution",
+    "columns": [
+      {
+        "name": "method",
+        "type": "TEXT",
+        "description": "Research method name"
+      },
+      {
+        "name": "year",
+        "type": "INTEGER",
+        "description": "Publication year"
+      },
+      {
+        "name": "usage_count",
+        "type": "INTEGER",
+        "description": "Number of documents using this method"
+      },
+      {
+        "name": "author_count",
+        "type": "INTEGER",
+        "description": "Number of unique authors using this method"
+      },
+      {
+        "name": "division_count",
+        "type": "INTEGER",
+        "description": "Number of divisions using this method"
+      },
+      {
+        "name": "ai_combined_count",
+        "type": "INTEGER",
+        "description": "How often combined with AI"
+      },
+      {
+        "name": "avg_methods_per_doc",
+        "type": "REAL",
+        "description": "Average number of methods per document"
+      },
+      {
+        "name": "methodology_complexity",
+        "type": "TEXT",
+        "description": "Simple/Medium/Complex based on method combinations"
+      }
+    ],
+    "primary_key": [
+      "method",
+      "year"
+    ],
+    "indexes": [
+      "method",
+      "year",
+      "usage_count"
+    ],
+    "sample_queries": [
+      "SELECT method, year, usage_count FROM method_evolution WHERE method = 'Statistical Analysis' ORDER BY year",
+      "SELECT year, SUM(ai_combined_count) / SUM(usage_count) as ai_adoption_rate FROM method_evolution GROUP BY year",
+      "SELECT method FROM method_evolution WHERE year = 2024 ORDER BY usage_count DESC LIMIT 10"
+    ]
+  }
+}

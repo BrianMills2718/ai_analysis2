@@ -269,13 +269,13 @@
             <h2>📈 AI Adoption Growth <span class="help-icon">?<span class="help-tooltip">Tracks AI technology adoption across RAND research from 2020-2025. AI technologies were identified through content analysis of full document text.</span></span></h2>
             <div class="chart-container">
                 <div class="chart-card">
-                    <h3>AI Usage Growth Over Time</h3>
+                    <h3>AI Usage Growth Over Time <span class="help-icon">?<span class="help-tooltip">Shows the percentage of RAND documents that mention AI technologies each year from 2020-2025. Note the significant growth trend especially in 2024-2025.</span></span></h3>
                     <div class="chart-wrapper">
                         <canvas id="aiGrowthChart"></canvas>
                     </div>
                 </div>
                 <div class="chart-card">
-                    <h3>AI vs Non-AI Research Volume</h3>
+                    <h3>AI vs Non-AI Research Volume <span class="help-icon">?<span class="help-tooltip">Compares the absolute number of documents with AI technologies (red) versus those without (darker red) by year. Shows both adoption trends and total research volume.</span></span></h3>
                     <div class="chart-wrapper">
                         <canvas id="aiVolumeChart"></canvas>
                     </div>
@@ -344,13 +344,13 @@
             <h2>🧠 AI Technologies Used <span class="help-icon">?<span class="help-tooltip">Analysis of specific AI technologies mentioned in RAND research. Shows which technologies are most commonly used and how they're growing over time.</span></span></h2>
             <div class="chart-container">
                 <div class="chart-card">
-                    <h3>Top AI Technologies</h3>
+                    <h3>Top AI Technologies <span class="help-icon">?<span class="help-tooltip">Most frequently mentioned AI technologies in RAND research. Machine Learning and NLP lead, with Large Language Models showing rapid recent growth.</span></span></h3>
                     <div class="chart-wrapper">
                         <canvas id="aiTechnologiesChart"></canvas>
                     </div>
                 </div>
                 <div class="chart-card">
-                    <h3>AI Technology Categories</h3>
+                    <h3>AI Technology Categories <span class="help-icon">?<span class="help-tooltip">Breakdown of AI technologies by major category. Shows the distribution of focus areas in RAND's AI research portfolio.</span></span></h3>
                     <div class="chart-wrapper">
                         <canvas id="aiCategoriesChart"></canvas>
                     </div>
@@ -461,13 +461,13 @@
             <h2>🏢 AI Adoption by Organization <span class="help-icon">?<span class="help-tooltip">Shows which RAND divisions and units are leading in AI adoption. Based on AI technology usage in their published research.</span></span></h2>
             <div class="chart-container">
                 <div class="chart-card">
-                    <h3>AI Usage Rate by RAND Unit</h3>
+                    <h3>AI Usage Rate by RAND Unit <span class="help-icon">?<span class="help-tooltip">Percentage of each organizational unit's research that incorporates AI technologies. Project AIR FORCE and HSOAC lead in AI adoption rates.</span></span></h3>
                     <div class="chart-wrapper">
                         <canvas id="aiByOrgChart"></canvas>
                     </div>
                 </div>
                 <div class="chart-card">
-                    <h3>AI Documents by Unit</h3>
+                    <h3>AI Documents by Unit <span class="help-icon">?<span class="help-tooltip">Absolute number of AI-enhanced documents produced by each RAND unit. Shows which divisions are most active in AI research by volume.</span></span></h3>
                     <div class="chart-wrapper">
                         <canvas id="aiVolumeByOrgChart"></canvas>
                     </div>
@@ -536,13 +536,13 @@
             <h2>👑 AI Research Leaders <span class="help-icon">?<span class="help-tooltip">Identifies researchers with the highest AI technology usage in their publications. Shows emerging leaders in AI-enhanced research at RAND.</span></span></h2>
             <div class="chart-container">
                 <div class="chart-card">
-                    <h3>Top AI Researchers</h3>
+                    <h3>Top AI Researchers <span class="help-icon">?<span class="help-tooltip">Researchers with the most AI technology usage in their publications. These are the emerging leaders in AI-enhanced research at RAND.</span></span></h3>
                     <div class="chart-wrapper">
                         <canvas id="aiLeadersChart"></canvas>
                     </div>
                 </div>
                 <div class="chart-card">
-                    <h3>AI Specialization Areas</h3>
+                    <h3>AI Specialization Areas <span class="help-icon">?<span class="help-tooltip">Primary application domains where RAND researchers are applying AI technologies. Healthcare and Defense lead in AI integration.</span></span></h3>
                     <div class="chart-wrapper">
                         <canvas id="aiSpecializationChart"></canvas>
                     </div>
@@ -633,7 +633,7 @@
                     label: 'AI Usage Rate (%)',
                     data: [12.5, 19.1, 16.8, 15.7, 22.6, 28.9],
                     borderColor: chartColors.primary,
-                    backgroundColor: chartColors.primary + '20',
+                    backgroundColor: chartColors.primary + '33',
                     fill: true,
                     tension: 0.4
                 }]
